@@ -1,3 +1,4 @@
+baseurl: /
 collections:
   content:
     output: true
