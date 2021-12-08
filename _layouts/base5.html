@@ -29,7 +29,7 @@
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link {% if page.name=='join' %}active{%- endif -%}" href="{{ '/content/join.html' | relative_url }}">
+                                    {% include pages.md name=page.name active='join' %}
                                     <span data-feather="user-plus"></span>
                                     Join EICUG
                                     </a>

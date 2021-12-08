@@ -1,0 +1,1 @@
+                                    <a class="nav-link {% if page.name=='join' %}active{%- endif -%}" href="{{ '/content/join.html' | relative_url }}">
