@@ -23,13 +23,13 @@
                         <div class="position-sticky pt-3">
                             <ul class="nav flex-column">
                                 <li class="nav-item">
-                                    <a class="nav-link active" aria-current="page" href="{{ '/' | relative_url }}">
+                                    <a class="nav-link"  href="{{ '/' | relative_url }}">
                                     <span data-feather="home"></span>
                                     Home
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="{{ '/content/join.html' | relative_url }}">
+                                    <a class="nav-link {% if page.name=='join' %}active{%- endif -%}" href="{{ '/content/join.html' | relative_url }}">
                                     <span data-feather="user-plus"></span>
                                     Join EICUG
                                     </a>
@@ -65,8 +65,8 @@
                     <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
                         <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
                             <div class="text">
-                          {{ content }}
-                          </div>
+                                {{ content }}
+                            </div>
                         </div>
                         </main>
             </div>

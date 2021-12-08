@@ -1,7 +1,7 @@
 ---
 title: "EICUG"
 layout: base5
-name: index
+name: index!
 ---
 
 

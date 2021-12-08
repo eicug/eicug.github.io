@@ -3,6 +3,7 @@ title: "Join EICUG"
 layout: base5
 name: join
 ---
+{% assign site.current='!' %}
 
 # Become a EICUG Member
 
