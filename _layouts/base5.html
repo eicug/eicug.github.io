@@ -23,20 +23,55 @@
                         <div class="position-sticky pt-3">
                             <ul class="nav flex-column">
                                 <li class="nav-item">
-                                    <a class="nav-link active" aria-current="page" href="#">
+                                    <a class="nav-link active" aria-current="page" href="{{ '/' | relative_url }}">
                                     <span data-feather="home"></span>
-                                    Dashboard
+                                    Home
                                     </a>
                                 </li>
                                 <li class="nav-item">
+                                    <a class="nav-link" href="{{ '/content/join.html' | relative_url }}">
+                                    <span data-feather="user-plus"></span>
+                                    Join EICUG
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/">
+                                    <span data-feather="globe"></span>
+                                    Organization
+                                    </a>
+                                </li>                                
+                                <li class="nav-item">
                                     <a class="nav-link" href="#">
-                                    <span data-feather="file"></span>
-                                    Orders
+                                    <span data-feather="target"></span>
+                                    Science
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="https://calendar.google.com/calendar/u/0/r?cid=ZWljdWcub3JnXzE5MDNoOGRwc3NlanQyZ2lndDI4cGlvZmU0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20" target="_blank">
+                                    <span data-feather="calendar"></span>
+                                    EICUG Calendar&nbsp;<span data-feather="external-link"></span>
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="https://eic.github.io/" target="_blank">
+                                    <span data-feather="cpu"></span>
+                                    Software&nbsp;<span data-feather="external-link"></span>
                                     </a>
                                 </li>
                             </ul>
                         </div>
                     </nav>
+
+                    <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
+                        <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+                            <div class="text">
+                          {{ content }}
+                          </div>
+                        </div>
+                        </main>
+            </div>
+        
+
             </div>
         </div>
 
