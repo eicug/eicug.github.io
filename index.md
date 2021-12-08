@@ -5,7 +5,7 @@ name: index!
 ---
 
 
-# Welcome
+## Welcome
 
 This is the home page of the Electron-Ion Collider User Group (EICUG).
 

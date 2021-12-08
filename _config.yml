@@ -5,6 +5,8 @@ collections:
     output: true
     permalink: /content/:title.html
 
+HR: '<hr style="height:10px;border:none;color:#999;background-color:#999;" />'
+
 exclude:
   - .sass-cache/
   - .jekyll-cache/

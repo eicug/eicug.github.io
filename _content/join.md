@@ -5,7 +5,7 @@ name: join
 ---
 {% assign site.current='!' %}
 
-# Become a EICUG Member
+## Become a EICUG Member
 
 For interested physicists who would like to become new members of the Electron-Ion Collider User Group,
 please check the
@@ -19,11 +19,16 @@ representative and ask them to register you with the details listed below:
 * Area (indicate Experiment, Theory, or Accelerator)
 * Level (indicate Senior Scientist, Postdoctoral Scientist, PhD Student, or Undergraduate Student)
 
+---
+
+## Registering an Institution
+
 If you are the **first member registering from your institution**, please send an email
-to <mailto:register@register@eicug.org>, provide the details below (in addition to your personal details),
-and indicate who would be the **Institutional Board representative**. The Institutional Board representative
-should be a faculty or staff member, and will be required to update the institution’s EICUG membership list
-annually to capture any changes.
+to <mailto:register@register@eicug.org>, provide the details below (in addition to your
+personal details),
+and indicate who would be the **Institutional Board representative**. The Institutional
+Board representative should be a faculty or staff member, and will be required to update
+the institution’s EICUG membership list annually to capture any changes.
 
 * Full name of the Institution
 * *[optional]* Acronym or a common name of the Institution
@@ -31,5 +36,9 @@ annually to capture any changes.
 * First name and Last Name of the Institutional Board representative for this Institution
 * *[optional]* Web site
 * *[optional]* Latitude/Longitude to be displayed at EICUG's world map of Institutions
+
+---
+
+## Contact
 
 For any questions related to the EICUG membership list, including requests for changes by the Institutional Board representatives, please send an email to <mailto:register@eicug.org>.
