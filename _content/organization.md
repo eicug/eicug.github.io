@@ -157,8 +157,8 @@ Conveners:
 The theory group has a
 [Wiki page](https://wiki.bnl.gov/eicug/index.php/Theory){:target="_blank"}.
 Conveners:
-* Wim Cosyn (FIU, USA) - wcosyn@fiu.edu
-* Anna Stasto (PSU, USA) - ams52@psu.edu
-* Alessandro Bacchetta (Univ. and INFN - Pavia, Italy) - alessandro.bacchetta@unipv.it
-* Felix Ringer (YITP, Stony Brook, USA) - felix.ringer@stonybrook.edu
+* Wim Cosyn (FIU, USA) - <wcosyn@fiu.edu>
+* Anna Stasto (PSU, USA) - <ams52@psu.edu>
+* Alessandro Bacchetta (Univ. and INFN - Pavia, Italy) - <alessandro.bacchetta@unipv.it>
+* Felix Ringer (YITP, Stony Brook, USA) - <felix.ringer@stonybrook.edu>
 
