@@ -31,11 +31,11 @@ Board representative should be a faculty or staff member, and will be required t
 the institution’s EICUG membership list annually to capture any changes.
 
 * Full name of the Institution
-* *[optional]* Acronym or a common name of the Institution
+* *[optional]* &nbsp;Acronym or a common name of the Institution
 * Full address of the Institution: Country, Zip Code, State/Region, Street address, etc.
 * First name and Last Name of the Institutional Board representative for this Institution
-* *[optional]* Web site
-* *[optional]* Latitude/Longitude to be displayed at EICUG's world map of Institutions
+* *[optional]* &nbsp;Web site
+* *[optional]* &nbsp;Latitude/Longitude to be displayed at EICUG's world map of Institutions
 
 ---
 

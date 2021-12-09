@@ -36,7 +36,7 @@ blockquote p {
     user-select: none;
 }
 
-h2, h3, h4, h5, hr {
+h2, h3, h4, h5, hr, em {
    color:coral;
 }
 
