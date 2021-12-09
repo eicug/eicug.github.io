@@ -19,7 +19,7 @@ name: science
 
 ### Proton Structure
 
-<div class="row" style="width:90%">
+<div class="row">
   <div class="col-3"><img src="{{ '/assets/images/site/nucleon.png' | relative_url }}"></div>
     <div class="col-1">&nbsp;</div>
   <div class="col-8">
@@ -33,7 +33,7 @@ The purpose of the Electron Ion Collider (EIC) is to answer these questions and 
 
 ### Proton Mass
 
-<div class="row" style="width:90%">
+<div class="row">
   <div class="col-3"><img src="{{ '/assets/images/site/Nmass3.png' | relative_url }}"></div>
     <div class="col-1">&nbsp;</div>
   <div class="col-8">
@@ -46,7 +46,7 @@ However, the Higgs mechanism accounts for only almost 1% of the mass of proton. 
 
 ### Proton Spin
 
-<div class="row" style="width:90%">
+<div class="row">
   <div class="col-3"><img src="{{ '/assets/images/site/spin-budget.png' | relative_url }}"></div>
     <div class="col-1">&nbsp;</div>
   <div class="col-8">
@@ -62,7 +62,7 @@ The EIC will address these fundamental questions by forming the first ever detai
 
 ---
 
-<div class="row" style="width:90%">
+<div class="row">
   <div class="col-3"><img src="{{ '/assets/images/site/gluons.jpg' | relative_url }}"></div>
     <div class="col-1">&nbsp;</div>
   <div class="col-8">
@@ -72,7 +72,7 @@ The EIC will address these fundamental questions by forming the first ever detai
 
 ---
 
-<div class="row" style="width:90%">
+<div class="row">
   <div class="col-3"><img src="{{ '/assets/images/site/annihilation.png' | relative_url }}"></div>
     <div class="col-1">&nbsp;</div>
   <div class="col-8">
@@ -82,7 +82,7 @@ Gluons carry the energy of strong interactions. Because of Einstein's famous equ
 
 ---
 
-<div class="row" style="width:90%">
+<div class="row">
   <div class="col-3"><img width="224px" src="{{ '/assets/images/site/ActionAPE5LQanimXs30small_0.gif' | relative_url }}"></div>
   <div class="col-1">&nbsp;</div>
   <div class="col-8">
@@ -98,7 +98,7 @@ Because of the Einstein's relation, we are essentially made of energy, while onl
 
 ---
 
-<div class="row" style="width:90%">
+<div class="row">
   <div class="col-3"><img src="{{ '/assets/images/site/3D_view.png' | relative_url }}"></div>
     <div class="col-1">&nbsp;</div>
   <div class="col-8">
@@ -106,12 +106,12 @@ Because of the Einstein's relation, we are essentially made of energy, while onl
   </div>
 </div>
 <br/>
-<div style="width:90%">
+<div>
 By providing detailed spatial and momentum 3D maps of parton dynamics, the EIC will be able to display how the mass is distributed inside the proton, pinpointing the different contributions coming from quarks, gluons, and antiquark-quark pairs popping up from the vacuum. 
 </div>
 
 <br/>
-<div class="row" style="width:90%">
+<div class="row">
   <div class="col-3"><img src="{{ '/assets/images/site/spin-proton.png' | relative_url }}"></div>
     <div class="col-1">&nbsp;</div>
   <div class="col-8">
@@ -126,7 +126,7 @@ The EIC will for the first time collide electrons and protons with precision con
 
 ---
 
-<div class="row" style="width:90%">
+<div class="row">
   <div class="col-3"><img src="{{ '/assets/images/site/nonlineargluon.png' | relative_url }}"></div>
     <div class="col-1">&nbsp;</div>
   <div class="col-8">
@@ -136,7 +136,7 @@ In Quantum Electrodynamics (QED), electrically charged particles interact by exc
 
 ---
 
-<div class="row" style="width:90%">
+<div class="row">
   <div class="col-3"><img src="{{ '/assets/images/site/universalsaturation.png' | relative_url }}"></div>
     <div class="col-1">&nbsp;</div>
   <div class="col-8">
@@ -153,7 +153,7 @@ This nonlinear regime describes a new state of matter at very high density and c
 
 ---
 
-<div class="row" style="width:90%">
+<div class="row">
   <div class="col-3"><img src="{{ '/assets/images/site/neutronstar.png' | relative_url }}"></div>
     <div class="col-1">&nbsp;</div>
   <div class="col-8">
@@ -164,7 +164,7 @@ and under enormous gravitational pressure.
   </div>
 </div>
 <br/>
-<div style="width:90%">
+<div>
 Just like earthly minerals, there are many possible phases of quark-gluon matter at high density and pressure.
 Accurately predicting these phases of the nuclear matter at the heart of neutron stars requires advances in our understanding of the quark-gluon structure of nuclear forces. Advances in QCD theory and experiments with the EIC will go hand in hand with new astrophysical observations. This year marked the first ever observation of the merger of two neutron stars. This extraordinary event was identified by the gravitational wave signals recorded in the LIGO and VIRGO instruments. The detailed gravitational-wave and gamma-ray signals from neutron star mergers depends upon the nuclear reactions happening over a wide range of nuclear densities. 
 </div>

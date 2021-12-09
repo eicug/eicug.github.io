@@ -36,6 +36,22 @@ blockquote p {
     user-select: none;
 }
 
+h2, h3, h4, h5, hr {
+   color:coral;
+}
+
+ul {
+    list-style: none;
+  }
+
+  ul li::before {
+    content: "\2022";
+    color: coral;
+    font-weight: bold;
+    display: inline-block; 
+    width: 1em;
+    margin-left: -1em;
+  }
 
 /* ---------------------------- */
 /* TABLE */

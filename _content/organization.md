@@ -14,11 +14,13 @@ name: organization
 {{ site.HR }}
 
 ### Purpose
+
 The Electron-Ion Collider User Group (EICUG) is an international affiliation of scientists dedicated to developing and promoting the scientific, technological, and educational goals and motivations for a new high energy Electron-Ion Collider. A detailed scientific description can be found in the 2014 edition of the White Paper, as well as the 2015 U.S. Nuclear Science Advisory Committee Long Range Plan "Reaching for the Horizon".
 
 {{ site.HR }}
 
 ### Membership, Phone Book and Organization
+
 Membership in the EICUG is open to all scientists actively engaged in Electron-Ion Collider related science, detector R&D, simulations and design. Information regarding joining the EICUG is available at the [dedicated page]({{ '/content/join.html' | relative_url }}) on this site. The EICUG maintains its
 [membership database](https://phonebook.sdcc.bnl.gov/eic/client){:target="_blank"},
 a.k.a. the "phone book".
@@ -27,6 +29,7 @@ The EICUG organization is defined by the [EICUG Charter]({{ '/assets/documents/E
 {{ site.HR }}
 
 ### Governance
+
 The EICUG is governed by the Institutional Board (IB) and the Steering Committee (SC). The IB is comprised of one delegate from each member institution. For a list of IB members, please select the Institutional Board menu tab on the Phone Book page. The IB appoints a Nominating Committee. With the exception of two members of the SC-appointed by Jefferson Lab and Brookhaven National Laboratory, the IB elects the Steering Committee.
 
 ---
@@ -58,7 +61,9 @@ The EICUG is governed by the Institutional Board (IB) and the Steering Committee
 ---
 
 #### Elections and Nominating Committee
+
 *Term: September 2021 - August 2022​*
+
 * Chair: Douglas Higinbotham (JLab, USA)
 * Vice-Chair: not yet available
 * Members

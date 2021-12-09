@@ -5,7 +5,7 @@ collections:
     output: true
     permalink: /content/:title.html
 
-HR: '<hr style="height:10px;border:none;color:#999;background-color:#999;" />'
+HR: '<hr style="height:8px;border:none;color:#999;background-color:coral;" />'
 
 exclude:
   - .sass-cache/
