@@ -15,26 +15,17 @@ body {
 .sidebar {
   position: fixed;
   top: 0;
-  /* rtl:raw:
-  right: 0;
-  */
   bottom: 0;
-  /* rtl:remove */
   left: 0;
   z-index: 100; /* Behind the navbar */
-  padding: 48px 0 0; /* Height of navbar */
+  padding: 0;
   box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
 }
 
-@media (max-width: 767.98px) {
-  .sidebar {
-    top: 5rem;
-  }
-}
-
 .sidebar-sticky {
-  position: relative;
-  top: 0;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 48px; /* Height of navbar */
   height: calc(100vh - 48px);
   padding-top: .5rem;
   overflow-x: hidden;
@@ -48,11 +39,11 @@ body {
 
 .sidebar .nav-link .feather {
   margin-right: 4px;
-  color: #727272;
+  color: #999;
 }
 
 .sidebar .nav-link.active {
-  color: #2470dc;
+  color: #007bff;
 }
 
 .sidebar .nav-link:hover .feather,
@@ -77,11 +68,6 @@ body {
   box-shadow: inset -1px 0 0 rgba(0, 0, 0, .25);
 }
 
-.navbar .navbar-toggler {
-  top: .25rem;
-  right: 1rem;
-}
-
 .navbar .form-control {
   padding: .75rem 1rem;
   border-width: 0;
@@ -98,3 +84,10 @@ body {
   border-color: transparent;
   box-shadow: 0 0 0 3px rgba(255, 255, 255, .25);
 }
+
+/*
+ * Utilities
+ */
+
+.border-top { border-top: 1px solid #e5e5e5; }
+.border-bottom { border-bottom: 1px solid #e5e5e5; }
