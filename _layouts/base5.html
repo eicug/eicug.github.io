@@ -3,9 +3,8 @@
     {% include head5.html %}
     <body>
 
-
         <header class="navbar navbar-light sticky-top bg-light flex-md-nowrap p-0 shadow">
-            <a class="navbar-brand col-md-3 col-lg-2 me-0 px-3" href="{{ '/' | relative_url }}" style="font-size: smaller;"><img src="{{ '/assets/images/logo/EIC-logo_1.png' | relative_url }}" height="30">&nbsp;&nbsp;&nbsp;&nbsp;EIC User Group</a>
+            <a class="navbar-brand col-md-3 col-lg-2 me-0 px-3" href="{{ '/' | relative_url }}" style="background-color: coral;"><img src="{{ '/assets/images/logo/EIC-logo_2.png' | relative_url }}" height="30">&nbsp;&nbsp;&nbsp;&nbsp;EIC User Group</a>
             <button class="navbar-toggler position-absolute d-md-none collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#sidebarMenu" aria-controls="sidebarMenu" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
@@ -19,43 +18,40 @@
        
         <div class="container-fluid">
             <div class="row">
+                
                     <nav id="sidebarMenu" class="col-md-3 col-lg-2 d-md-block bg-light sidebar collapse">
                         <div class="position-sticky pt-3">
                             <ul class="nav flex-column">
                                 <li class="nav-item">
-                                    <a class="nav-link"  href="{{ '/' | relative_url }}">
-                                    <span data-feather="home"></span>
+                                    {% include pages.md name=page.name active='index' icon='home' %}
                                     Home
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    {% include pages.md name=page.name active='join' %}
-                                    <span data-feather="user-plus"></span>
+                                    {% include pages.md name=page.name active='join' icon='user-plus' %}
                                     Join EICUG
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    {% include pages.md name=page.name active='organization' %}
-                                    <span data-feather="globe"></span>
+                                    {% include pages.md name=page.name active='organization' icon='globe' %}
                                     Organization
                                     </a>
                                 </li>                                
                                 <li class="nav-item">
-                                    {% include pages.md name=page.name active='science' %}
-                                    <span data-feather="target"></span>
+                                    {% include pages.md name=page.name active='science' icon='target' %}
                                     Science
                                     </a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" href="https://calendar.google.com/calendar/embed?src=eicugadmin%40eicug.org&ctz=America%2FNew_York" target="_blank">
-                                    <span data-feather="calendar"></span>
-                                    EICUG Calendar&nbsp;<span data-feather="external-link"></span>
+                                    <span data-feather="calendar" style="color:coral" ></span>
+                                    EICUG Calendar&nbsp;<span data-feather="external-link" style="color:coral" ></span>
                                     </a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" href="https://eic.github.io/" target="_blank">
-                                    <span data-feather="cpu"></span>
-                                    Software&nbsp;<span data-feather="external-link"></span>
+                                    <span data-feather="cpu" style="color:coral"></span>
+                                    Software&nbsp;<span data-feather="external-link" style="color:coral"></span>
                                     </a>
                                 </li>
                             </ul>

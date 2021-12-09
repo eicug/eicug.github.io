@@ -1,1 +1,5 @@
-                                    <a class="nav-link {% if page.name=='join' %}active{%- endif -%}" href="{{ '/content/join.html' | relative_url }}">
+<a class="nav-link {% if page.name=='join' %}active{%- endif -%}" href="{{ '/content/join.html' | relative_url }}">
+
+
+<a class="nav-link"  href="{{ '/' | relative_url }}">
+<span style="color:coral" data-feather="home"></span>
