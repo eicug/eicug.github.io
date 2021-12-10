@@ -15,7 +15,13 @@ name: organization
 
 ### Purpose
 
-The Electron-Ion Collider User Group (EICUG) is an international affiliation of scientists dedicated to developing and promoting the scientific, technological, and educational goals and motivations for a new high energy Electron-Ion Collider. A detailed scientific description can be found in the 2014 edition of the White Paper, as well as the 2015 U.S. Nuclear Science Advisory Committee Long Range Plan "Reaching for the Horizon".
+The Electron-Ion Collider User Group (EICUG) is an international affiliation of scientists dedicated to developing and promoting the scientific, technological, and educational goals and motivations for a new high energy
+[Electron-Ion Collider](https://www.bnl.gov/eic/){:target="_blank"}.
+
+A detailed scientific description can be found in the
+[2014 edition of the White Paper](https://arxiv.org/abs/1212.1701){:target="_blank"},
+as well as the 2015 U.S. Nuclear Science Advisory Committee
+[Long Range Plan](https://www.osti.gov/servlets/purl/1296778){:target="_blank"} "Reaching for the Horizon".
 
 {{ site.HR }}
 
@@ -167,3 +173,18 @@ Conveners:
 * Alessandro Bacchetta (Univ. and INFN - Pavia, Italy) - <alessandro.bacchetta@unipv.it>
 * Felix Ringer (YITP, Stony Brook, USA) - <felix.ringer@stonybrook.edu>
 
+---
+
+### Collaborative Tools
+
+The EICUG community currently supports and is using the following collaborative tools:
+* This website
+* Google Groups (mailing lists)
+* Google Calendar
+* Wiki
+* Dropbox
+* GitHub Pages (for software code management and documentation)
+
+A document management system based on Zenodo is in the works and will be announced when ready.
+If you have questions or need assistance with the EIC Collaborative Tools please contact
+the coordinator: potekhin_at_bnl.gov.

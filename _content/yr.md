@@ -13,6 +13,12 @@ name: yr
 
 {{ site.HR }}
 
+### The Document
+
+The Yellow Report is available as [e-print](https://arxiv.org/abs/2103.05419){:target="_blank"}.
+
+---
+
 ### The Initiative
 
 ---
