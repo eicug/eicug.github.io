@@ -11,3 +11,14 @@
 rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
 crossorigin="anonymous" -->
 <img src="https://icongr.am/feather/home.svg?size=16&color=df7a4e"> 
+
+TOP BAR RIGHT -
+            <!-- input class="form-control form-control-dark w-100" type="text" placeholder="Search" aria-label="Search">
+            <div class="navbar-nav">
+              <div class="nav-item text-nowrap">
+                <a class="nav-link px-3" href="#">Sign out</a>
+              </div>
+            </div -->
+
+
+style="height: 50%; width: 50%;background: radial-gradient(transparent 10%, white 70%);"

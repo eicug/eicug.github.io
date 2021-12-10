@@ -5,11 +5,14 @@ name: index
 ---
 
 <br/>
-<div align="center"   id="grad1">
-{% include siteimage.md file='ion-collision-xparent.png' width='80%' %}
+<div align="center">
+<img src="{{ '/assets/images/site/ion-collision-xparent.png' | relative_url }}" id="grad1" width="80%">
 </div>
+
+<!-- br/ -->
 <br/>
 
+---
 
 ## Welcome
 

@@ -64,6 +64,7 @@ ul {
     height: 100%;
     background-color: white; /* For browsers that do not support gradients */
     background-image: linear-gradient(to top, white , rgba(255, 127, 80, 0.466), white);
+    /* background-image:  radial-gradient(yellow 14%, coral 20%, transparent 65%); */
     }
 
 /* ---------------------------- */
