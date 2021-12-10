@@ -4,18 +4,19 @@ layout: base5
 name: index
 ---
 
-## Welcome
 
+<br/>
+<div align="center">
+{% include siteimage.md file='ion-collision-xparent.png' width='80%' %}
+</div>
+<br/>
+
+
+## Welcome
 
 This is the home page of the Electron-Ion Collider User Group *(EICUG)*.
 The EICUG consists of more than 1200 physicists from over 250 laboratories
-and universities from around the world (see the map of the EICUG member
-institutions below):
-
-<div align="center">
-{% include siteimage.md file='map20211209.png' width='80%' %}
-</div>
-<br/>
+and universities from around the world.
 
 EICUG members are working together to realize a powerful new facility in the
 United States with the aim of studying the particles, gluons, which
@@ -31,5 +32,4 @@ how the matter we are all made of is bound together.
 
 
 
-<div align="center"><img src="{{ '/assets/images/site/49899164917_eed03df6ee_w.jpg' | relative_url }}">
-</div>
+<!-- div align="center"><img src="{{ '/assets/images/site/49899164917_eed03df6ee_w.jpg' | relative_url }}"> </div -->

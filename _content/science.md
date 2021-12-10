@@ -20,7 +20,7 @@ name: science
 ### Proton Structure
 
 <div class="row">
-  <div class="col-3">{% include siteimage.md file='nucleon.png' %}</div>
+  <div class="col-3">{% include siteimage.md file='CCMayJun19_Proton_frontis.jpg' width="224" %}</div>
     <div class="col-1">&nbsp;</div>
   <div class="col-8">
 The proton, the most abundant element in the visible universe: how does its inside look like? How do its macroscopic properties (mass, spin, . . .) arise from the dynamics of its constituents? 
@@ -47,7 +47,7 @@ However, the Higgs mechanism accounts for only almost 1% of the mass of proton. 
 ### Proton Spin
 
 <div class="row">
-  <div class="col-3">{% include siteimage.md file='spin-budget.png' %}</div>
+  <div class="col-3">{% include siteimage.md file='49899164917_eed03df6ee_w.jpg' width="224" %}</div>
     <div class="col-1">&nbsp;</div>
   <div class="col-8">
 Similarly, nowadays we know that the spin of the quarks accounts for only one-third of the spin of the proton. We have a largely inaccurate knowledge of the contribution from gluons. And we don't know yet how to unambiguously extract from experimental data information on the orbital motion of partons. 

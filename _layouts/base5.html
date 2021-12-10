@@ -5,104 +5,30 @@
 
         <header class="navbar navbar-light sticky-top bg-light flex-md-nowrap p-0 shadow" style="color:coral;">
             <a class="navbar-brand col-md-3 col-lg-2 me-0 px-3" href="{{ '/' | relative_url }}" style="background-color: coral;"><img src="{{ '/assets/images/logo/EIC-logo_2.png' | relative_url }}" height="31">&nbsp;&nbsp;&nbsp;&nbsp;EIC User Group</a>
-            <div   class="navbar-nav float-left px-4">
+            <div class="navbar-nav float-left px-5">
                 <h2>{{ page.title }}</h2>
-                </div>
+            </div>
             <button class="navbar-toggler position-absolute d-md-none collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#sidebarMenu" aria-controls="sidebarMenu" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
-
-            <!-- input class="form-control form-control-dark w-100" type="text" placeholder="Search" aria-label="Search">
-            <div class="navbar-nav">
-              <div class="nav-item text-nowrap">
-                <a class="nav-link px-3" href="#">Sign out</a>
-              </div>
-            </div -->
-          </header>
+            <!-- see "TOP BAR RIGHT" in attic.txt for previous content -->
+        </header>
        
         <div class="container-fluid">
             <div class="row">
-                
-                    <nav id="sidebarMenu" class="col-md-3 col-lg-2 d-md-block bg-light sidebar collapse">
-                        <div class="position-sticky pt-3">
-                            <ul class="nav flex-column">
-                                <li class="nav-item">
-                                    {% include pages.md name=page.name active='index' icon='home' %}
-                                    Home
-                                    </a>
-                                </li>
-                                <li class="nav-item">
-                                    {% include pages.md name=page.name active='join' icon='user-plus' %}
-                                    Join EICUG
-                                    </a>
-                                </li>
-                                <li class="nav-item">
-                                    {% include pages.md name=page.name active='organization' icon='globe' %}
-                                    Organization
-                                    </a>
-                                </li>                                
-                                <li class="nav-item">
-                                    {% include pages.md name=page.name active='science' icon='target' %}
-                                    Science
-                                    </a>
-                                </li>
-                                <li class="nav-item">
-                                    {% include pages.md name=page.name active='conferences' icon='mic' %}
-                                    Conferences
-                                    </a>
-                                </li>
-
-                                <li class="nav-item">
-                                    {% include pages.md name=page.name active='yr' icon='book-open' %}
-                                    Yellow Report
-                                    </a>
-                                </li>
-
-
-                                <li class="nav-item">
-                                    <a class="nav-link" href="https://calendar.google.com/calendar/embed?src=eicugadmin%40eicug.org&ctz=America%2FNew_York" target="_blank">
-                                    <span data-feather="calendar" style="color:coral" ></span>
-                                    EICUG Calendar&nbsp;<span data-feather="external-link" style="color:coral" ></span>
-                                    </a>
-                                </li>
-
-                                <!-- li class="nav-item">
-                                    <a class="nav-link" href="https://eic.github.io/" target="_blank">
-                                    <span data-feather="cpu" style="color:coral"></span>
-                                    Software&nbsp;<span data-feather="external-link" style="color:coral"></span>
-                                    </a>
-                                </li -->
-
-                                <li>{{ site.HR }}</li>
-
-
-                                <li class="nav-item">&nbsp;</li>
-                          
-                          <li class="nav-item">
-                            <a class="nav-link" style="font-size: xx-small;" href="{{ '/' | relative_url }}">
-                            Site built<br/>  {{ site.time }} 
-                            </a>
-                          </li>
-
-                            </ul>
-                        </div>
-                    </nav>
-
+                    {% include sidebar.html %}
                     <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
                         <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
                             <div class="txt">
                                 {{ content }}
                             </div>
                         </div>
-                        {% if page.name=='index.md' %}
-                        <!-- div><img src="{{ '/assets/images/site/ion-collision-xparent.png' | relative_url }}"></div -->
-                        {% endif %}
-                        </main>
+                    </main>
             </div>
         
 
-            </div>
         </div>
+    <!-- /div -->
 
 
     <!-- JS instrumentation, placed at the end of the document so the pages load faster -->
@@ -111,8 +37,6 @@
 
     <!-- Icons -->
     <script src="{{ '/assets/feather/feather.min.js' | relative_url }}"></script>
-    <script>
-        feather.replace()
-    </script>
+    <script>feather.replace()</script>
     </body>
     </html>

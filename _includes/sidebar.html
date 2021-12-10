@@ -1,34 +1,70 @@
+<nav id="sidebarMenu" class="col-md-3 col-lg-2 d-md-block bg-light sidebar collapse">
+  <div class="position-sticky pt-3">
+      <ul class="nav flex-column" id="mynavlist">
+          <li class="nav-item">
+              {% include pages.md name=page.name active='index' icon='home' %}
+              Home
+              </a>
+          </li>
+          <li class="nav-item">
+              {% include pages.md name=page.name active='join' icon='user-plus' %}
+              Join EICUG
+              </a>
+          </li>
+          <li class="nav-item">
+              {% include pages.md name=page.name active='organization' icon='globe' %}
+              Organization
+              </a>
+          </li>                                
+          <li class="nav-item">
+              {% include pages.md name=page.name active='science' icon='target' %}
+              Science
+              </a>
+          </li>
+          <li class="nav-item">
+              {% include pages.md name=page.name active='conferences' icon='mic' %}
+              Conferences
+              </a>
+          </li>
 
-<nav class="col-md-2 d-md-block bg-light sidebar">
-  <!-- d-none -->
-  <div class="sidebar-sticky">
-    <ul class="nav flex-column">
+          <li class="nav-item">
+            {% include pages.md name=page.name active='documents' icon='book-open' %}
+            Documents
+            </a>
+        </li>
+
+          <li class="nav-item">
+              {% include pages.md name=page.name active='yr' icon='map' %}
+              Yellow Report
+              </a>
+          </li>
 
 
-      <li class="nav-item">&nbsp;</li>
-      <li class="nav-item">&nbsp;</li>
+          <li class="nav-item">
+              <a class="nav-link" href="https://calendar.google.com/calendar/embed?src=eicugadmin%40eicug.org&ctz=America%2FNew_York" target="_blank">
+              <span data-feather="calendar" style="color:coral" ></span>
+              EICUG Calendar&nbsp;<span data-feather="external-link" style="color:coral" ></span>
+              </a>
+          </li>
 
-      <li class="nav-item">
-        <a class="nav-link" href="{{ '/' | relative_url }}">
-          <span data-feather="home"></span>
-        Home 
-        </a>
-      </li>
+          <!-- li class="nav-item">
+              <a class="nav-link" href="https://eic.github.io/" target="_blank">
+              <span data-feather="cpu" style="color:coral"></span>
+              Software&nbsp;<span data-feather="external-link" style="color:coral"></span>
+              </a>
+          </li -->
+
+          <li>{{ site.HR }}</li>
 
 
+          <li class="nav-item">&nbsp;</li>
+    
+    <li class="nav-item">
+      <a class="nav-link" style="font-size: xx-small;" href="{{ '/' | relative_url }}">
+      Site built<br/>  {{ site.time }} 
+      </a>
+    </li>
 
-      <li><hr/></li>
-
-      <li class="nav-item">&nbsp;</li>
-      <li class="nav-item">&nbsp;</li>
-      <li class="nav-item">&nbsp;</li>
-
-<li class="nav-item">
-  <a class="nav-link" style="font-size: xx-small;" href="{{ '/' | relative_url }}">
-  Site built<br/>  {{ site.time }} 
-  </a>
-</li>
-
- </ul>
-  </div> <!-- sidebar-sticky -->
+      </ul>
+  </div>
 </nav>
