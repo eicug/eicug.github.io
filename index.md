@@ -4,9 +4,8 @@ layout: base5
 name: index
 ---
 
-
 <br/>
-<div align="center">
+<div align="center"   id="grad1">
 {% include siteimage.md file='ion-collision-xparent.png' width='80%' %}
 </div>
 <br/>

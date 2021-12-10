@@ -60,11 +60,17 @@ ul {
     margin-bottom: 0px !important;
     }
 
+    #grad1 {
+    height: 100%;
+    background-color: white; /* For browsers that do not support gradients */
+    background-image: linear-gradient(to top, white , rgba(255, 127, 80, 0.466), white);
+    }
+
 /* ---------------------------- */
 /* TABLE */
 th {
     text-align: center;
-    color: #fff;
+    color: rgb(59, 59, 59);
     background-color: #888;
 }
 
@@ -81,7 +87,7 @@ tr.bland {
 }
 
 div.txt {
-    max-width: 85%;
+    max-width: 90%;
     text-overflow: ellipsis;
     word-wrap: break-word;     
 }
