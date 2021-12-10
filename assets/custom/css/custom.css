@@ -53,6 +53,10 @@ ul {
     margin-left: -1em;
   }
 
+  nav li {
+    margin: -12px 0;
+  }
+
 /* ---------------------------- */
 /* TABLE */
 th {

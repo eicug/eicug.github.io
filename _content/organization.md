@@ -1,10 +1,10 @@
 ---
-title: "The EICUG Organization"
+title: "The Electron-Ion Collider User Group"
 layout: base5
 name: organization
 ---
 
-<h2>The Electron-Ion Collider User Group</h2>
+<!-- h2>The Electron-Ion Collider User Group</h2 -->
 
 ---
 
