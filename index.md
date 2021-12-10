@@ -17,7 +17,7 @@ institutions below):
 </div>
 <br/>
 
-EICUG memers are working together to realize a powerful new facility in the
+EICUG members are working together to realize a powerful new facility in the
 United States with the aim of studying the particles, gluons, which
 bind all the observable matter in the world around us. This new facility, known as the
 [Electron-Ion Collider](https://www.bnl.gov/eic/){:target="_blank"} (EIC),
