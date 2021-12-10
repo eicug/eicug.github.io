@@ -153,16 +153,6 @@ Conveners:
 
 ---
 
-#### IR/luminosity Working Group
-
-Conveners:
-* Charles Hyde - ODU - <chyde@odu.edu>
-* Alexander Kiselev - BNL - <ayk@bnl.gov>
-* Christoph Montag - BNL - <montagc@bnl.gov>
-* Vasily Morozov - JLab - <morozov@jlab.org>
-
----
-
 #### Theoretical Physics
 
 The theory group has a
