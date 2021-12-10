@@ -36,7 +36,7 @@ The EICUG organization is defined by the [EICUG Charter]({{ '/assets/documents/E
 
 ### Governance
 
-The EICUG is governed by the Institutional Board (IB) and the Steering Committee (SC). The IB is comprised of one delegate from each member institution. For a list of IB members, please select the Institutional Board menu tab on the Phone Book page. The IB appoints a Nominating Committee. With the exception of two members of the SC-appointed by Jefferson Lab and Brookhaven National Laboratory, the IB elects the Steering Committee.
+The EICUG is governed by the Institutional Board (**IB**) and the Steering Committee (**SC**). The IB is comprised of one delegate from each member institution. For a list of IB members, please select the Institutional Board menu tab on the Phone Book page. The IB appoints a Nominating Committee. With the exception of two members of the SC-appointed by Jefferson Lab and Brookhaven National Laboratory, the IB elects the Steering Committee.
 
 ---
 
