@@ -17,8 +17,8 @@ name: index
 ## Welcome
 
 This is the home page of the Electron-Ion Collider User Group *(EICUG)*.
-The EICUG consists of more than 1200 physicists from over 250 laboratories
-and universities from around the world.
+The EICUG consists of more than 1200 physicists from over
+[250 laboratories and universities from around the world]({{ '/content/map.html' | relative_url }}){:target="_blank"}.
 
 EICUG members are working together to realize a powerful new facility in the
 United States with the aim of studying the particles, gluons, which
@@ -31,6 +31,13 @@ developed to detect the high-energy scattered particles as well
 as the low-energy debris as a means to definitively understand
 how the matter we are all made of is bound together.
 <br/>
+
+---
+
+<br/>
+<div align="center">
+<img src="{{ '/assets/images/site/eic-yr-1.png' | relative_url }}" id="grad1" width="60%">
+</div>
 
 
 
