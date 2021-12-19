@@ -31,7 +31,7 @@
   url: 'https://www.evernote.com/shard/s708/sh/9782c3e8-f8e7-6b99-702f-d83b960e6006/dab132388d75beaaf5254b7cebd9ce2d'
   minutes: 'https://www.dropbox.com/s/aa0j502qg4tqj0q/EICUG%20SC%20meeting%20_%20August%2026%2C%202021.pdf?dl=0'
 
-- date: '08/19/2021`'
+- date: '08/19/2021'
   url: 'https://www.evernote.com/shard/s129/sh/521d53e8-bc50-cda3-bbcd-696af1f06f6b/d69348b6723aa314926f4a60af10980a'
   minutes: 'https://www.dropbox.com/s/jj2qnqwguik26oi/EICUG%20SC%20meeting%20_%20August%2019%2C%202021.pdf?dl=0'
 
@@ -40,21 +40,88 @@
   minutes: 'https://www.dropbox.com/s/26dwacoven8632e/EICUG%20SC%20meeting%20_%20August%2012%2C%202021.pdf?dl=0'
   comment: 'Joint EIC Project Team Meeting'
 
-- date: ''
-  url: ''
-  minutes: ''
+- date: '07/29/2021'
+  url: 'https://www.evernote.com/shard/s129/sh/16cd75f9-77c5-a56c-49ff-8d41b5c26bbb/c92c92518e1f2fc68e1cef6635605674'
+  minutes: 'https://www.dropbox.com/s/ygalzksu683vav8/EICUG%20SC%20meeting%20_%20July%2029%2C%202021.pdf?dl=0'
 
-- date: ''
-  url: ''
-  minutes: ''
+- date: '07/22/2021'
+  url: 'https://www.evernote.com/shard/s129/sh/318c3b92-b329-6b41-7ab4-fd5c23b07136/1e189919feb7aa1f854f7f7ef04398d0'
+  minutes: 'https://www.dropbox.com/s/lwgxxwkpzznktlb/EICUG%20SC%20meeting%20_%20July%2022%2C%202021.pdf?dl=0'
 
-- date: ''
-  url: ''
-  minutes: ''
+- date: '07/15/2021'
+  url: 'https://www.evernote.com/shard/s129/sh/cebf33e2-1125-b019-c287-b008a293be0d/8c082ac845ec3bb3900299499938d8a9'
+  minutes: 'https://www.dropbox.com/s/4qqzuws9d0f2rwk/EICUG%20SC%20meeting%20_%20July%2015%2C%202021.pdf?dl=0'
 
-- date: ''
-  url: ''
+- date: '07/08/2021'
+  url: 'https://www.evernote.com/shard/s129/sh/ba11f52a-fa7a-443c-f79f-03b089cd49ec/0a1f52b25b70a2ddf94e9cf11cc53781'
+  minutes: 'https://www.dropbox.com/s/o0brx865iqgiob1/EICUG%20SC%20meeting%20_%20July%208%2C%202021.pdf?dl=0'
+
+- date: '07/01/2021'
+  url: 'https://www.evernote.com/shard/s129/sh/f9e92721-d08c-4cae-c52e-6a95a89623fa/e57f156616cb52c4d74a7ce523467d95'
   minutes: ''
+  comment: 'Joint EIC Project Team Meeting (no minutes)'
+
+- date: '06/17/2021'
+  url: 'https://www.evernote.com/shard/s129/sh/45e7f7b7-3fd0-b17a-71a9-b30e2410333e/fd4f6f7310014a66b8d2fdd6aab1a4d7'
+  minutes: 'https://www.dropbox.com/s/hufrd996f015gk3/EICUG%20SC%20meeting%20_%20June%2017%2C%202021.pdf?dl=0'
+
+- date: '06/03/2021'
+  url: 'https://www.evernote.com/shard/s129/sh/f9e92721-d08c-4cae-c52e-6a95a89623fa/e57f156616cb52c4d74a7ce523467d95'
+  minutes: 'https://www.dropbox.com/s/di9k4jrh6aa3z5w/EICUG%20SC%20meeting%20_%20June%203%2C%202021.pdf?dl=0'
+
+- date: '05/27/2021'
+  url: 'https://www.evernote.com/shard/s129/sh/5a4d543f-ae24-978b-b823-f76066824ccb/8ab3dd9d8bcf0ff69e0d87d5063d027d'
+  minutes: 'https://www.dropbox.com/s/gww8bd516bfsxoj/EICUG%20SC%20meeting%20_%20May%2027%2C%202021.pdf?dl=0'
+
+- date: '05/20/2021'
+  url: 'https://www.evernote.com/shard/s129/sh/147db247-f21f-3c74-590a-49da22868df2/47d1079bf1a1a2d7eb74ff02b9518f5d'
+  minutes: ''
+  comment: 'EICUG remote meeting (no minutes)'
+
+- date: '05/13/2021'
+  url: 'https://www.evernote.com/shard/s129/sh/354c33d2-2a26-1a15-3002-368f790bd762/3ddbd6d9b747c0cf0b3b4d4c5e79c8b9'
+  minutes: 'https://www.dropbox.com/s/xys21app3ir6yg6/EICUG%20SC%20meeting%20_%20May%2013%2C%202021.pdf?dl=0'
+
+- date: '05/06/2021'
+  url: 'https://www.evernote.com/shard/s129/sh/f9e92721-d08c-4cae-c52e-6a95a89623fa/e57f156616cb52c4d74a7ce523467d95'
+  minutes: ''
+  comment: 'Joint EIC Project Team Meeting (no minutes)'
+
+- date: '04/29/2021'
+  url: 'https://www.evernote.com/shard/s129/sh/04283ae4-4dba-a876-680c-5454491fa5e8/05bed68e2c63dcc9c28e273a5bd50ade'
+  minutes: 'https://www.dropbox.com/s/8cpa59vsojcwmwr/EICUG%20SC%20meeting%20_%20April%2029%2C%202021.pdf?dl=0'
+
+- date: '04/22/2021'
+  url: 'https://www.evernote.com/shard/s129/sh/97601f46-9574-a507-6698-b72af206572c/2b900378fd2a607b7b99f04f222fc69c'
+  minutes: 'https://www.dropbox.com/s/b85fdsq0xxmpr8y/EICUG%20SC%20meeting%20_%20April%2022%2C%202021.pdf?dl=0'
+
+- date: '04/15/2021'
+  url: 'https://www.evernote.com/shard/s129/sh/e9524a62-b18f-ce9c-4441-396af3c75dcb/53ae0b2247c9b68311a66a93bb89f125'
+  minutes: 'https://www.dropbox.com/s/iag08dieuusqibn/EICUG%20SC%20meeting%20_%20April%2015%2C%202021.pdf?dl=0'
+
+- date: '04/08/2021'
+  url: 'https://www.evernote.com/shard/s129/sh/9e9551fb-d627-49aa-270f-993b7503edca/50afcff8497a67447f1b8d56a5a043e6'
+  minutes: 'https://www.dropbox.com/s/hl2asmx57v49l8s/EICUG%20SC%20meeting%20_%20April%208%2C%202021.pdf?dl=0'
+
+- date: '03/25/2021'
+  url: 'https://www.evernote.com/shard/s129/sh/7e1851f3-689b-686f-852c-45777aa9c0c0/fe4d1bc51b715dcca824e8ec195d2836'
+  minutes: 'https://www.dropbox.com/s/k3y2szzhv9dubj0/EICUG%20SC%20meeting%20_%20March%2025%2C%202021.pdf?dl=0'
+
+- date: '03/11/2021'
+  url: 'https://www.evernote.com/shard/s129/sh/ba7a9516-9e08-3a2c-48ff-06c969bee33e/217fe40e0048aa815f36b5283072b067'
+  minutes: 'https://www.dropbox.com/s/kbl81aptyp4hjtu/EICUG%20SC%20meeting%20_%20March%2011%2C%202021.pdf?dl=0'
+
+- date: '03/04/2021'
+  url: 'https://www.evernote.com/shard/s129/sh/99371888-de3a-ced7-ba9b-b911cb4ce038/bfa44b8039959f3b288b25b9c902cd2a'
+  minutes: 'https://www.dropbox.com/s/texyivrt7ha59wt/EICUG%20SC%20meeting%20_%20March%204%2C%202021.pdf?dl=0'
+
+- date: '02/25/2021'
+  url: 'https://www.evernote.com/shard/s129/sh/de2675fc-9e2e-e341-3fd2-c0ed38331a6f/afa3b61b12c007da331808dbca168417'
+  minutes: 'https://www.dropbox.com/s/9fn4r8w2qflzsf2/EICUG%20SC%20meeting%20_%20February%2025%2C%202021.pdf?dl=0'
+
+- date: '02/18/2021'
+  url: 'https://www.evernote.com/shard/s129/sh/6b831489-58d0-809a-eb61-efea6d3e351a/de1345591470ac9276b89589ab511d22'
+  minutes: 'https://www.dropbox.com/s/os5xxswus904lge/EICUG%20SC%20meeting%20_%20February%2018%2C%202021.pdf?dl=0'
 
 - date: ''
   url: ''
