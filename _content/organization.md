@@ -60,7 +60,6 @@ the IB elects the Steering Committee.
 * At Large Members
   * Yuri Kovchegov (OSU, USA), term January 2021 - December 2022
   * Silvia Dalla Torre (INFN, Italy), term January 2021 - December 2022
-  * Barbara Jacak (LBL and UCB, USA), term January 2020 - December 2021
   * Olga Evdokimov (University of Illinois Chicago, USA), term January 2021 - December 2022
 * European Representative
   * Daria Sokhan (Saclay, France / Univ. Glasgow, UK, on leave), term August 2021 - August 2023

@@ -79,7 +79,7 @@ Conveners:
 
 #### Detector Working Group
 
-The Detector Working Group's aim is to develope and study detector concepts based on the requirements defined by the Physics Working Group. Detector Working Group is lead by four conveners and is divided into various subgroups in which dedicated aspects are studied and discussed.
+The Detector Working Group's aim is to develop and study detector concepts based on the requirements defined by the Physics Working Group. Detector Working Group is lead by four conveners and is divided into various subgroups in which dedicated aspects are studied and discussed.
 
 Conveners:
 
@@ -88,3 +88,14 @@ Conveners:
 * Peter Jones (Birmingham)
 * Silvia Dalla Torre (Trieste)
 * Markus Diefenthaler, ex-officio (JLab)
+
+---
+
+### Yellow Report Workshops
+
+* [1st Workshop (Temple U)](https://indico.bnl.gov/event/7449/){:target="_blank"}
+* [2nd Workshop (Pavia)](https://indico.bnl.gov/event/8231/){:target="_blank"}
+* [3rd Workshop (CUA)](https://indico.bnl.gov/event/9080/){:target="_blank"}
+* [4th Workshop (LBL)](https://indico.bnl.gov/event/9913/){:target="_blank"}
+
+
