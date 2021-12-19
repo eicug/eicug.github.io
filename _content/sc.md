@@ -17,7 +17,6 @@ name: sc
 Starting October 21, 2021 the Steering Committee is using Indico
 to manage its meetings' agendas and minutes. Please use the following
 link to access:
-
 [https://indico.bnl.gov/category/383/](https://indico.bnl.gov/category/383/){:target="_blank"}
 
 ### Archived Prior Meetings
