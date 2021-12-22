@@ -123,6 +123,43 @@
   url: 'https://www.evernote.com/shard/s129/sh/6b831489-58d0-809a-eb61-efea6d3e351a/de1345591470ac9276b89589ab511d22'
   minutes: 'https://www.dropbox.com/s/os5xxswus904lge/EICUG%20SC%20meeting%20_%20February%2018%2C%202021.pdf?dl=0'
 
+- date: '02/04/2021'
+  url: 'https://www.evernote.com/shard/s129/sh/a0ded046-8811-32a3-aa43-d47565a8ba86/bd33c3e1f7c46bf9f3ef5cfd7e719f6e'
+  minutes: ''
+  comment: 'EICUG remote meeting (no minutes)'
+
+- date: '01/21/2021'
+  url: 'https://www.evernote.com/shard/s129/sh/3f6332cc-57f4-4d41-b59d-14e6974e31cd/d748b875304512effd46e2350ef2a272'
+  minutes: 'https://www.dropbox.com/s/ztyb1nkkd857zts/EICUG%20SC%20meeting%20_%20January%2021%2C%202021.pdf?dl=0'
+
+- date: '01/14/2021'
+  url: 'https://www.evernote.com/shard/s129/sh/5f8dd0af-8157-c33d-485a-c4e1e0fd2525/aab68ab09570e7542d0d9a6f4d96b38c'
+  minutes: 'https://www.dropbox.com/s/sl9i407bm1qos0m/EICUG%20SC%20meeting%20_%20January%2014%2C%202021.pdf?dl=0'
+
+- date: '01/07/2021'
+  url: ''
+  minutes: 'https://www.dropbox.com/s/ye8y28r6oag052i/EICUG%20SC%20meeting%20_%20January%207%2C%202021.pdf?dl=0'
+  comment: 'Joint EIC Project Team Meeting (no agenda)'
+
+- date: '12/31/2020'
+  url: 'https://www.evernote.com/shard/s129/sh/cc7ef9ae-62d4-2307-49af-02681b1b4344/439c2ba014d1afe43deafd5b6efe5635'
+  minutes: ''
+  comment: 'No minutes'
+
+- date: '12/17/2020'
+  url: 'https://www.evernote.com/shard/s129/sh/c7bc9052-3bf4-4bb9-9d79-56aa7a3b39b8/dcde55e03de6374df51f84f0b1bdf792'
+  minutes: 'https://www.dropbox.com/s/89dz051tph9tz5j/EICUG%20SC%20meeting%20_%20December%2017%2C%202020.pdf?dl=0'
+
+- date: '12/10/2021'
+  url: 'https://www.evernote.com/shard/s129/sh/58552441-0358-1254-cc2e-4d537940fd37/5819ad3a3fc8d3d796a71d2ccfd0166a'
+  minutes: 'javascript:void(0);'
+  comment: 'No minutes'
+
+- date: '11/30/2020'
+  url: 'https://www.evernote.com/shard/s129/sh/79fda72e-6046-4cc5-959e-51213c2893bd/be3ba3fa44093ad656fe30bbb8759a76'
+  minutes: ''
+  comment: 'No minutes'
+
 - date: ''
   url: ''
   minutes: ''

@@ -35,8 +35,11 @@ In order to make sure that talks given on behalf of the EIC User Group present t
 and [Yellow Report](https://inspirehep.net/literature/1851258){:target="_blank"}
 * For very important presentations, a rehearsal might be set up by either conference and talks committee, steering committee or upon request by the presenter.
 
+If you want to recommend a candidate for a particular presentation, including yourself, please contact the Conference and Talks committee at <eicug-talks@eicug.org>.
+
 ---
 
-## Currently open EICUG Talks
+## Upcoming Conferences
+<br/>
 
-If you want to recommend a candidate for a particular presentation, including yourself, please contact the Conference and Talks committee at <eicug-talks@eicug.org>.
+{% include conf_table.md %}

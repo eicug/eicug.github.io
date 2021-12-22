@@ -1,0 +1,25 @@
+- name: '8th International Conference on High Energy Physics in the LHC Era (moved to 2022)'
+  url: 'https://indico.cern.ch/event/698387/'
+  eicug: '?'
+  status: 'upcoming'
+
+- name: 'DIS2022'
+  url: 'https://indico.cern.ch/event/1072533/'
+  eicug: '?'
+  status: 'upcoming'
+
+- name: 'QCD Evolution 2022'
+  url: 'https://conference.phys.virginia.edu/indico/event/7/'
+  eicug: '?'
+  status: 'upcoming'
+
+- name: '2022 CFNS Summer School on the Physics of the Electron-Ion Collider'
+  url: ''
+  eicug: '?'
+  status: 'upcoming'
+
+- name: '2022 CFNS Summer School on the Physics of the Electron-Ion Collider'
+  url: ''
+  eicug: '?'
+  status: 'past'
+
