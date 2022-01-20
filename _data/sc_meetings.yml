@@ -150,9 +150,9 @@
   url: 'https://www.evernote.com/shard/s129/sh/c7bc9052-3bf4-4bb9-9d79-56aa7a3b39b8/dcde55e03de6374df51f84f0b1bdf792'
   minutes: 'https://www.dropbox.com/s/89dz051tph9tz5j/EICUG%20SC%20meeting%20_%20December%2017%2C%202020.pdf?dl=0'
 
-- date: '12/10/2021'
+- date: '12/10/2020'
   url: 'https://www.evernote.com/shard/s129/sh/58552441-0358-1254-cc2e-4d537940fd37/5819ad3a3fc8d3d796a71d2ccfd0166a'
-  minutes: 'javascript:void(0);'
+  minutes: ''
   comment: 'No minutes'
 
 - date: '11/30/2020'
@@ -160,7 +160,66 @@
   minutes: ''
   comment: 'No minutes'
 
-- date: ''
-  url: ''
-  minutes: ''
+- date: '11/12/2020'
+  url: 'https://www.evernote.com/shard/s129/client/snv?noteGuid=7635905d-32fa-464a-8d57-59ca1965e6db&noteKey=5851d5c0db6e0301c2d97987e4cde1dd&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs129%2Fsh%2F7635905d-32fa-464a-8d57-59ca1965e6db%2F5851d5c0db6e0301c2d97987e4cde1dd&title=EICUG%2BSC%2Bmeeting%2B%252F%2BNovember%2B12%252C%2B2020'
+  minutes: 'https://www.dropbox.com/s/r3hku8cmzvsepi4/EICUG%20SC%20meeting%20_%20November%2012%2C%202020.pdf?dl=0'
 
+- date: '10/29/2020'
+  url: 'https://www.evernote.com/shard/s129/client/snv?noteGuid=07dfb1ad-95c4-48bc-821c-2cb8d99bea34&noteKey=f7ab2b821342fd5493e8d8b30c686f8b&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs129%2Fsh%2F07dfb1ad-95c4-48bc-821c-2cb8d99bea34%2Ff7ab2b821342fd5493e8d8b30c686f8b&title=EICUG%2BSC%2Bmeeting%2B%252F%2BOctober%2B29%252C%2B2020'
+  minutes: 'https://www.dropbox.com/s/45xhs5f1to8wtur/EICUG%20SC%20meeting%20_%20October%2029%2C%202020.pdf?dl=0'
+
+- date: '10/22/2020'
+  url: 'https://www.evernote.com/shard/s129/client/snv?noteGuid=430d433a-e5aa-49e0-b7fc-262e1823e4fa&noteKey=75eb6deba9da6ad6&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs129%2Fsh%2F430d433a-e5aa-49e0-b7fc-262e1823e4fa%2F75eb6deba9da6ad6&title=EICUG%2BSC%2Bmeeting%2B%252F%2BOctober%2B22%252C%2B2020'
+  minutes: 'https://www.dropbox.com/s/cv1mdbj3zbcgk9i/EICUG%20SC%20meeting%20_%20October%2022%2C%202020.pdf?dl=0'
+
+- date: '10/15/2020'
+  url: 'https://www.evernote.com/shard/s129/client/snv?noteGuid=7ac9d3ee-22f9-4444-a525-c7a7c219a57b&noteKey=b18552bbc018f479&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs129%2Fsh%2F7ac9d3ee-22f9-4444-a525-c7a7c219a57b%2Fb18552bbc018f479&title=EICUG%2BSC%2Bmeeting%2B%252F%2BOctober%2B15%252C%2B2020'
+  minutes: 'https://www.dropbox.com/s/v9hrq9cqgbf6ep0/EICUG%20SC%20meeting%20_%20October%2015%2C%202020.pdf?dl=0'
+
+- date: '10/08/2020'
+  url: 'https://www.evernote.com/shard/s129/client/snv?noteGuid=0fcd1974-14d0-4ab8-8602-b91c0f57dc88&noteKey=4c0de3b82993221a&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs129%2Fsh%2F0fcd1974-14d0-4ab8-8602-b91c0f57dc88%2F4c0de3b82993221a&title=EICUG%2BSC%2Bmeeting%2B%252F%2BOctober%2B8%252C%2B2020'
+  minutes: 'https://www.dropbox.com/s/djtyn2f3pgx66bc/EICUG_SC_meeting_10082020.pdf?dl=0'
+
+- date: '10/01/2020'
+  url: 'https://www.evernote.com/shard/s129/client/snv?noteGuid=2a0d924d-47b8-413a-8401-9286d1b1862d&noteKey=3ea635d3f53659ee&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs129%2Fsh%2F2a0d924d-47b8-413a-8401-9286d1b1862d%2F3ea635d3f53659ee&title=EICUG%2BSC%2B%252F%2BEIC%2BProject%2Bmanagement%2Binformation%2Bexchange'
+  minutes: 'https://www.dropbox.com/s/xkwx3zbrrra29dn/EICUG_SC_meeting%20_Minutes_10012020.pdf?dl=0'
+
+- date: '09/24/2020'
+  url: 'https://www.evernote.com/shard/s129/client/snv?noteGuid=7cff7ef6-628b-4f6c-abc6-889c2f1e591c&noteKey=a5c94515f24c0a9d&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs129%2Fsh%2F7cff7ef6-628b-4f6c-abc6-889c2f1e591c%2Fa5c94515f24c0a9d&title=EICUG%2BSC%2Bmeeting%2B%252F%2BSeptember%2B24%252C%2B2020'
+  minutes: 'https://www.dropbox.com/s/u8xzvu4r3di1gnp/EICUG_SC_meeting%20_Minutes_09242020.pdf?dl=0'
+
+- date: '09/10/2020'
+  url: 'https://www.evernote.com/shard/s129/client/snv?noteGuid=8348ff78-a803-44d8-8d40-633d5dcbcd4e&noteKey=bf326d7cf9602d27&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs129%2Fsh%2F8348ff78-a803-44d8-8d40-633d5dcbcd4e%2Fbf326d7cf9602d27&title=EICUG%2BSC%2Bmeeting%2B%252F%2BSeptember%2B10%252C%2B2020'
+  minutes: ''
+  comment: 'No minutes'
+
+- date: '08/27/2020'
+  url: 'https://www.evernote.com/shard/s129/client/snv?noteGuid=be02356c-b16a-4f70-a256-660aeeb4a3e3&noteKey=a0072598964a78cb&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs129%2Fsh%2Fbe02356c-b16a-4f70-a256-660aeeb4a3e3%2Fa0072598964a78cb&title=EICUG%2BSC%2Bmeeting%2B%252F%2BAugust%2B27%252C%2B2020'
+  minutes: ''
+  comment: 'No minutes'
+
+- date: '08/13/2020'
+  url: 'https://www.evernote.com/shard/s129/client/snv?noteGuid=2cddc894-88ca-4194-90f5-7db435eb91b6&noteKey=926c586054487e6f&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs129%2Fsh%2F2cddc894-88ca-4194-90f5-7db435eb91b6%2F926c586054487e6f&title=EICUG%2BSC%2Bmeeting%2B%252F%2BAugust%2B13%252C%2B2020'
+  minutes: ''
+  comment: 'No minutes'
+
+- date: '08/06/2020'
+  url: 'https://www.evernote.com/shard/s129/client/snv?noteGuid=4a0f4efb-81ec-470d-9de5-e70dbd491221&noteKey=f7b957b80ff2bfb3&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs129%2Fsh%2F4a0f4efb-81ec-470d-9de5-e70dbd491221%2Ff7b957b80ff2bfb3&title=EICUG%2BSC%2Bmeeting%2B%252F%2BAugust%2B6%252C%2B2020'
+  minutes: ''
+  comment: 'No minutes'
+
+- date: '07/30/2020'
+  url: 'https://www.evernote.com/shard/s129/client/snv?noteGuid=e490f35f-fbd8-4465-aa1c-48c6a3dc6791&noteKey=8ed4bcc055edb992&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs129%2Fsh%2Fe490f35f-fbd8-4465-aa1c-48c6a3dc6791%2F8ed4bcc055edb992&title=EICUG%2BSC%2Bmeeting%2B%252F%2BJuly%2B30%252C%2B2020'
+  minutes: 'https://www.dropbox.com/s/glffnragv3arog9/07302020.pdf?dl=0'
+
+- date: '07/09/2020'
+  url: 'https://www.evernote.com/shard/s129/client/snv?noteGuid=e3d370ee-1114-464b-b5c4-8f1b4c4c4ba5&noteKey=8c42f4cf50031bb3&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs129%2Fsh%2Fe3d370ee-1114-464b-b5c4-8f1b4c4c4ba5%2F8c42f4cf50031bb3&title=EICUG%2BSC%2Bmeeting%2B%252F%2BJuly%2B09%252C%2B2020'
+  minutes: 'https://www.dropbox.com/s/644m4s981mifzfr/EICUC%20steering%20committee%20meeting%20minutes%20July%209%202020.pdf?dl=0'
+
+- date: '07/02/2020'
+  url: 'https://www.evernote.com/shard/s129/client/snv?noteGuid=bd1f4e62-725b-41f1-b3a8-f7ac91ded180&noteKey=8a5a0bc43278ccff&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs129%2Fsh%2Fbd1f4e62-725b-41f1-b3a8-f7ac91ded180%2F8a5a0bc43278ccff&title=EICUG%2BSC%2Bmeeting%2B%252F%2BJuly%2B02%252C%2B2020'
+  minutes: 'https://www.dropbox.com/s/mbjkfbemreagezo/EICUC%20steering%20committee%20meeting%20minutes%20July%202%202020.pdf?dl=0'
+
+#- date: ''
+#  url: ''
+#  minutes: ''
