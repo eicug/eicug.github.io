@@ -156,6 +156,11 @@ Conveners:
 * Elke Aschenauer - BNL - <elke@bnl.gov>
 * Dave Gaskell  - JLab - <gaskelld@jlab.org>
 
+The group has a dedicated [Indico category](https://indico.bnl.gov/category/280/){:target="_blank"}
+as well as the [mailing list](mailto:eicug-polarimetry@eicug.org) _(eicug-polarimetry@eicug.org)_.
+
+
+
 ---
 
 #### Theoretical Physics
