@@ -1,5 +1,5 @@
 ---
-title: "EICUG"
+title: "The Electron-Ion Collider User Group"
 layout: base5
 name: index
 ---

@@ -1,5 +1,5 @@
 ---
-title: "The Electron-Ion Collider User Group"
+title: "The EICUG Organization"
 layout: base5
 name: organization
 ---
