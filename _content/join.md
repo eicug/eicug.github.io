@@ -25,7 +25,7 @@ representative and ask them to register you with the details listed below:
 ## Registering an Institution
 
 If you are the **first member registering from your institution**, please send an email
-to <mailto:register@register@eicug.org>, provide the details below (in addition to your
+to <mailto:register@eicug.org>, provide the details below (in addition to your
 personal details),
 and indicate who would be the **Institutional Board representative**. The Institutional
 Board representative should be a faculty or staff member, and will be required to update

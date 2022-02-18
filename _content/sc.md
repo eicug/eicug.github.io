@@ -28,8 +28,7 @@ link to access:
 
 ---
 
-### Archived Prior Meetings
+### Steering Committee Meeting Archive
 
-*NB. These archived materials are hosted on resources not managed by the current Steering Committee members*
-
-{% include sc_meetings.md %}
+{% assign sc_arch='/content/sc_archive.html' | relative_url %}
+<a href="{{ sc_arch }}">Steering Committee Meeting Archive</a>

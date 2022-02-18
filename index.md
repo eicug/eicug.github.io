@@ -6,7 +6,7 @@ name: index
 
 <br/>
 <div align="center">
-<img src="{{ '/assets/images/site/ion-collision-xparent.png' | relative_url }}" id="grad1" width="80%">
+<img src="{{ '/assets/images/site/ion-collision-xparent.png' | relative_url }}" id="grad1" width="60%">
 </div>
 
 <!-- br/ -->
@@ -32,13 +32,9 @@ as the low-energy debris as a means to definitively understand
 how the matter we are all made of is bound together.
 <br/>
 
----
-
-<br/>
+<!-- br/>
 <div align="center">
 <img src="{{ '/assets/images/site/eic-yr-1.png' | relative_url }}" id="grad1" width="60%">
-</div>
-
-
+</div -->
 
 <!-- div align="center"><img src="{{ '/assets/images/site/49899164917_eed03df6ee_w.jpg' | relative_url }}"> </div -->
