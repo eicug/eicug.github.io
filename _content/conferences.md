@@ -13,7 +13,7 @@ name: conferences
 
 {{ site.HR }}
 
-## Speaker nomination procedure
+## Speaker&nbsp;nomination&nbsp;procedure
 
 * The conference and talks committee shall select suitable speakers taking into account expertise, EIC related contributions, willingness to talk about a subject, working group conveners' recommendations, self-recommendations and recent EICUG presentations in a fair, transparent and unbiased manner.
 * In order to do so, a list with upcoming conferences and EIC talks will be made public on the EICUG pages. Physics and other working group conveners input on suitable speakers is requested. Also members are encouraged to nominate speakers (including themselves).

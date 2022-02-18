@@ -30,7 +30,7 @@ It also coordinates the AI activity for the EIC community. Please contact the co
 
 ---
 
-### Computing Coordination
+### Computing&nbsp;Coordination
 
 Conveners:
 * Jerome Lauret - BNL - <jeromel@bnl.gov>
