@@ -142,4 +142,11 @@ The guidelines for the speakers can be found at talk guidelines (TBD)
 * Sevil Salur (Univ. Rutgers, USA)
 * Daria Sokhan (Univ. Glasgow, UK)
 
+---
+
+### Working Groups
+
+Please see the [working groups page]({{ '/content/wg.html' | relative_url }}) for more information.
+
+
 {{ site.HR }}
