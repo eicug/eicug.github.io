@@ -1,42 +1,46 @@
 ---
-title: "Working Groupg"
+title: "Working Groups"
 layout: base5
 name: wg
 ---
 
 {% include wip.md %}
 
+---
 
 * TOC
 {:toc}
 
+
+<span id="software"><br/></span>
 {{ site.HR }}
 
-### Working Groups
-
----
-
-#### Software
+### Software
 
 The group maintains a web site [eic.github.io](https://eic.github.io){:target="_blank"} and a [GitHub Organization](https://github.com/eic){:target="_blank"}.
-It also coordinates the AI activity for the EIC community. Please contact the conveners to get involved in the working group. Conveners:
+It also coordinates the AI activity for the EIC community. Please contact the conveners to get involved in the working group.
+<br/>Conveners:
 * Andrea Bressan - INFN - <andrea.bressan@ts.infn.it>
 * Markus Diefenthaler - JLab - <mdiefent@jlab.org>
 * Torre Wenaus - BNL - <wenaus@gmail.com>
 * Cristiano Fanelli - AI sector - MIT - <cfanelli@mit.edu>
 * Tanja Horn - AI sector - CUA - <hornt@cua.edu>
 
+<span id="computing-coordination"><br/></span>
+
 ---
 
-#### Computing Coordination
+### Computing Coordination
 
 Conveners:
 * Jerome Lauret - BNL - <jeromel@bnl.gov>
 * Graham Heyes - JLab - <heyes@jlab.org>
 
+<span id="polarimetry"><br/></span>
+
 ---
 
-#### Polarimetry
+### Polarimetry
 
 Conveners:
 * Elke Aschenauer - BNL - <elke@bnl.gov>
@@ -46,10 +50,11 @@ The group has a dedicated [Indico category](https://indico.bnl.gov/category/280/
 as well as the [mailing list](mailto:eicug-polarimetry@eicug.org) _(eicug-polarimetry@eicug.org)_.
 
 
+<span id="theoretical-physics"><br/></span>
 
 ---
 
-#### Theoretical Physics
+### Theoretical Physics
 
 The theory group has a
 [Wiki page](https://wiki.bnl.gov/eicug/index.php/Theory){:target="_blank"}.
@@ -58,6 +63,9 @@ Conveners:
 * Anna Stasto (PSU, USA) - <ams52@psu.edu>
 * Alessandro Bacchetta (Univ. and INFN - Pavia, Italy) - <alessandro.bacchetta@unipv.it>
 * Felix Ringer (YITP, Stony Brook, USA) - <felix.ringer@stonybrook.edu>
+
+
+<span id="collaborative-tools"><br/></span>
 
 ---
 

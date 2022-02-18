@@ -11,6 +11,7 @@ name: organization
 * TOC
 {:toc}
 
+<span id="purpose"><br/></span>
 {{ site.HR }}
 
 ### Purpose
@@ -23,7 +24,9 @@ A detailed scientific description can be found in the
 as well as the 2015 U.S. Nuclear Science Advisory Committee
 [Long Range Plan](https://www.osti.gov/servlets/purl/1296778){:target="_blank"} "Reaching for the Horizon".
 
-{{ site.HR }}
+<span id="membership-phone-book-and-organization"><br/></span>
+
+---
 
 ### Membership, Phone Book and Organization
 
@@ -32,7 +35,9 @@ Membership in the EICUG is open to all scientists actively engaged in Electron-I
 a.k.a. the "phone book".
 The EICUG organization is defined by the [EICUG Charter]({{ '/assets/documents/EICUG-Charter-01122018.pdf' | relative_url }}){:target="_blank"}.
 
-{{ site.HR }}
+<span id="governance"><br/><br/></span>
+
+---
 
 ### Governance
 
@@ -44,12 +49,17 @@ please select the Institutional Board menu tab on the Phone Book page. The IB ap
 With the exception of two members of the SC-appointed by Jefferson Lab and Brookhaven National Laboratory,
 the IB elects the Steering Committee.
 
+<span id="institutional-board"><br/></span>
+
 ---
 
 #### Institutional Board
 
 * Chair: Olga Evdokimov (University of Illinois Chicago, USA), term January 2021 - December 2022
 * Vice-Chair: Andrea Bressan (INFN Trieste), term January 2021 - December 2022
+
+
+<span id="steering-committee"><br/></span>
 
 ---
 
@@ -69,6 +79,8 @@ the IB elects the Steering Committee.
   * Thomas Ullrich (Brookhaven National Laboratory, USA)
   * Rolf Ent (Thomas Jefferson National Accelerator Facility, USA)​
 
+<span id="elections-and-nominating-committee"><br/></span>
+
 ---
 
 #### Elections and Nominating Committee
@@ -83,6 +95,8 @@ the IB elects the Steering Committee.
   * Cristina Tuvè (Univ. and INFN - Catania, Italy)
   * Charlotte Van Hulse (IPN-Orsay, France)
 
+<span id="diversity-and-inclusion-committee"><br/></span>
+
 ---
 
 #### Diversity and Inclusion Committee
@@ -93,6 +107,8 @@ the IB elects the Steering Committee.
   * Narbe Kalantarians (Virginia Union University, USA)
   * Astrid Morreale (Los Alamos National Lab, USA)
   * Sanghwa Park (Stony Brook University, USA)
+
+<span id="conference-and-talks-committee"><br/></span>
 
 ---
 
@@ -107,6 +123,8 @@ The guidelines for the speakers can be found at talk guidelines (TBD)
   * Svetlana Barkanova (Memorial University of Newfoundland, Canada)
   * Qinghua Xu (Shandong Univ., China)
   * Megan Elizabeth Connors (GSU, USA)
+
+<span id="charter-committee"><br/></span>
 
 ---
 

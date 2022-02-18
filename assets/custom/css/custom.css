@@ -40,6 +40,11 @@ h2, h3, h4, h5, hr, em {
    color:coral;
 }
 
+/* h2[id^="t"], h2[id^="s"] {
+    color: red;  
+} */
+
+
 ul {
     list-style: none;
   }
