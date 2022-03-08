@@ -1,25 +1,70 @@
-- name: '8th International Conference on High Energy Physics in the LHC Era (moved to 2022)'
-  url: 'https://indico.cern.ch/event/698387/'
-  eicug: '?'
+################### FUTURE
+
+# Postponed:
+#- name: '8th International Conference on High Energy Physics in the LHC Era (moved to 2022)'
+#  url: 'https://indico.cern.ch/event/698387/'
+#  dates: 2022-10-01
+#  eicug: '&#8212;'
+#  status: 'upcoming'
+
+- name: 'QNP2022'
+  url: 'https://indico.jlab.org/event/344/'
+  dates: '2022-09-05 to 2022-09-09'
+  eicug: '&#8212;'
   status: 'upcoming'
 
-- name: 'DIS2022'
-  url: 'https://indico.cern.ch/event/1072533/'
-  eicug: '?'
+- name: '2022 CFNS Summer School on the Physics of the Electron-Ion Collider'
+  url: ''
+  dates: '2022-08-01 to 2022-08-13'
+  eicug: '&#8212;'
   status: 'upcoming'
 
 - name: 'QCD Evolution 2022'
   url: 'https://conference.phys.virginia.edu/indico/event/7/'
-  eicug: '?'
+  dates: '2022-05-09 to 2022-05-13'
+  eicug: '&#8212;'
   status: 'upcoming'
 
-- name: '2022 CFNS Summer School on the Physics of the Electron-Ion Collider'
-  url: ''
-  eicug: '?'
+- name: 'DIS2022'
+  url: 'https://indico.cern.ch/event/1072533/'
+  dates: '2022-05-02 to 2022-05-06'
+  eicug: '&#8212;'
   status: 'upcoming'
 
-- name: '2022 CFNS Summer School on the Physics of the Electron-Ion Collider'
-  url: ''
-  eicug: '?'
+################### PAST
+
+- name: 'Lepton-Photon 2021 (2022)'
+  url: 'https://indico.cern.ch/event/949705/'
+  dates: '2022-01-10 to 2022-01-14'
+  eicug: '&#8212;'
   status: 'past'
 
+- name: 'Light-Cone 2020 (2021)'
+  url: 'https://indico.cern.ch/event/938795/'
+  dates: '2021-11-29 to 2021-12-4'
+  eicug: '&#8212;'
+  status: 'past'
+
+- name: 'MC4EIC'
+  url: 'https://indico.bnl.gov/event/13298/'
+  dates: '2021-11-29 to 2021-12-4'
+  eicug: '&#8212;'
+  status: 'past'
+
+- name: 'Baryons 2020 (2021)'
+  url: ''
+  dates: '2021-10-19 to 2021-10-22'
+  eicug: '&#8212;'
+  status: 'past'
+
+- name: 'Spin 2020 (2021)'
+  url: 'https://spin2021.riken.jp/'
+  dates: '2021-10-18 to 2021-10-22'
+  eicug: '&#8212;'
+  status: 'past'
+
+- name: 'PANIC 2020 (2021)'
+  url: 'https://indico.lip.pt/event/592/'
+  dates: '2021-09-05 to 2021-09-10'
+  eicug: '&#8212;'
+  status: 'past'

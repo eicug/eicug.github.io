@@ -42,4 +42,11 @@ If you want to recommend a candidate for a particular presentation, including yo
 ## Upcoming Conferences
 <br/>
 
-{% include conf_table.md %}
+{% include conf_table.md status='upcoming' %}
+
+---
+
+## Past Conferences
+<br/>
+
+{% include conf_table.md status='past' %}
