@@ -19,6 +19,12 @@
   eicug: '&#8212;'
   status: 'upcoming'
 
+- name: 'XIVth Quark Confinement and the Hadron Spectrum'
+  url: 'https://indico.uis.no/event/2/'
+  dates: '2022-08-01 to 2022-08-06'
+  eicug: '&#8212;'
+  status: 'upcoming'
+
 - name: 'QCD Evolution 2022'
   url: 'https://conference.phys.virginia.edu/indico/event/7/'
   dates: '2022-05-09 to 2022-05-13'
@@ -68,3 +74,16 @@
   dates: '2021-09-05 to 2021-09-10'
   eicug: '&#8212;'
   status: 'past'
+
+- name: 'Workshop VIII on Streaming Readout'
+  url: 'https://indico.mit.edu/event/1/'
+  dates: '2021-04-28 to 2021-04-30'
+  eicug: '&#8212;'
+  status: 'past'
+
+- name: 'DIS2021'
+  url: 'https://indico.bnl.gov/event/9726/'
+  dates: '2021-04-12 to 2021-04-16'
+  eicug: '&#8212;'
+  status: 'past'
+  
