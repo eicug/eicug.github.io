@@ -6,12 +6,13 @@ name: meetings
 
 {% include wip.md %}
 
+---
 
 * TOC
 {:toc}
 
 {{ site.HR }}
 
-## EICUG Meetings
+### EICUG Meetings
 
-TBD.
+{% include eicug_table.md %}

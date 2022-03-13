@@ -1,0 +1,56 @@
+- name: 'EIC User Group Annual Meeting (Warsaw)'
+  url: ''
+  dates: 'July 27-31, 2022'
+
+- name: 'EIC Early Career Meeting (Warsaw)'
+  url: ''
+  dates: 'July 25-26, 2022'
+
+- name: 'EIC User Group Remote Quarterly Meeting'
+  url: 'https://indico.bnl.gov/event/13619/overview'
+  dates: 'October 28, 2021'
+
+- name: 'EIC User Group Remote Annual Meeting'
+  url: 'https://indico.bnl.gov/event/11463/overview'
+  dates: 'August 2-7, 2021'
+
+- name: 'EIC User Group Remote Quarterly Meeting'
+  url: 'https://www.evernote.com/shard/s129/client/snv?noteGuid=147db247-f21f-3c74-590a-49da22868df2&noteKey=47d1079bf1a1a2d7eb74ff02b9518f5d&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs129%2Fsh%2F147db247-f21f-3c74-590a-49da22868df2%2F47d1079bf1a1a2d7eb74ff02b9518f5d&title=EICUG%2BRemote%2BMeeting%252C%2BThursday%252C%2BMay%2B20%252C%2B2021'
+  dates: 'May 20, 2021'
+
+- name: 'EIC User Group Remote Quarterly Meeting'
+  url: 'https://www.evernote.com/shard/s129/client/snv?noteGuid=a0ded046-8811-32a3-aa43-d47565a8ba86&noteKey=bd33c3e1f7c46bf9f3ef5cfd7e719f6e&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs129%2Fsh%2Fa0ded046-8811-32a3-aa43-d47565a8ba86%2Fbd33c3e1f7c46bf9f3ef5cfd7e719f6e&title=EICUG%2BRemote%2BMeeting%252C%2BThursday%252C%2BFebruary%2B4%252C%2B2021'
+  dates: 'February 4, 2021'
+
+- name: 'EIC User Group Remote Annual Meeting'
+  url: 'https://indico.bnl.gov/event/7352/'
+  dates: 'July 15-17, 2020'
+
+- name: 'EIC User Group Remote Quarterly Meeting'
+  url: 'https://www.evernote.com/shard/s129/client/snv?noteGuid=a53f7ca2-7f58-4634-8966-59445f76cb09&noteKey=8cf40efaabcbb5ed&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs129%2Fsh%2Fa53f7ca2-7f58-4634-8966-59445f76cb09%2F8cf40efaabcbb5ed&title=EICUG%2BRemote%2BMeeting%252C%2BThursday%252C%2BApril%2B23%252C%2B2020'
+  dates: 'April 23, 2020'
+
+- name: 'EIC User Group Remote Quarterly Meeting'
+  url: 'https://www.evernote.com/shard/s129/client/snv?noteGuid=117c78b8-bb44-4a19-a8e6-95b376dfc65e&noteKey=24ffe25b740d33dc&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs129%2Fsh%2F117c78b8-bb44-4a19-a8e6-95b376dfc65e%2F24ffe25b740d33dc&title=EICUG%2BRemote%2BMeeting%252C%2BThursday%252C%2BJanuary%2B23%252C%2B2020'
+  dates: 'January 23, 2020'
+
+- name: 'EIC User Group Annual meeting (Paris)'
+  url: 'https://indico.in2p3.fr/event/18281/'
+  dates: 'July 22-16, 2019'
+
+- name: 'EIC User Group Annual meeting (Washington D.C.)'
+  url: 'https://www.jlab.org/conferences/eicugm18/'
+  dates: 'July 30-August 2, 2018'
+
+- name: 'EIC User Group Annual meeting (Trieste)'
+  url: 'https://agenda.infn.it/event/13037/'
+  dates: 'July 18-22, 2017'
+
+
+- name: 'EIC User Group Annual meeting (Argonne)'
+  url: 'https://eic2016.phy.anl.gov/'
+  dates: 'July 7-9, 2016'
+
+- name: 'EIC User Group Meeting (Berkeley)'
+  url: 'https://indico.jlab.org/event/344/'
+  dates: 'January 6-9, 2016'
