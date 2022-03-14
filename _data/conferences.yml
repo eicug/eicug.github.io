@@ -87,3 +87,59 @@
   eicug: '&#8212;'
   status: 'past'
   
+- name: 'DIS2021'
+  url: 'https://indico.bnl.gov/event/9726/'
+  dates: '2021-04-12 to 2021-04-16'
+  eicug: '&#8212;'
+  status: 'past'
+  
+- name: 'CPAD Instrumentation Frontier Workshop'
+  url: 'https://www.stonybrook.edu/cfns/cpad2021/index.html'
+  dates: '2021-03-18 to 2021-03-22'
+  eicug: '&#8212;'
+  status: 'past'
+  
+- name: '2nd IR for the EIC Workshop'
+  url: 'https://indico.bnl.gov/event/10677/'
+  dates: '03/17/2021 to 03/19/2021'
+  eicug: '&#8212;'
+  status: 'past'
+
+- name: 'EIC Calorimetry Workshop: From Yellow Report to Implementation'
+  url: 'https://indico.phy.ornl.gov/event/38/'
+  dates: '03/15/2021 to 03/16/2021'
+  eicug: '&#8212;'
+  status: 'past'
+
+- name: 'Kick-off Meeting for EIC@IP6'
+  url: 'https://indico.bnl.gov/event/10825/'
+  dates: '03/12/2021 to 03/13/2021'
+  eicug: '&#8212;'
+  status: 'past'
+
+- name: 'Forward physics and QCD with LHC, EIC, and cosmic rays'
+  url: 'https://indico.cern.ch/event/947406/'
+  dates: '01/20/2021 to 01/23/2021'
+  eicug: '&#8212;'
+  status: 'past'
+
+- name: 'IAS Program on High Energy Physics (HEP 2021)'
+  url: 'https://indico.cern.ch/event/971970/'
+  dates: '01/14/2021 to 01/21/2021'
+  eicug: '&#8212;'
+  status: 'past'
+
+- name: 'EHM Workshop'
+  url: 'https://indico.cern.ch/event/971469/'
+  dates: '11/30/2020 to 12/04/2020'
+  eicug: '&#8212;'
+  status: 'past'
+
+
+#- name: ''
+#  url: ''
+#  dates: ''
+#  eicug: '&#8212;'
+#  status: 'past'
+
+

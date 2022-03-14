@@ -1,12 +1,10 @@
-{%- assign upcoming=site.data.conferences | where: "status", include.status -%}
+{%- assign selection=site.data.conferences | where: "status", include.status -%}
 
 <table width="80%" border="1" align="center">
+<tr><th>Conference/Workshop</th><th>Dates</th></tr>
+{%- for conf in selection -%}
 <tr>
-<th>Conference/Workshop</th><th>Dates</th><th>EICUG Participation/Speaker</th>
-</tr>
-{%- for conf in upcoming -%}
-<tr>
-<td width="50%">
+<td width="75%">
 {%- if conf.url=='' -%}
 {{ conf.name }}
 {%- else %}
@@ -15,9 +13,6 @@
 </td>
 <td width="25%">
 {{ conf.dates }}
-</td>
-<td width="25%">
-{{ conf.eicug }}
 </td>
 </tr>
 {%- endfor -%}
