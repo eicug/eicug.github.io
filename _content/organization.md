@@ -18,7 +18,6 @@ name: organization
 
 The Electron-Ion Collider User Group (EICUG) is an international affiliation of scientists dedicated to developing and promoting the scientific, technological, and educational goals and motivations for a new high energy
 [Electron-Ion Collider](https://www.bnl.gov/eic/){:target="_blank"}.
-
 A detailed scientific description can be found in the
 [2014 edition of the White Paper](https://arxiv.org/abs/1212.1701){:target="_blank"},
 as well as the 2015 U.S. Nuclear Science Advisory Committee
@@ -45,7 +44,8 @@ The EICUG is governed by the Institutional Board [IB](#institutional-board) and 
 Steering Committee [SC](#steering-committee).
 
 The IB is comprised of one delegate from each member institution. For a list of IB members,
-please select the Institutional Board menu tab on the Phone Book page. The IB appoints a Nominating Committee.
+please select the Institutional Board menu tab on the Phone Book page. The IB appoints
+the [Elections and Nominating Committee](#elections-and-nominating-committee).
 With the exception of two members of the SC-appointed by Jefferson Lab and Brookhaven National Laboratory,
 the IB elects the Steering Committee.
 
@@ -141,6 +141,18 @@ The guidelines for the speakers can be found at talk guidelines (TBD)
 * Franck Sabatié (Saclay, France) (Co-chair)
 * Sevil Salur (Univ. Rutgers, USA)
 * Daria Sokhan (Univ. Glasgow, UK)
+
+<span id="previous-leadership-teams"><br/></span>
+
+---
+
+#### Pervious Leadership Teams
+{% assign previous_leadership='/content/previous_leadership.html' | relative_url %}
+For information about previous leadership teams of
+the IB, SC and other committees please see the
+<a href="{{ previous_leadership }}">"Previous Leadership" page</a>.
+
+<span id="working-groups"><br/></span>
 
 ---
 

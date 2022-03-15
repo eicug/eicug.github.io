@@ -4,12 +4,6 @@ layout: base5
 name: sc
 ---
 
-{% include wip.md %}
-
-
-* TOC
-{:toc}
-
 {{ site.HR }}
 
 ### Current Leadership
@@ -34,8 +28,10 @@ __Lab Representatives__
 * Thomas Ullrich (Brookhaven National Laboratory, USA)
 * Rolf Ent (Thomas Jefferson National Accelerator Facility, USA)​
 
-{% assign sc_prev='/content/sc_previous.html' | relative_url %}
-<a href="{{ sc_prev }}">Previous Leadership Teams of the Steering Committee</a>
+
+{% assign previous_leadership='/content/previous_leadership.html' | relative_url %}
+Information about previous leadership teams of the Steering Committee can be found
+<a href="{{ previous_leadership }}">"Previous Leadership" page</a>.
 
 ---
 
