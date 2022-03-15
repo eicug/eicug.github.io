@@ -8,12 +8,10 @@
 {%- if conf.url=='' -%}
 {{ conf.name }}
 {%- else %}
-<a href="{{ conf.url }}" target="_blank">{{ conf.name}}</a>
+<a href="{{ conf.url }}" target="_blank">{{ conf.name }}</a>
 {%- endif %}
 </td>
-<td width="25%">
-{{ conf.dates }}
-</td>
+<td width="25%">{{ conf.dates }}</td>
 </tr>
 {%- endfor -%}
 </table>

@@ -6,6 +6,19 @@ name: sc
 
 {{ site.HR }}
 
+### Steering Committee Meetings
+{% assign sc_arch='/content/sc_archive.html' | relative_url %}
+__The EICUG Steering Committee meets weekly on Thursday, 10:00AM (EDT) for a 1h meeting discussing EICUG matters.__
+
+Starting October 21, 2021 the Steering Committee is using Indico
+to manage its meetings' agendas and minutes. Please use the following
+link to access:
+[https://indico.bnl.gov/category/383/](https://indico.bnl.gov/category/383/){:target="_blank"}.
+For meeting records prior to that date, please see the
+<a href="{{ sc_arch }}">Steering Committee Meeting Archive</a>
+
+---
+
 ### Current Leadership
 
 __Chair/Vice-Chair__
@@ -33,14 +46,4 @@ __Lab Representatives__
 Information about previous leadership teams of the Steering Committee can be found
 <a href="{{ previous_leadership }}">"Previous Leadership" page</a>.
 
----
 
-### Steering Committee Meetings
-
-Starting October 21, 2021 the Steering Committee is using Indico
-to manage its meetings' agendas and minutes. Please use the following
-link to access:
-[https://indico.bnl.gov/category/383/](https://indico.bnl.gov/category/383/){:target="_blank"}
-
-{% assign sc_arch='/content/sc_archive.html' | relative_url %}
-<a href="{{ sc_arch }}">Steering Committee Meeting Archive</a>

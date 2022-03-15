@@ -4,7 +4,6 @@ layout: base5
 name: sc_archive
 ---
 
-{% include wip.md %}
 {% assign sc_link='/content/sc.html' | relative_url %}
 
 ---

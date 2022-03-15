@@ -3,26 +3,24 @@ title: "Talks and Conferences"
 layout: base5
 name: conferences
 ---
-
-{% include wip.md %}
-
----
-
 * TOC
 {:toc}
-
 {{ site.HR }}
+### Speaker Nomination Procedure
 
-## Speaker&nbsp;nomination&nbsp;procedure
-
-* The conference and talks committee shall select suitable speakers taking into account expertise, EIC related contributions, willingness to talk about a subject, working group conveners' recommendations, self-recommendations and recent EICUG presentations in a fair, transparent and unbiased manner.
+* The conference and talks committee shall select suitable speakers taking into account expertise,
+EIC related contributions, willingness to talk about a subject, working group conveners’ recommendations,
+self-recommendations and recent EICUG presentations in a fair, transparent and unbiased manner.
 * In order to do so, a list with upcoming conferences and EIC talks will be made public on the EICUG pages. Physics and other working group conveners input on suitable speakers is requested. Also members are encouraged to nominate speakers (including themselves).
-* In order to fairly select speakers out of a large number of members, the addition of each person’s own expertise, willingness to talk and potential regional/travel constraints will be added to the user database.
-* Each speaker should provide a link to their talks which will be available on the EICUG conference and talks pages.
+* In order to fairly select speakers out of a large number of members, the addition of each person own expertise,
+willingness to talk and potential regional/travel constraints will be added to the user database.
+Each speaker should provide a link to their talks which will be available on the EICUG conference and talks pages.
+
+<span id="talk-guidelines"><br/></span>
 
 ---
  
-## Talk guidelines
+### Talk Guidelines
 
 In order to make sure that talks given on behalf of the EIC User Group present the project in the best way to a general audience, the following guidelines and links to several references have been assembled.
 
@@ -37,16 +35,20 @@ and [Yellow Report](https://inspirehep.net/literature/1851258){:target="_blank"}
 
 If you want to recommend a candidate for a particular presentation, including yourself, please contact the Conference and Talks committee at <eicug-talks@eicug.org>.
 
+<span id="upcoming-conferences"><br/></span>
+
 ---
 
-## Upcoming Conferences
+### Upcoming Conferences
 <br/>
 
 {% include conf_table.md status='upcoming' %}
 
+<span id="past-conferences"><br/></span>
+
 ---
 
-## Past Conferences
+### Past Conferences
 <br/>
 
 {% include conf_table.md status='past' %}

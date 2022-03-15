@@ -114,8 +114,10 @@ the IB elects the Steering Committee.
 
 #### Conference and Talks Committee
 The Conference and Talks Committee coordinates EIC-related seminar, colloquia, workshop and conference activities and selects appropriate speakers from the members of the EICUG. Please contact <eicug-talks@eicug.org> in order to suggest speakers or to let the conference and talks committee members know of new talk opportunities.
+{% assign talk_guidelines='/content/conferences.html#talk-guidelines' | relative_url %}
+The guidelines for the speakers can be found in the
+<a href="{{ talk_guidelines }}">dedicated section</a> of the "Conferences" page.
 
-The guidelines for the speakers can be found at talk guidelines (TBD)
 
 * Chair: Michela Chiosso (Univ. and INFN Torino, Italy)
 * Vice-Chair: Alexey Prokudin (PSU Berks, USA)
