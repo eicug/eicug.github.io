@@ -47,13 +47,13 @@
 
 - name: 'Light-Cone 2020 (2021)'
   url: 'https://indico.cern.ch/event/938795/'
-  dates: '2021-11-29 to 2021-12-4'
+  dates: '2021-11-29 to 2021-12-04'
   eicug: '&#8212;'
   status: 'past'
 
 - name: 'MC4EIC'
   url: 'https://indico.bnl.gov/event/13298/'
-  dates: '2021-11-29 to 2021-12-4'
+  dates: '2021-11-18 to 2021-11-19'
   eicug: '&#8212;'
   status: 'past'
 
@@ -446,6 +446,13 @@
   dates: '2018-12-03 to 2018-12-07'
   eicug: '&#8212;'
   status: 'past'
+
+- name: 'REF 2018'
+  url: 'https://indico.cern.ch/event/696311/'
+  dates: '2018-11-19 to 2018-11-23'
+  eicug: '&#8212;'
+  status: 'past'
+
 
 
 
