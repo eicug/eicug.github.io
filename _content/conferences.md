@@ -2,6 +2,12 @@
 title: "Talks and Conferences"
 layout: base5
 name: conferences
+years:
+- 2021
+- 2020
+- 2019
+- 2018
+---
 ---
 * TOC
 {:toc}
@@ -37,7 +43,7 @@ If you want to recommend a candidate for a particular presentation, including yo
 
 <span id="upcoming-conferences"><br/></span>
 
----
+{{ site.HR }}
 
 ### Upcoming Conferences
 <br/>
@@ -46,9 +52,15 @@ If you want to recommend a candidate for a particular presentation, including yo
 
 <span id="past-conferences"><br/></span>
 
----
+{{ site.HR }}
 
 ### Past Conferences
-<br/>
 
-{% include conf_table.md status='past' %}
+
+{% for year in page.years %}
+
+---
+
+#### {{ year }}
+{% include conf_table.md status='past' year=year %}
+{% endfor %}

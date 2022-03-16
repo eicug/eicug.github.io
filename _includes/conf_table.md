@@ -1,4 +1,8 @@
+{%- if include.year=='' -%}
 {%- assign selection=site.data.conferences | where: "status", include.status -%}
+{%- else -%}
+{%- assign selection=site.data.conferences | where: "status", include.status | where: "year", include.year -%}
+{%- endif %}
 
 <table width="80%" border="1" align="center">
 <tr><th>Conference/Workshop</th><th>Dates</th></tr>
