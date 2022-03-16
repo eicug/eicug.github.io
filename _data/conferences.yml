@@ -453,6 +453,48 @@
   eicug: '&#8212;'
   status: 'past'
 
+- name: 'QNP 2018'
+  url: 'https://www-conf.kek.jp/qnp2018/'
+  dates: '2018-11-13 to 2018-11-17'
+  eicug: '&#8212;'
+  status: 'past'
+
+- name: 'SPIN 2018'
+  url: 'hhttps://agenda.infn.it/event/12464/'
+  dates: '2018-09-09 to 2018-09-14'
+  eicug: '&#8212;'
+  status: 'past'
+
+- name: 'Quantum Entanglement at Collider Energies 2018'
+  url: 'https://indico.bnl.gov/event/4350/'
+  dates: '2018-10-12 to 2018-09-14'
+  eicug: '&#8212;'
+  status: 'past'
+
+- name: 'Short-range nuclear correlations at an Electron-Ion Collider 2018'
+  url: 'https://indico.bnl.gov/event/4343/'
+  dates: '2018-11-19 to 2018-11-23'
+  eicug: '&#8212;'
+  status: 'past'
+
+- name: 'U.S.-Based Electron-Ion Collider Science: Report Release Webinar'
+  url: 'https://www.eventbrite.com/e/us-based-electron-ion-collider-science-report-release-webinar-registration-47111789631#'
+  dates: '018-07-24'
+  eicug: '&#8212;'
+  status: 'past'
+
+- name: 'AUM 2018'
+  url: 'https://www.bnl.gov/aum2018/'
+  dates: '2018-06-12 to 2018-06-15'
+  eicug: '&#8212;'
+  status: 'past'
+
+- name: 'Next-generation GPD studies with exclusive meson production at EIC 2018'
+  url: 'https://indico.bnl.gov/event/4346/'
+  dates: '2018-06-04 to 2018-06-06'
+  eicug: '&#8212;'
+  status: 'past'
+
 
 
 
