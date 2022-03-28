@@ -6,11 +6,13 @@
               Home
               </a>
         </li>
-          <li class="nav-item">
-            {% include pages.md name=page.name active='science' icon='target' %}
-            Science
-            </a>
-            </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="https://www.bnl.gov/eic/science.php" target="_blank">
+          <span data-feather="target" style="color:coral" ></span>
+          EIC Science&nbsp;<span data-feather="external-link" style="color:coral" ></span>
+          </a>
+    </li>        
         <li class="nav-item">
               {% include pages.md name=page.name active='join' icon='user-plus' %}
               Join EICUG

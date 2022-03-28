@@ -100,7 +100,7 @@ the IB elects the Steering Committee.
 ---
 
 #### Diversity and Inclusion Committee
-* Chair: Wouter Deconinck (University of Manitoba, Canada)
+* Chair: Asmita Mukherjee (Indian Institute of Technology, Mumbia)
 * Members
   * Taya Chetry (Mississippi State University, USA)
   * Paul Gueye (Michigan State University, USA)
