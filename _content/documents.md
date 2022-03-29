@@ -38,8 +38,8 @@ name: documents
 
 
 ### Public Relations Materials
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6392196.svg)](https://doi.org/10.5281/zenodo.6392196){:target="_blank"} __EIC Brochure__
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6392213.svg)](https://doi.org/10.5281/zenodo.6392213){:target="_blank"} __EIC Fact Sheet__
 
-* [EIC Brochure](http://www.eicug.org/web/sites/default/files/EIC_Brochure.pdf){:target="_blank"}
-* [EIC Fact Sheet](http://www.eicug.org/web/sites/default/files/EIC_OnePage_FactSheet.pdf){:target="_blank"}
 
 
