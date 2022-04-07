@@ -16,8 +16,8 @@ name: documents
 
 ### Documents by the EIC Community
 
-* [The case for two EIC experiments (October 2021)](http://www.eicug.org/web/sites/default/files/Arguments%20for%20Two%20EIC%20Experiments%20Sep23.pdf){:target="_blank"}
-* [EIC Yellow Report Executive Summary (April 2021)](http://www.eicug.org/web/sites/default/files/EIC_YR_Summary_v1.0.pdf){:target="_blank"}
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6422182.svg)](https://doi.org/10.5281/zenodo.6422182){:target="_blank"} __The case for two EIC experiments (October 2021)__
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6422198.svg)](https://doi.org/10.5281/zenodo.6422198){:target="_blank"} __EIC Yellow Report Executive Summary (April 2021)__
 * [EIC Yellow Report (March 2021)](http://www.eicug.org/web/sites/default/files/Yellow_Report_v1.1.pdf){:target="_blank"}
 * [EIC White Paper (2nd edition 12/2014)](http://www.eicug.org/web/sites/default/files/WhitePaper_EIC_2nd_Edition.pdf){:target="_blank"}
 * [European Strategy report on the EIC accelerator (2018)](http://www.eicug.org/web/sites/default/files/EIC-Acc-European-update-r20.pdf){:target="_blank"}

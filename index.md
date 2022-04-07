@@ -49,7 +49,7 @@ how the matter we are all made of is bound together.
 * [JLab news release on site selection](https://www.jlab.org/news/releases/jefferson-lab-be-major-partner-electron-ion-collider-project){:target="_blank"}, January 10, 2020
 * [DOE news release on site selection](https://www.energy.gov/articles/us-department-energy-selects-brookhaven-national-laboratory-host-major-new-nuclear-physics){:target="_blank"}, January 9, 2020
 * Talk by Tim Hallman [(link to slides)](http://indico.in2p3.fr/event/18281/contributions/70135/attachments/54511/71422/Hallman_EIC_Users_Meeting_07222019.pptx) at the [2019 EIC User Meeting in Paris, France](http://indico.in2p3.fr/event/18281/){:target="_blank"}
-* [NAS Report 2018](http://eicug.org/web/sites/default/files/NAS_report2018.pdf){:target="_blank"}, July 24 , 2018. _"The committee unanimously finds that the science that can be addressed by an EIC is compelling, fundamental, and timely."_
+* [NAS Report 2018](https://doi.org/10.17226/25171){:target="_blank"}, July 24 , 2018. _"The committee unanimously finds that the science that can be addressed by an EIC is compelling, fundamental, and timely."_
 * Joint Statement by BNL, JLab and EICUG on the NAS report 2018
   * [JLab page](https://www.jlab.org/news/releases/statement-jefferson-lab-brookhaven-lab-and-electron-ion-collider-users-community){:target="_blank"}
   * [BNL page](https://www.bnl.gov/newsroom/news.php?a=212982){:target="_blank"}
