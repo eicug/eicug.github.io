@@ -28,7 +28,7 @@ its collection of documents from legacy platforms and locations, to the Zenodo p
 * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6422198.svg)](https://doi.org/10.5281/zenodo.6422198){:target="_blank"} __EIC Yellow Report Executive Summary (April 2021)__
 * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6423305.svg)](https://doi.org/10.5281/zenodo.6423305){:target="_blank"} __EIC Yellow Report (March 2021)__
 * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6423359.svg)](https://doi.org/10.5281/zenodo.6423359){:target="_blank"} __EIC White Paper (2nd edition, December 2014)__
-* [European Strategy report on the EIC accelerator (2018)](http://www.eicug.org/web/sites/default/files/EIC-Acc-European-update-r20.pdf){:target="_blank"}
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6425966.svg)](https://doi.org/10.5281/zenodo.6425966){:target="_blank"} __European Strategy report on the EIC accelerator (2018)__
 * [European Strategy report on the EIC physics (2018)](http://www.eicug.org/web/sites/default/files/EICdocumentforESPPU.pdf){:target="_blank"}
 * [Report on the 2010 INT program on the science case for an Electron-Ion Collider (2010)](https://arxiv.org/pdf/1108.1713){:target="_blank"}
 

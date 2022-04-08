@@ -10,11 +10,11 @@ name: sc
 {% assign sc_arch='/content/sc_archive.html' | relative_url %}
 __The EICUG Steering Committee meets weekly on Thursday, 10:00AM (EDT) for a 1h meeting discussing EICUG matters.__
 
-Starting October 21, 2021 the Steering Committee is using Indico
-to manage its meetings' agendas and minutes. Please use the following
-link to access:
+* Starting October 21, 2021 the Steering Committee is using Indico
+to manage its meetings' agendas and minutes.
+* Please use the following link to access:
 [https://indico.bnl.gov/category/383/](https://indico.bnl.gov/category/383/){:target="_blank"}.
-For meeting records prior to that date, please see the
+* For meeting records prior to that date, please see the
 <a href="{{ sc_arch }}">Steering Committee Meeting Archive</a>
 
 ---
@@ -36,12 +36,11 @@ __European Representative__
 * Daria Sokhan (Saclay, France / Univ. Glasgow, UK, on leave), term August 2021 - August 2023
 
 __International Representative__
-* Asmita Mukherjee (Indian Institute of Technology, Mumbia), term January 2022 - December 2023
+* Asmita Mukherjee (Indian Institute of Technology, Bombay), term January 2022 - December 2023
 
 __Lab Representatives__
+* Rolf Ent (Thomas Jefferson National Accelerator Facility, USA)
 * Thomas Ullrich (Brookhaven National Laboratory, USA)
-* Rolf Ent (Thomas Jefferson National Accelerator Facility, USA)​
-
 
 {% assign previous_leadership='/content/previous_leadership.html' | relative_url %}
 Information about previous leadership teams of the Steering Committee can be found

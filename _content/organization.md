@@ -68,16 +68,20 @@ the IB elects the Steering Committee.
 * Chair: Renee Fatemi (University of Kentucky, USA), term August 2021 - August 2023
 * Vice-Chair: Marco Radici (INFN - Pavia, Italy), term August 2021 - August 2023
 * At Large Members
+  * Tanja Horn (The Catholic University of America, USA), term January 2022 - December 2023
   * Yuri Kovchegov (OSU, USA), term January 2021 - December 2022
   * Silvia Dalla Torre (INFN, Italy), term January 2021 - December 2022
   * Olga Evdokimov (University of Illinois Chicago, USA), term January 2021 - December 2022
 * European Representative
   * Daria Sokhan (Saclay, France / Univ. Glasgow, UK, on leave), term August 2021 - August 2023
 * International Representative
-  * Wouter Deconinck (Manitoba, Canada), term January 2020 - December 2021
+  * Asmita Mukherjee (Indian Institute of Technology, Bombay), term January 2022 - December 2023
 * Lab Representatives
-  * Thomas Ullrich (Brookhaven National Laboratory, USA)
   * Rolf Ent (Thomas Jefferson National Accelerator Facility, USA)​
+  * Thomas Ullrich (Brookhaven National Laboratory, USA)
+
+Also see the dedicated [Steering Committee page]({{ '/content/sc.html' | relative_url }}).
+
 
 <span id="elections-and-nominating-committee"><br/></span>
 
@@ -100,7 +104,7 @@ the IB elects the Steering Committee.
 ---
 
 #### Diversity and Inclusion Committee
-* Chair: Asmita Mukherjee (Indian Institute of Technology, Mumbia)
+* Chair: Asmita Mukherjee (Indian Institute of Technology, Bombay)
 * Members
   * Taya Chetry (Mississippi State University, USA)
   * Paul Gueye (Michigan State University, USA)
@@ -123,8 +127,8 @@ The guidelines for the speakers can be found in the
 * Vice-Chair: Alexey Prokudin (PSU Berks, USA)
 * Members: term September 2021 - August 2022
   * Svetlana Barkanova (Memorial University of Newfoundland, Canada)
-  * Qinghua Xu (Shandong Univ., China)
   * Megan Elizabeth Connors (GSU, USA)
+  * Qinghua Xu (Shandong Univ., China)
 
 <span id="charter-committee"><br/></span>
 
