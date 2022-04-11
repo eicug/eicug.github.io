@@ -68,10 +68,10 @@ the IB elects the Steering Committee.
 * Chair: Renee Fatemi (University of Kentucky, USA), term August 2021 - August 2023
 * Vice-Chair: Marco Radici (INFN - Pavia, Italy), term August 2021 - August 2023
 * At Large Members
-  * Tanja Horn (The Catholic University of America, USA), term January 2022 - December 2023
-  * Yuri Kovchegov (OSU, USA), term January 2021 - December 2022
   * Silvia Dalla Torre (INFN, Italy), term January 2021 - December 2022
   * Olga Evdokimov (University of Illinois Chicago, USA), term January 2021 - December 2022
+  * Tanja Horn (The Catholic University of America, USA), term January 2022 - December 2023
+  * Yuri Kovchegov (OSU, USA), term January 2021 - December 2022
 * European Representative
   * Daria Sokhan (Saclay, France / Univ. Glasgow, UK, on leave), term August 2021 - August 2023
 * International Representative

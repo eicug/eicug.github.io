@@ -16,8 +16,17 @@ name: documents
 
 ### Zenodo
 
-EICUG is leveraging the world-class, versatile digital repository ["Zenodo"](https://zenodo.org/communities/eicug/){:target="_blank"} hosted by CERN.
-Zenodo provides extensive indexing and search capabilities, as well as a few tiers of access control. EICUG is currently in the process of migrating
+EICUG is leveraging the world-class, versatile digital repository
+["Zenodo"](https://zenodo.org/communities/eicug/){:target="_blank"} hosted by CERN.
+Zenodo provides extensive indexing and search capabilities, as well as a few tiers of access control.
+One of its key features is the provision of the
+[Digital Object Identifiers](https://en.wikipedia.org/wiki/Digital_object_identifier){:target="_blank"} (DOIs)
+under the auspices of the
+[International DOI Foundation](https://www.doi.org/){:target="_blank"}. Using these means of
+_persistent identification_ helps ensure continued discoverability of, and access to the EICUG
+materials over the long projected period of time of the EIC effort.
+
+EICUG is currently in the process of migrating
 its collection of documents from legacy platforms and locations, to the Zenodo platform.
 
 ---
@@ -28,9 +37,9 @@ its collection of documents from legacy platforms and locations, to the Zenodo p
 * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6422198.svg)](https://doi.org/10.5281/zenodo.6422198){:target="_blank"} __EIC Yellow Report Executive Summary (April 2021)__
 * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6423305.svg)](https://doi.org/10.5281/zenodo.6423305){:target="_blank"} __EIC Yellow Report (March 2021)__
 * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6423359.svg)](https://doi.org/10.5281/zenodo.6423359){:target="_blank"} __EIC White Paper (2nd edition, December 2014)__
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6425966.svg)](https://doi.org/10.5281/zenodo.6425966){:target="_blank"} __European Strategy report on the EIC accelerator (2018)__
-* [European Strategy report on the EIC physics (2018)](http://www.eicug.org/web/sites/default/files/EICdocumentforESPPU.pdf){:target="_blank"}
-* [Report on the 2010 INT program on the science case for an Electron-Ion Collider (2010)](https://arxiv.org/pdf/1108.1713){:target="_blank"}
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6425966.svg)](https://doi.org/10.5281/zenodo.6425966){:target="_blank"} __Electron Ion Collider Accelerator Science and Technology (European Strategy Update 2018)__
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6450178.svg)](https://doi.org/10.5281/zenodo.6450178){:target="_blank"} __Synergies between a U.S.-based EIC and the European research in Particle Physics (2018)__
+* [![arXiv](https://img.shields.io/badge/arXiv-1108.1713-b31b1b.svg)](https://arxiv.org/abs/1108.1713){:target="_blank"} __Gluons and the quark sea at high energies: distributions, polarization, tomography__ (Report on the 2010 INT program on the science case for an Electron-Ion Collider)
 
 ---
 

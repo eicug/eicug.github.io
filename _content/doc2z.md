@@ -16,3 +16,4 @@ name: doc2z
 | Yellow_Report_v1.1.pdf                                  | EIC Yellow Report                                        | https://doi.org/10.5281/zenodo.6423305          |
 | WhitePaper_EIC_2nd_Edition.pdf                          | EIC White Paper (2nd Edition)                            | https://doi.org/10.5281/zenodo.6423359          |
 | EIC-Acc-European-update-r20.pdf                         | European Strategy report on the EIC accelerator (2018)   | https://doi.org/10.5281/zenodo.6425966          |
+| EICdocumentforESPPU.pdf                                 | Synergies between EIC and the European research in PP    | https://doi.org/10.5281/zenodo.6450178          |
