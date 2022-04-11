@@ -36,7 +36,6 @@ how the matter we are all made of is bound together.
 
 ## EICUG News
 
-* EIC User Group Meeting in Warsaw will be moved from Warsaw to a different location. Warsaw Meeting will be in 2023.
 * <img
   src="https://flagcdn.com/16x12/ua.png"
   srcset="https://flagcdn.com/32x24/ua.png 2x,
@@ -44,6 +43,9 @@ how the matter we are all made of is bound together.
   width="16"
   height="12"
   alt="Ukraine">&nbsp;[Aid for Ukraine](https://urldefense.com/v3/__https://docs.google.com/document/d/1VXZ0C0_xEEdu7e0TJxGboKTi4ATQpUTpaVc7iMgpJ84/edit?usp=sharing__;!!P4SdNyxKAPE!RQKYXWouWGbP4GB9vtCX9ts9kw6PCZx6NBVgkWT7xfgPP-IRPLtWkuQ6ubi5t_07$){:target="_blank"}
+
+
+<!-- EIC User Group Meeting in Warsaw will be moved from Warsaw to a different location. Warsaw Meeting will be in 2023. -->
 
 <!-- br/>
 <div align="center">
