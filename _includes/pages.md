@@ -1,13 +1,16 @@
 
 {% assign stub='/content/' %}
+{% assign content_link=stub | append: include.active | append: ".html" | relative_url %}
+
 
 {% if include.active contains 'index' %}
 {% assign stub='/' %}
+{% assign content_link=stub | relative_url %}
 {% endif %}
+
 
 {% assign page_name=include.name %}
 
-{% assign content_link=stub | append: include.active | append: ".html" | relative_url %}
 
 {% if page_name contains include.active %}
 {% assign return_stub='<a class="nav-link active" href="' %}
