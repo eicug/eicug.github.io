@@ -25,6 +25,12 @@
   eicug: '&#8212;'
   status: 'upcoming'
 
+- name: 'Transversity 2022'
+  url: 'https://agenda.infn.it/event/19219/'
+  dates: '2022-05-23 to 2022-05-27'
+  eicug: '&#8212;'
+  status: 'upcoming'
+
 - name: 'QCD Evolution 2022'
   url: 'https://conference.phys.virginia.edu/indico/event/7/'
   dates: '2022-05-09 to 2022-05-13'
