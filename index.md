@@ -36,6 +36,7 @@ how the matter we are all made of is bound together.
 
 ## EICUG News
 
+* [EICUG Newsletters]({{ '/content/newsletters.html' | relative_url }})
 * <img
   src="https://flagcdn.com/16x12/ua.png"
   srcset="https://flagcdn.com/32x24/ua.png 2x,

@@ -127,13 +127,13 @@ Information about previous leadership teams of the Steering Committee can be fou
 ---
 
 #### Diversity and Inclusion Committee
-* Chair: Asmita Mukherjee (Indian Institute of Technology, Bombay)
+* Chair: Narbe Kalantarians (Virginia Union University, USA)
 * Members
   * Taya Chetry (Mississippi State University, USA)
   * Paul Gueye (Michigan State University, USA)
-  * Narbe Kalantarians (Virginia Union University, USA)
   * Astrid Morreale (Los Alamos National Lab, USA)
   * Sanghwa Park (Stony Brook University, USA)
+  * Rosi Reed (Lehigh University, USA)
 
 <span id="conference-and-talks-committee"><br/></span>
 
