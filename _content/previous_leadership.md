@@ -165,12 +165,12 @@ __​September 2018 - August 2019__
 
 ### Diversity and Inclusion
 
-_Work in Progress_
+* Astrid Morreale (LANL)
+* Wouter Deconinck (U Manitoba)
 
 ---
 
 
-### Current Links
+### Current Leadership
 
-* <a href="{{ sc_link }}">Steering Committee</a>
 * <a href="{{ org_link }}">EICUG Organization</a>
