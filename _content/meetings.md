@@ -11,8 +11,7 @@ name: meetings
 * TOC
 {:toc}
 
-<span id="annual"><br/></span>
-{{ site.HR }}
+---
 
 ### EICUG Annual and Quarterly Meetings
 
@@ -27,6 +26,3 @@ name: meetings
 * ['Generic Detector R&D for an Electron Ion Collider'](https://wiki.bnl.gov/conferences/index.php/EIC_R%25D){:target="_blank"}
 * ['R&D Advisory Committee Meetings'](https://wiki.bnl.gov/conferences/index.php/Meetings){:target="_blank"}
 
-### Notes
-
-TBD

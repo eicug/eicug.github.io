@@ -131,7 +131,6 @@ Information about previous leadership teams of the Steering Committee can be fou
 * Members
   * Taya Chetry (Mississippi State University, USA)
   * Paul Gueye (Michigan State University, USA)
-  * Astrid Morreale (Los Alamos National Lab, USA)
   * Sanghwa Park (Stony Brook University, USA)
   * Rosi Reed (Lehigh University, USA)
 
