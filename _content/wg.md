@@ -17,14 +17,24 @@ name: wg
 
 ### Software
 
-The group maintains a web site [eic.github.io](https://eic.github.io){:target="_blank"} and a [GitHub Organization](https://github.com/eic){:target="_blank"}.
-It also coordinates the AI activity for the EIC community. Please contact the conveners to get involved in the working group.
-<br/>Conveners:
+The Software Working Group (SWG) is open to all members of the EICUG to work on all aspects of EIC Software. The initial focus of the SWG is on physics and detector simulations and the support of the ongoing development of the science program and detectors for the EIC.
+The group maintains a web site [eic.github.io](https://eic.github.io){:target="_blank"} and a [GitHub Organization](https://github.com/eic){:target="_blank"}. Please contact the conveners to get involved in the working group:
 * Andrea Bressan - INFN - <andrea.bressan@ts.infn.it>
 * Markus Diefenthaler - JLab - <mdiefent@jlab.org>
 * Torre Wenaus - BNL - <wenaus@gmail.com>
+
+<span id="ai"><br/></span>
+
+---
+
+### AI
+
+EIC has the unique opportunity to start incorporating AI from the very beginning and to systematically leverage on it during all phases of the project. AI will be an integral part of the EIC software and we will take advantage of intelligent decisions in all aspects of data processing from detector readout and control to analysis. To work in this direction, there is an AI Working Group (AI) as part of the SWG. The AIWG will serve as an entry point to AI applications and will organize workshops, tutorials, and Kaggle-like challenges. Conveners:
 * Cristiano Fanelli - AI sector - MIT - <cfanelli@mit.edu>
 * Tanja Horn - AI sector - CUA - <hornt@cua.edu>
+
+The group maintains a mailing list: <eicug-software-ai@eicug.org> and a ["AI4EIC website"](https://eic.ai/){:target="_blank"}.
+
 
 <span id="computing-coordination"><br/></span>
 
@@ -48,6 +58,18 @@ Conveners:
 
 The group has a dedicated [Indico category](https://indico.bnl.gov/category/280/){:target="_blank"}
 as well as the [mailing list](mailto:eicug-polarimetry@eicug.org) _(eicug-polarimetry@eicug.org)_.
+
+<span id="irluminosity"><br/></span>
+
+---
+
+### IR/Luminosity
+
+Conveners:
+* Charles Hyde - ODU - <chyde@odu.edu>
+* Alexander Kiselev - BNL - <ayk@bnl.gov>
+* Christoph Montag - BNL - <montagc@bnl.gov>
+* Vasily Morozov - JLab - <morozov@jlab.org>
 
 
 <span id="theoretical-physics"><br/></span>
@@ -77,8 +99,10 @@ The EICUG community currently supports and is using the following collaborative 
 * Google Calendar
 * Wiki
 * Dropbox
+* Zenodo --  world-class, versatile digital repository hosted by CERN, where EICUG maintains its own [community](https://zenodo.org/communities/eicug/){:target="_blank"}.
 * GitHub Pages (for software code management and documentation)
 
-A document management system based on Zenodo is in the works and will be announced when ready.
+
+
 If you have questions or need assistance with the EIC Collaborative Tools please contact
 the coordinator: potekhin_at_bnl.gov.
