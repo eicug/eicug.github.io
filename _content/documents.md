@@ -4,9 +4,10 @@ layout: base5
 name: documents
 ---
 
-{% include wip.md %}
+{% comment %}
+include wip.md
+{% endcomment %}
 
----
 <h2>EICUG Documents</h2>
 
 * TOC
@@ -46,10 +47,14 @@ its collection of documents from legacy platforms and locations, to the Zenodo p
 
 ### Technical Notes
 
-* [G. Continn et al., Strategy Document for Silicon Tracking and Vertexing for the EIC (April 2021)](https://www.eicug.org/web/sites/default/files/2021_04_26_silicon_tracking_strategy.pdf){:target="_blank"}
-* [A. Collu, L. Greiner, Powering options for an EIC silicon tracker (March 2021)](https://www.eicug.org/web/sites/default/files/Powering-options-for-an-EIC-silicon-tracker.pdf){:target="_blank"}
-* [Report on Accelerator and beam conditions critical for physics and detector simulations for the Electron-Ion Collider](http://www.eicug.org/web/sites/default/files/Accelerator_and_beam_conditions_critical_for_EIC_simulations.pdf){:target="_blank"}
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6514350.svg)](https://doi.org/10.5281/zenodo.6514350){:target="_blank"} __Strategy Document for Silicon Tracking and Vertexing for the EIC (April 2021)__
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6514523.svg)](https://doi.org/10.5281/zenodo.6514523){:target="_blank"} __Powering options for an EIC silicon tracker__
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6514605.svg)](https://doi.org/10.5281/zenodo.6514605){:target="_blank"} __Accelerator and beam conditions critical for physics and detector simulations for the Electron-Ion Collider__
+
+{% comment %}
+NB. This doesn't render probably on Windows when downloaded, so let's skip it for now.
 * [A Visualization of an EIC beam collision at 18 GeVx275 GeV](https://www.dropbox.com/s/g7t06wlk34frpn8/ep-18x275-Tab3p3.mp4){:target="_blank"}
+{% endcomment %}
 
 ---
 
