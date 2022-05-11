@@ -36,6 +36,7 @@ its collection of documents from legacy platforms and locations, to the Zenodo p
 
 * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6539707.svg)](https://doi.org/10.5281/zenodo.6539707){:target="_blank"} __ATHENA Detector Proposal - A Totally Hermetic Electron Nucleus Apparatus (December 2021)__
 * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6536630.svg)](https://doi.org/10.5281/zenodo.6536630){:target="_blank"} __CORE - a COmpact detectoR for the EIC (December 2021)__
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6537588.svg)](https://doi.org/10.5281/zenodo.6537588){:target="_blank"} __EIC Comprehensive Chromodynamics Experiment Collaboration Detector Proposal (December 2021)__
 
 ---
 
