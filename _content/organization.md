@@ -129,7 +129,6 @@ Information about previous leadership teams of the Steering Committee can be fou
 #### Diversity and Inclusion Committee
 * Chair: Taya Chetry (Mississippi State University, USA)
 * Members
-  * Taya Chetry (Mississippi State University, USA)
   * Paul Gueye (Michigan State University, USA)
   * Narbe Kalantarians (Virginia Union University, USA)
   * Sanghwa Park (Stony Brook University, USA)
