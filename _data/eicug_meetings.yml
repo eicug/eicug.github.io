@@ -1,9 +1,9 @@
-- name: 'Annual Meeting (Warsaw)'
-  url: ''
+- name: 'Annual Meeting (Stony Brook)'
+  url: 'https://indico.bnl.gov/event/15342/'
   dates: 'July 26-30, 2022'
 
-- name: 'EIC Early Career Meeting (Warsaw)'
-  url: ''
+- name: 'EIC Early Career Meeting (Stony Brook)'
+  url: 'https://indico.jlab.org/event/485/'
   dates: 'July 24-25, 2022'
 
 - name: 'Spring Quarterly Meeting'
