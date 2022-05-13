@@ -19,17 +19,17 @@
   eicug: '&#8212;'
   status: 'upcoming'
 
-- name: 'Frontiers &amp; Careers'
-  url: 'https://indico.jlab.org/event/529/'
-  location: 'MIT, Boston, Cambridge'
-  dates: '2022-08-05 to 2022-08-02'
-  eicug: '&#8212;'
-  status: 'upcoming'
-
 - name: 'Photonuclear Gordon Conference'
   url: 'https://www.grc.org/photonuclear-reactions-conference/2022/'
   location: 'Holderness, NH'
   dates: '2022-08-07 to 2022-08-12'
+  eicug: '&#8212;'
+  status: 'upcoming'
+
+- name: 'Frontiers &amp; Careers'
+  url: 'https://indico.jlab.org/event/529/'
+  location: 'MIT, Boston, Cambridge'
+  dates: '2022-08-05 to 2022-08-02'
   eicug: '&#8212;'
   status: 'upcoming'
 
