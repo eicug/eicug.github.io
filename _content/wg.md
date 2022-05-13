@@ -90,7 +90,7 @@ The EICUG community currently supports and is using the following collaborative 
 * Google Calendar
 * Wiki
 * Dropbox
-* [Zenodo documentation datasbase for the EICUG](https://zenodo.org/communities/eicug/){:target="_blank"}.
+* [Zenodo documentation database for the EICUG](https://zenodo.org/communities/eicug/){:target="_blank"}.
 * GitHub Pages (for software code management and documentation)
 
 If you have questions or need assistance with the EIC Collaborative Tools please contact
