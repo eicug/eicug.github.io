@@ -51,7 +51,7 @@ The SWG communicates via its [mailing list](mailto:eicug-software@eicug.org){:ta
 The Computing Coordination Group coordinates resources among EIC computing efforts. Members are the liaisons for EIC computing resources at BNL and Jefferson Lab and representatives from the EICUG SWG and the forming EIC collaboration:
 * Jerome Lauret - BNL - <jeromel@bnl.gov>
 * Graham Heyes - JLab - <heyes@jlab.org>
-* More members will be added when the updated charge and membership for the Computing Coordination Group will be announced. 
+* Additional community representatives.
 
 <span id="polarimetry"><br/></span>
 
