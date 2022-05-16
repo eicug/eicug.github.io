@@ -66,17 +66,6 @@ Conveners:
 The group has a dedicated [Indico category](https://indico.bnl.gov/category/280/){:target="_blank"}
 as well as the [mailing list](mailto:eicug-polarimetry@eicug.org) _(eicug-polarimetry@eicug.org)_.
 
-<span id="irluminosity"><br/></span>
-
----
-
-### IR/Luminosity
-
-Conveners:
-* Charles Hyde - ODU - <chyde@odu.edu>
-* Alexander Kiselev - BNL - <ayk@bnl.gov>
-* Christoph Montag - BNL - <montagc@bnl.gov>
-* Vasily Morozov - JLab - <morozov@jlab.org>
 
 <span id="collaborative-tools"><br/></span>
 
