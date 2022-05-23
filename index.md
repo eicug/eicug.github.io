@@ -24,6 +24,11 @@ as the low-energy debris as a means to definitively understand
 how the matter we are all made of is bound together.
 <br/>
 
+
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G-9I0buDi4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## EICUG News
@@ -36,8 +41,6 @@ how the matter we are all made of is bound together.
   width="16"
   height="12"
   alt="Ukraine">&nbsp;[Aid for Ukraine](https://docs.google.com/document/d/1VXZ0C0_xEEdu7e0TJxGboKTi4ATQpUTpaVc7iMgpJ84/edit){:target="_blank"}
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G-9I0buDi4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/>
 {{ site.HR }}
