@@ -48,10 +48,17 @@ The SWG communicates via its [mailing list](mailto:eicug-software@eicug.org){:ta
 
 ### Computing&nbsp;Coordination
 
-The Computing Coordination Group coordinates resources among EIC computing efforts. Members are the liaisons for EIC computing resources at BNL and Jefferson Lab and representatives from the EICUG SWG and the forming EIC collaboration:
-* Jerome Lauret - BNL - <jeromel@bnl.gov>
-* Graham Heyes - JLab - <heyes@jlab.org>
-* Additional community representatives.
+The Computing Coordination Group coordinates resources among EIC computing efforts, keeps records of required and available resources and their usage, acts as the contact point for institutions that intend to contribute computing resources, performs infrastructure assessments to fold in international computing resources, and pursues and develops in-common data flow and management practices.
+* Liaisons for EIC computing resources at the host labs:
+    * Jerome Lauret - BNL - <jeromel@bnl.gov>
+    * Graham Heyes - JLab - <heyes@jlab.org>
+* [EICUG Software/AI Working Group](#software) delegates:
+    * Andrea Bressan - <andrea.bressan@ts.infn.it>
+    * Cristiano Fanelli - <cfanelli@mit.edu>
+* EIC Detector-1 Computing/Software Working Group delegate:
+    * David Lawrence - <davidl@jlab.org>
+* EIC Detector-1 Simulation, Production and QA Working Group delegate:
+    * Wouter Deconinck - <wouter.deconinck@umanitoba.ce>
 
 <span id="polarimetry"><br/></span>
 
