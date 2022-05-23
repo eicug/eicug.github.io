@@ -5,6 +5,9 @@ collections:
     output: true
     permalink: /content/:title.html
 
+plugins:
+  - jekyll-ical-tag
+
 HR: '<hr style="height:8px;border:none;color:#999;background-color:coral;" />'
 
 exclude:
