@@ -58,7 +58,7 @@ The Computing Coordination Group coordinates resources among EIC computing effor
 * EIC Detector-1 Computing/Software Working Group delegate:
     * David Lawrence - <davidl@jlab.org>
 * EIC Detector-1 Simulation, Production and QA Working Group delegate:
-    * Wouter Deconinck - <wouter.deconinck@umanitoba.ce>
+    * Wouter Deconinck - <wouter.deconinck@umanitoba.ca>
 
 <span id="polarimetry"><br/></span>
 
