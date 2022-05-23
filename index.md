@@ -35,12 +35,12 @@ how the matter we are all made of is bound together.
     https://flagcdn.com/48x36/ua.png 3x"
   width="16"
   height="12"
-  alt="Ukraine">&nbsp;[Aid for Ukraine](https://urldefense.com/v3/__https://docs.google.com/document/d/1VXZ0C0_xEEdu7e0TJxGboKTi4ATQpUTpaVc7iMgpJ84/edit?usp=sharing__;!!P4SdNyxKAPE!RQKYXWouWGbP4GB9vtCX9ts9kw6PCZx6NBVgkWT7xfgPP-IRPLtWkuQ6ubi5t_07$){:target="_blank"}
+  alt="Ukraine">&nbsp;[Aid for Ukraine](https://docs.google.com/document/d/1VXZ0C0_xEEdu7e0TJxGboKTi4ATQpUTpaVc7iMgpJ84/edit){:target="_blank"}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G-9I0buDi4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/>
 {{ site.HR }}
-
 
 <br/><br/><br/><br/><br/>
 <div align="center">
