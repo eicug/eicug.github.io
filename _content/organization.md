@@ -131,6 +131,7 @@ Information about previous leadership teams of the Steering Committee can be fou
 * Members
   * Paul Gueye (Michigan State University, USA)
   * Narbe Kalantarians (Virginia Union University, USA)
+  * Asmita Mukherjee (Indian Institute of Technology Bombay, India)
   * Sanghwa Park (Stony Brook University, USA)
   * Rosi Reed (Lehigh University, USA)
 
