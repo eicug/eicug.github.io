@@ -134,6 +134,7 @@ Information about previous leadership teams of the Steering Committee can be fou
   * Asmita Mukherjee (Indian Institute of Technology Bombay, India)
   * Sanghwa Park (Stony Brook University, USA)
   * Rosi Reed (Lehigh University, USA)
+  * Cheuk-Ping Wong (Los Alamos National Laboratory, USA)
 
 <span id="conference-and-talks-committee"><br/></span>
 
