@@ -34,7 +34,7 @@ The Software Working Group (SWG) is open to all members of the EICUG to work on 
 
 EIC has the unique opportunity to start incorporating AI from the very beginning and to systematically leverage on it during all phases of the project. AI will be an integral part of the EIC software and we will take advantage of intelligent decisions in all aspects of data processing from detector readout and control to analysis. To work in this direction, there is an AI Working Group (AI) as part of the SWG. The AIWG will serve as an [entry point to AI applications](https://eic.ai){:target="_blank"} and will organize workshops, tutorials, and Kaggle-like challenges. 
 
-##### Communication
+#### Communication
 The SWG communicates via its [mailing list](mailto:eicug-software@eicug.org){:target="_blank"} and organizes regular [online and in-person meetings](https://indico.bnl.gov/category/301/){:target="_blank"} as well as tutorials that enable broad and active participation from within the EICUG as a whole. For questions about the Software Working Group, please contact the [conveners](mailto:eicug-software-conveners@eicug.org){:target="_blank"}: 
 * Andrea Bressan (University of Trieste and INFN)
 * Markus Diefenthaler (Jefferson Lab)
