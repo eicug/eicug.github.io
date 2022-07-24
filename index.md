@@ -24,12 +24,18 @@ as the low-energy debris as a means to definitively understand
 how the matter we are all made of is bound together.
 <br/>
 
+---
 
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G-9I0buDi4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+<a href="https://www.stronginteractions.org/" target="_blank"><img width="50%" src="{{ '/assets/images/site/StrongInteractions_Logo.png' | relative_url }}"></a>
 </div>
 
----
+<br/><br/>
+
+{{ site.HR }}
 
 ## EICUG News
 
@@ -46,9 +52,14 @@ how the matter we are all made of is bound together.
 {{ site.HR }}
 
 <br/><br/><br/><br/><br/>
+
 <div align="center">
-<img src="{{ '/assets/images/site/ion-collision-xparent.png' | relative_url }}" id="grad1" width="60%">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G-9I0buDi4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+<!-- div align="center">
+<img src="{{ '/assets/images/site/ion-collision-xparent.png' | relative_url }}" id="grad1" width="60%">
+</div -->
 
 <br/>
 
