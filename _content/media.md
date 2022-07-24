@@ -30,8 +30,14 @@ name: media
 * NAS News Release, [nationalacademies.org](https://www.nationalacademies.org/news/2018/07/a-domestic-electron-ion-collider-would-unlock-scientific-mysteries-of-atomic-nuclei-maintain-us-leadership-in-accelerator-science-new-report-says){:target="_blank"}, 24 July 2018
 
 
----
+{{ site.HR }}
 
 ## Images
 
 * [BNL EIC Album on Flickr](https://www.flickr.com/photos/brookhavenlab/albums/72157714316624996){:target="_blank"}
+
+---
+
+## Video
+
+* ["Charting the Inner Structure of the Proton" on YouTube](https://www.youtube.com/embed/G-9I0buDi4s){:target="_blank"}

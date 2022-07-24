@@ -49,13 +49,12 @@ how the matter we are all made of is bound together.
   alt="Ukraine">&nbsp;[Aid for Ukraine](https://docs.google.com/document/d/1VXZ0C0_xEEdu7e0TJxGboKTi4ATQpUTpaVc7iMgpJ84/edit){:target="_blank"}
 
 <br/>
-{{ site.HR }}
 
-<br/><br/><br/><br/><br/>
+<!-- br/><br/><br/><br/><br/>
 
 <div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G-9I0buDi4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+</div -->
 
 <!-- div align="center">
 <img src="{{ '/assets/images/site/ion-collision-xparent.png' | relative_url }}" id="grad1" width="60%">
