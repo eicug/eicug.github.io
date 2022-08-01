@@ -17,29 +17,29 @@ name: previous_leadership
 #### Steering
 
 __January 2022 - August 2022__
-* Renee Fatemi (Chair)
-* Marco Radici (Vice Chair)
-* Yuri Kovchegov (Member at large)
-* Silvia Dalla Torre (Member at large)
-* Tanja Horn (Member at large)
+* Renee Fatemi (Univ. Kentucky, USA) (Chair)
+* Marco Radici (INFN-Pavia, Italy) (Vice Chair)
+* Yuri Kovchegov (OSU, USA) (Member at large)
+* Silvia Dalla Torre (INFN-Trieste, Italy) (Member at large)
+* Tanja Horn (CUA, USA) (Member at large)
 * Rolf Ent (JLab Representative)
 * Thomas Ullrich (BNL Representative)
-* Daria Sokhan (EU Representative)
-* Asmita Mukherjee (International Representative)
-* Olga Evdokimov (IB Chair)
+* Daria Sokhan (Saclay, France) (EU Representative)
+* Asmita Mukherjee (IITB, India) (International Representative)
+* Olga Evdokimov (UIC, USA) (IB Chair)
 
 
 __August 2021 - December 2021__
-* Renee Fatemi (Chair)
-* Marco Radici (Vice Chair)
-* Yuri Kovchegov (Member at large)
-* Silvia Dalla Torre (Member at large)
-* Barbara Jacak (Member at large)
+* Renee Fatemi (Univ. Kentucky, USA) (Chair)
+* Marco Radici (INFN-Pavia, Italy) (Vice Chair)
+* Yuri Kovchegov (OSU, USA) (Member at large)
+* Silvia Dalla Torre (INFN-Trieste, Italy) (Member at large)
+* Barbara Jacak (LBNL and Univ. California at Berkeley, USA) (Member at large)
 * Rolf Ent (JLab Representative)
 * Thomas Ullrich (BNL Representative)
-* Daria Sokhan (EU Representative)
-* Wouter Deconinck (International Representative)
-* Olga Evdokimov (IB Chair)
+* Daria Sokhan (Saclay, France) (EU Representative)
+* Wouter Deconinck (Univ. Manitoba, Canada) (International Representative)
+* Olga Evdokimov (UIC, USA) (IB Chair)
 
 __January 2021 - August 2021__
 * Bernd Surrow (Chair)
@@ -93,8 +93,8 @@ __End of 2016 - July 2017__
 ### Institutional Board
 
 __January 2021 - December 2022__
-* Olga Evdokimov (Chair)
-* Andrea Bressan (Vice Chair)
+* Olga Evdokimov (UIC, USA) (Chair)
+* Andrea Bressan (Univ. and INFN - Trieste, Italy) (Vice Chair)
 
 __January 2019 - December 2020__
 * Christine Aidala (Chair)
@@ -224,7 +224,7 @@ __January 2022 - May 2022__
 * Sanghwa Park (SBU, USA)
 * Rosi Reed (Lehigh Univ., USA)
 
-__October 2020 - December 2021  __
+__October 2020 - December 2021__
 * Wouter Deconinck (Univ. Manitoba, Canada) (Chair)
 * Taya Chetry (MSU, USA)
 * Paul Gueye (MSU, USA)
