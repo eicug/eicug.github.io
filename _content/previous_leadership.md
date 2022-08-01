@@ -16,6 +16,19 @@ name: previous_leadership
 
 #### Steering
 
+__January 2022 - August 2022__
+* Renee Fatemi (Chair)
+* Marco Radici (Vice Chair)
+* Yuri Kovchegov (Member at large)
+* Silvia Dalla Torre (Member at large)
+* Tanja Horn (Member at large)
+* Rolf Ent (JLab Representative)
+* Thomas Ullrich (BNL Representative)
+* Daria Sokhan (EU Representative)
+* Asmita Mukherjee (International Representative)
+* Olga Evdokimov (IB Chair)
+
+
 __August 2021 - December 2021__
 * Renee Fatemi (Chair)
 * Marco Radici (Vice Chair)
@@ -79,6 +92,10 @@ __End of 2016 - July 2017__
 
 ### Institutional Board
 
+__January 2021 - December 2022__
+* Olga Evdokimov (Chair)
+* Andrea Bressan (Vice Chair)
+
 __January 2019 - December 2020__
 * Christine Aidala (Chair)
 * Andrea Bressan (Vice Chair)
@@ -92,6 +109,13 @@ __End 2016 - December 2018__
 ---
 
 ### Elections and Nominating
+
+__September 2021 - August 2023__
+* Douglas Higinbotham (JLab, USA) (Chair)
+* Adrian Dumitru (CUNY, USA)
+* Charlotte Van Hulse (Univ. Alcala', Madrid, Spain)
+* Cristina Tuve' (Univ. and INFN - Catania, Italy)
+* Bedangadas Mohanty (NISER, India)
 
 __September 2020 - August 2021__
 * Abhay Deshpande (SBU/BNL, USA)
@@ -120,6 +144,18 @@ __September 2018 - August 2019__
 
 ### Charter
 
+__January 2020 - December 2022__
+* Richard Milner (MIT, USA) (Co-Chair)
+* Franck Sabatie' (Saclay, France)
+* John Arrington (LBL, USA)
+* Will Brooks (USM Valparaiso, Chile)
+* Olga Evdokimov (UIC, USA)
+* Yuji Goto (RIKEN, Japan)
+* Barbara Jacak (LBNL and Univ. California at Berkeley, USA)
+* Marco Radici (INFN - Pavia, Italy)
+* Sevil Salur (Univ. Rutgers, USA)
+* Daria Sokhan (Saclay, France)
+
 __2016 - December 2019__
 * Richard Milner (Co-Chair)
 * Rik Yoshida (Co-Chair)
@@ -137,6 +173,13 @@ __2016 - December 2019__
 ---
 
 ### Conference and Talks
+
+__September 2021 - August 2022__
+* Michela Chiosso (Univ. and INFN Torino, Italy) (Chair)
+* Alexey Prokudin (PSU Berks, USA) (Vice-Chair)
+* Svetlana Barkanova (Memorial Univ. of Newfoundland, Canada)
+* Megan Elizabeth Connors (GSU, USA)
+* Qinghua Xu (Shandong Univ., China)
 
 __September 2020 - August 2021__
 * Svetlana Barkanova (Memorial University of Newfoundland, Canada)
@@ -163,10 +206,31 @@ __​September 2018 - August 2019__
 
 ---
 
-### Diversity and Inclusion
+### Diversity, Equity and Inclusion
 
-* Astrid Morreale (LANL)
-* Wouter Deconinck (U Manitoba)
+__May 2022 - August 2022__
+* Taya Chetry (MSU, USA) (Chair)
+* Paul Gueye (MSU, USA)
+* Narbe Kalantarians (Virginia Union Univ., USA)
+* Asmita Mukherjee (IITB, India)
+* Sanghwa Park (SBU, USA)
+* Rosi Reed (Lehigh Univ., USA)
+* Cheuk-Ping Wong (LANL, USA)
+
+__January 2022 - May 2022__
+* Narbe Kalantarians (Virginia Union Univ., USA) (Chair)
+* Paul Gueye (MSU, USA)
+* Taya Chetry (MSU, USA)
+* Sanghwa Park (SBU, USA)
+* Rosi Reed (Lehigh Univ., USA)
+
+__October 2020 - December 2021  __
+* Wouter Deconinck (Univ. Manitoba, Canada) (Chair)
+* Taya Chetry (MSU, USA)
+* Paul Gueye (MSU, USA)
+* Narbe Kalantarians (Virginia Union Univ., USA)
+* Sanghwa Park (SBU, USA)
+* Astrid Morreale 
 
 ---
 
