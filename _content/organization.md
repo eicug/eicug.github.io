@@ -125,7 +125,7 @@ Information about previous leadership teams of the Steering Committee can be fou
 
 ---
 
-#### Diversity and Inclusion Committee
+#### Diversity, Equity and Inclusion Committee
 * Chair: Taya Chetry (Mississippi State University, USA)
 * Members
   * Paul Gueye (Michigan State University, USA)
@@ -157,16 +157,16 @@ The guidelines for the speakers can be found in the
 ---
 
 #### Charter Committee
-*Phase 2/3: ​January 2020 - current*
+*Phase 3/4: ​January 2020 - current*
 
+* Richard Milner (MIT, USA) (Co-chair)
+* Franck Sabatié (Saclay, France) (Co-chair)
 * John Arrington (LBL, USA)
 * Will Brooks (USM Valparaiso, Chile)
 * Olga Evdokimov (Univ. of Illinois, Chicago, USA)
 * Yuji Goto (RIKEN, Japan)
 * Barbara Jacak (LBNL & Univ. California at Berkeley, USA)
-* Richard Milner (MIT, USA) (Co-chair)
 * Marco Radici (INFN Pavia, Italy)
-* Franck Sabatié (Saclay, France) (Co-chair)
 * Sevil Salur (Univ. Rutgers, USA)
 * Daria Sokhan (Univ. Glasgow, UK)
 
@@ -174,7 +174,7 @@ The guidelines for the speakers can be found in the
 
 ---
 
-#### Pervious Leadership Teams
+#### Previous Leadership Teams
 {% assign previous_leadership='/content/previous_leadership.html' | relative_url %}
 For information about previous leadership teams of
 the IB, SC and other committees please see the
