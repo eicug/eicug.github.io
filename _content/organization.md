@@ -85,11 +85,12 @@ __Chair/Vice-Chair__
 * Vice-Chair: Marco Radici (INFN - Pavia, Italy), term August 2021 - August 2023
 
 __At Large Members__
-* Olga Evdokimov (University of Illinois Chicago, USA), term January 2021 - December 2022
 * Silvia Dalla Torre (INFN, Italy), term January 2021 - December 2022
 * Tanja Horn (The Catholic University of America, USA), term January 2022 - December 2023
 * Yuri Kovchegov (OSU, USA), term January 2021 - December 2022
 
+__IB Representative__
+* Olga Evdokimov (University of Illinois Chicago, USA), term January 2021 - December 2022
 
 __European Representative__
 * Daria Sokhan (Saclay, France / Univ. Glasgow, UK, on leave), term August 2021 - August 2023
@@ -112,15 +113,13 @@ Information about previous leadership teams of the Steering Committee can be fou
 
 #### Elections and Nominating Committee
 
-*Term: September 2021 - August 2022​*
-
-* Chair: Douglas Higinbotham (JLab, USA)
+* Chair: Douglas Higinbotham (JLab, USA), term September 2020 - August 2023
 * Vice-Chair: not yet available
 * Members
-  * Adrian Dumitru (CUNY, USA)
-  * Bedangadas Mohanty (NISER, India)
-  * Cristina Tuvè (Univ. and INFN - Catania, Italy)
-  * Charlotte Van Hulse (IPN-Orsay, France)
+  * Adrian Dumitru (CUNY, USA), term September 2021 - August 2024
+  * Bedangadas Mohanty (NISER, India), term September 2021 - August 2024
+  * Cristina Tuvè (Univ. and INFN - Catania, Italy), term September 2021 - August 2024
+  * Charlotte Van Hulse (Univ. Alcala', Madrid, Spain), term September 2020 - August 2023
 
 <span id="diversity-and-inclusion-committee"><br/></span>
 
@@ -147,12 +146,11 @@ The guidelines for the speakers can be found in the
 <a href="{{ talk_guidelines }}">dedicated section</a> of the "Conferences" page.
 
 
-* Chair: Michela Chiosso (Univ. and INFN Torino, Italy)
-* Vice-Chair: Alexey Prokudin (PSU Berks, USA)
-* Members: term September 2021 - August 2022
-  * Svetlana Barkanova (Memorial University of Newfoundland, Canada)
-  * Megan Elizabeth Connors (GSU, USA)
-  * Qinghua Xu (Shandong Univ., China)
+* Chair: Michela Chiosso (Univ. and INFN Torino, Italy), term September 2020 - August 2022
+* Vice-Chair: Alexey Prokudin (PSU Berks, USA), term September 2020 - August 2022
+* Svetlana Barkanova (Memorial University of Newfoundland, Canada), term September 2020 - August 2022
+* Megan Elizabeth Connors (GSU, USA), term September 2021 - August 2023
+* Qinghua Xu (Shandong Univ., China), term September 2021 - August 2023
 
 <span id="charter-committee"><br/></span>
 
