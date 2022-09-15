@@ -39,6 +39,8 @@ The Yellow Report development strategy was formulated along the following lines:
   * EIC, once built, will be unique facility to push frontiers of accelerator S&T
   * Document ideas for experiments to study further push of EIC performance and/or generic accelerator R&D
 
+[Portal to Figures from the EICUG Yellow Report](https://eicwiki.jlab.org/documents/yellow-report/figures/){:target="_blank"}
+
 ---
 
 #### Yellow Report Working Groups
