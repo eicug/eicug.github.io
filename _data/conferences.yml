@@ -7,57 +7,67 @@
 #  eicug: '&#8212;'
 #  status: 'upcoming'
 
+
+
+
+- name: 'International School and Workshop on Probing Hadron Structure at the Electron-Ion Collider'
+  url: 'http://www.eicug.org'
+  dates: '2024-01-29 to 2024-02-09'
+  eicug: '&#8212;'
+  status: 'upcoming'
+
+################### PAST
 - name: 'QNP2022'
   url: 'https://indico.jlab.org/event/344/'
   dates: '2022-09-05 to 2022-09-09'
   eicug: '&#8212;'
-  status: 'upcoming'
+  status: 'past'
 
 - name: '2022 CFNS Summer School on the Physics of the Electron-Ion Collider'
   url: ''
   dates: '2022-08-01 to 2022-08-13'
   eicug: '&#8212;'
-  status: 'upcoming'
+  status: 'past'
 
 - name: 'Photonuclear Gordon Conference'
   url: 'https://www.grc.org/photonuclear-reactions-conference/2022/'
   location: 'Holderness, NH'
   dates: '2022-08-07 to 2022-08-12'
   eicug: '&#8212;'
-  status: 'upcoming'
+  status: 'past'
 
 - name: 'Frontiers &amp; Careers'
   url: 'https://indico.jlab.org/event/529/'
   location: 'MIT, Boston, Cambridge'
   dates: '2022-08-05 to 2022-08-02'
   eicug: '&#8212;'
-  status: 'upcoming'
+  status: 'past'
 
 - name: 'XIVth Quark Confinement and the Hadron Spectrum'
   url: 'https://indico.uis.no/event/2/'
   dates: '2022-08-01 to 2022-08-06'
   eicug: '&#8212;'
-  status: 'upcoming'
+  status: 'past'
 
 - name: 'Transversity 2022'
   url: 'https://agenda.infn.it/event/19219/'
   dates: '2022-05-23 to 2022-05-27'
   eicug: '&#8212;'
-  status: 'upcoming'
+  status: 'past'
 
 - name: 'QCD Evolution 2022'
   url: 'https://conference.phys.virginia.edu/indico/event/7/'
   dates: '2022-05-09 to 2022-05-13'
   eicug: '&#8212;'
-  status: 'upcoming'
+  status: 'past'
 
 - name: 'DIS2022'
   url: 'https://indico.cern.ch/event/1072533/'
   dates: '2022-05-02 to 2022-05-06'
   eicug: '&#8212;'
-  status: 'upcoming'
+  status: 'past'
 
-################### PAST
+
 
 - name: 'Lepton-Photon 2021 (2022)'
   url: 'https://indico.cern.ch/event/949705/'
