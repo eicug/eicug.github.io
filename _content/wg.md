@@ -22,6 +22,33 @@ The Theoretical Physics Working Group solicits overarching questions/topics from
 * Alessandro Bacchetta (Univerity of Pavia and INFN) - <alessandro.bacchetta@unipv.it>
 * Felix Ringer (Stony Brook University) - <felix.ringer@stonybrook.edu>
 
+<span id="detectorII"><br/></span>
+
+---
+
+### Detector II/IP8 Group
+
+The Detector II/IP8 Group is charged to
+1. Engage the broader community, including theorists, accelerator physicists and ePIC
+experimentalists, to fully develop projections for the portfolio of measurements that are
+complementary to the ePIC physics program, including those that capitalize on the implementation
+of the secondary focus.
+2. Work with the EICUG Steering Committee and Project to recruit new institutions and establish a
+diverse and vibrant 2nd Detector working group.
+3. Utilize the extended design period for Detector 2 to identify groups that will focus on R&D for
+emerging technologies that could provide another aspect of complementarity to ePIC.
+4. Facilitate the development of a unified concept for a general-purpose detector at IR8. In particular,
+the 2nd detector should be complementary to the project detector at IR6 and may capitalize on the
+possibility of a secondary focus at IR8.
+
+The conveners are:
+* Sangbaek Lee (ANL/MIT)
+* Simonetta Liuti (University of Virginia)
+* Pawel Nadel-Turonski (Stony Brook University)
+* Thomas Ullrich (BNL/Yale)
+* Anselm Vossen (Duke University)
+* Walter Wittmer (JLAB)
+
 <span id="software"><br/></span>
 
 ---
