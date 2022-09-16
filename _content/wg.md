@@ -50,8 +50,12 @@ The conveners are:
 * Walter Wittmer (JLAB)
 
 [Mailing list](mailto:eic-det2-l@lists.bnl.gov){:target="_blank"} 
+
 [Contacting the conveners](eic-det2-conveners-l@lists.bnl.gov){:target="_blank"} 
-[Indico](https://indico.bnl.gov/category/439/){:target="_blank"} and [Wiki](https://wiki.bnl.gov/eic-detector-2/){:target="_blank"}
+
+[Indico](https://indico.bnl.gov/category/439/){:target="_blank"} 
+
+[Wiki](https://wiki.bnl.gov/eic-detector-2/){:target="_blank"}
 
 
 <span id="software"><br/></span>
