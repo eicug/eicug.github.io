@@ -22,13 +22,13 @@ The Theoretical Physics Working Group solicits overarching questions/topics from
 * Alessandro Bacchetta (Univerity of Pavia and INFN) - <alessandro.bacchetta@unipv.it>
 * Felix Ringer (Stony Brook University) - <felix.ringer@stonybrook.edu>
 
-<span id="detectorII"><br/></span>
+<span id="detector-II"><br/></span>
 
 ---
 
-### Detector II/IP8 Group
+### Detector-II/IP8 Group
 
-The Detector II/IP8 Group is charged to
+The Detector-II/IP8 Group is charged to
 1. Engage the broader community, including theorists, accelerator physicists and ePIC
 experimentalists, to fully develop projections for the portfolio of measurements that are
 complementary to the ePIC physics program, including those that capitalize on the implementation
@@ -48,6 +48,11 @@ The conveners are:
 * Thomas Ullrich (BNL/Yale)
 * Anselm Vossen (Duke University)
 * Walter Wittmer (JLAB)
+
+[Mailing list](mailto:eic-det2-l@lists.bnl.gov){:target="_blank"} 
+[Contacting the conveners](eic-det2-conveners-l@lists.bnl.gov){:target="_blank"} 
+[Indico](https://indico.bnl.gov/category/439/){:target="_blank"} and [Wiki](https://wiki.bnl.gov/eic-detector-2/){:target="_blank"}
+
 
 <span id="software"><br/></span>
 
