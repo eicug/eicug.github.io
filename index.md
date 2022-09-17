@@ -47,6 +47,7 @@ how the matter we are all made of is bound together.
   width="16"
   height="12"
   alt="Ukraine">&nbsp;[Aid for Ukraine](https://docs.google.com/document/d/1VXZ0C0_xEEdu7e0TJxGboKTi4ATQpUTpaVc7iMgpJ84/edit){:target="_blank"}
+* [New Brochure on Detector-II](https://doi.org/10.5281/zenodo.7087906){:target="_blank"}
 
 <br/>
 
