@@ -70,6 +70,7 @@ NB. This doesn't render probably on Windows when downloaded, so let's skip it fo
 ### Public Relations Materials
 * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6392196.svg)](https://doi.org/10.5281/zenodo.6392196){:target="_blank"} __EIC Brochure__
 * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6392213.svg)](https://doi.org/10.5281/zenodo.6392213){:target="_blank"} __EIC Fact Sheet__
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7087906.svg)](https://doi.org/10.5281/zenodo.7087906){:target="_blank"} __Detector-II Brochure__
 
 
 
