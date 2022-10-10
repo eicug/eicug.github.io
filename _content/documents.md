@@ -42,6 +42,7 @@ its collection of documents from legacy platforms and locations, to the Zenodo p
 
 ### Documents by the EIC Community
 
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7183212.svg)](https://doi.org/10.5281/zenodo.7183211){:target="_blank"} __The Electron Ion Collider: Exploring the mysteries of the building blocks of matter (October 2022)__
 * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6422182.svg)](https://doi.org/10.5281/zenodo.6422182){:target="_blank"} __The case for two EIC experiments (October 2021)__
 * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6422198.svg)](https://doi.org/10.5281/zenodo.6422198){:target="_blank"} __EIC Yellow Report Executive Summary (April 2021)__
 * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6423305.svg)](https://doi.org/10.5281/zenodo.6423305){:target="_blank"} __EIC Yellow Report (March 2021)__
