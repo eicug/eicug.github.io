@@ -50,7 +50,7 @@ its collection of documents from legacy platforms and locations, to the Zenodo p
 * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6425966.svg)](https://doi.org/10.5281/zenodo.6425966){:target="_blank"} __Electron Ion Collider Accelerator Science and Technology (European Strategy Update 2018)__
 * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6450178.svg)](https://doi.org/10.5281/zenodo.6450178){:target="_blank"} __Synergies between a U.S.-based EIC and the European research in Particle Physics (2018)__
 * [![arXiv](https://img.shields.io/badge/arXiv-1108.1713-b31b1b.svg)](https://arxiv.org/abs/1108.1713){:target="_blank"} __Gluons and the quark sea at high energies: distributions, polarization, tomography__ (Report on the 2010 INT program on the science case for an Electron-Ion Collider)
-
+* [White Paper on the Electron-Ion Collider in Preparation for the NSAC Long Range Plan: Draft](https://www.dropbox.com/s/yk6pvhoxd9irdz9/LRP_EIC_White_Paper_Draft.pdf?dl=0){:target="_blank"}
 ---
 
 
