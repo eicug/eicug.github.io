@@ -74,7 +74,7 @@ EIC has the unique opportunity to start incorporating AI from the very beginning
 The SWG communicates via its [mailing list](mailto:eicug-software@eicug.org){:target="_blank"} and organizes regular [online and in-person meetings](https://indico.bnl.gov/category/301/){:target="_blank"} as well as tutorials that enable broad and active participation from within the EICUG as a whole. For questions about the Software Working Group, please contact the [conveners](mailto:eicug-software-conveners@eicug.org){:target="_blank"}: 
 * Andrea Bressan (University of Trieste and INFN)
 * Markus Diefenthaler (Jefferson Lab)
-* Cristiano Fanelli (Massachusetts Institute of Technology)
+* Cristiano Fanelli (William & Mary)
 * Tanja Horn (Catholic University of America)
 * Torre Wenaus (BNL)
 
@@ -90,7 +90,7 @@ The Computing Coordination Group coordinates resources among EIC computing effor
     * Graham Heyes - JLab - <heyes@jlab.org>
 * [EICUG Software/AI Working Group](#software) delegates:
     * Andrea Bressan - <andrea.bressan@ts.infn.it>
-    * Cristiano Fanelli - <cfanelli@mit.edu>
+    * Cristiano Fanelli - <cfanelli@wm.edu>
 * EIC Detector-1 Computing/Software Working Group delegate:
     * David Lawrence - <davidl@jlab.org>
 * EIC Detector-1 Simulation, Production and QA Working Group delegate:
