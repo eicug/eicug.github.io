@@ -1,3 +1,7 @@
+- name: 'Remote Quarterly Meeting'
+  url: 'https://indico.bnl.gov/event/17718/'
+  dates: 'November 17, 2022'
+
 - name: 'Annual Meeting (Stony Brook)'
   url: 'https://indico.bnl.gov/event/15342/'
   dates: 'July 26-30, 2022'
