@@ -145,12 +145,10 @@ The Conference and Talks Committee coordinates EIC-related seminar, colloquia, w
 The guidelines for the speakers can be found in the
 <a href="{{ talk_guidelines }}">dedicated section</a> of the "Conferences" page.
 
-
-* Chair: Michela Chiosso (Univ. and INFN Torino, Italy), term September 2020 - August 2022
-* Vice-Chair: Alexey Prokudin (PSU Berks, USA), term September 2020 - August 2022
-* Svetlana Barkanova (Memorial University of Newfoundland, Canada), term September 2020 - August 2022
-* Megan Elizabeth Connors (GSU, USA), term September 2021 - August 2023
-* Qinghua Xu (Shandong Univ., China), term September 2021 - August 2023
+* Co-chair: Megan Elizabeth Connors (Georgia State University, USA), term September 2021 - August 2023
+* Co-chair: Qinghua Xu (Shandong Univ., China), term September 2021 - August 2023
+* Nichole D'Hose (IRFU, CEA, University Paris-Saclay), term January 2023 - December 2024
+* Andrea Signori (University of Turin, Italy), term January 2023 - December 2024
 
 <span id="charter-committee"><br/></span>
 
