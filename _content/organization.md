@@ -147,7 +147,7 @@ The guidelines for the speakers can be found in the
 
 * Co-chair: Megan Elizabeth Connors (Georgia State University, USA), term September 2021 - August 2023
 * Co-chair: Qinghua Xu (Shandong Univ., China), term September 2021 - August 2023
-* Nichole D'Hose (IRFU, CEA, University Paris-Saclay), term January 2023 - December 2024
+* Nicole D'Hose (IRFU, CEA, University Paris-Saclay), term January 2023 - December 2024
 * Andrea Signori (University of Turin, Italy), term January 2023 - December 2024
 
 <span id="charter-committee"><br/></span>
