@@ -91,9 +91,8 @@ The Computing Coordination Group coordinates resources among EIC computing effor
 * [EICUG Software/AI Working Group](#software) delegates:
     * Andrea Bressan - <andrea.bressan@ts.infn.it>
     * Cristiano Fanelli - <cfanelli@wm.edu>
-* EIC Detector-1 Computing/Software Working Group delegate:
-    * David Lawrence - <davidl@jlab.org>
-* EIC Detector-1 Simulation, Production and QA Working Group delegate:
+* ePIC Detector Computing/Software Working Group delegates:
+    * Sylvester Joosten - <sjoosten@anl.gov>
     * Wouter Deconinck - <wouter.deconinck@umanitoba.ca>
 
 <span id="collaborative-tools"><br/></span>
