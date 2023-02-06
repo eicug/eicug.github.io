@@ -109,6 +109,7 @@ The EICUG community currently supports and is using the following collaborative 
 * Wiki
 * Dropbox
 * [Zenodo documentation database for the EICUG](https://zenodo.org/communities/eicug/){:target="_blank"}.
+* [Mattermost workspace](https://eic.cloud.mattermost.com/){:target="_blank"} (any current member can invite you; ask your group leader or email [eicug-webmaster@eicug.org](mailto:eicug-webmaster@eicug.org))
 * GitHub Pages (for software code management and documentation)
 
 If you have questions or need assistance with the EIC Collaborative Tools please contact
