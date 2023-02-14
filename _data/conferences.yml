@@ -13,7 +13,27 @@
   eicug: '&#8212;'
   status: 'upcoming'
 
+- name: 'POETIC 2023'
+  dates: '2023-05-02 to 2023-05-06'
+  location: 'Sao Paulo, Brazil'
+  url: 'https://www.ictp-saifr.org/poetic2023/'
+  eicug: '&#8212;'
+  status: 'upcoming'
+
+- name: 'DIS2023'
+  dates: '2023-03-27 to 2023-03-31'
+  location: 'East Lansing, Michigan, USA'
+  url: 'https://indico.cern.ch/event/1199314/'
+  eicug: '&#8212;'
+  status: 'upcoming'
+
 ################### PAST
+- name: 'Diffraction and Low-x 2022'
+  dates: '2022-09-24 to 2022-09-30'
+  location: 'Corigliano Calabro, Italy'
+  eicug: '&#8212;'
+  status: 'past'
+
 - name: 'QNP2022'
   url: 'https://indico.jlab.org/event/344/'
   dates: '2022-09-05 to 2022-09-09'
@@ -46,8 +66,23 @@
   eicug: '&#8212;'
   status: 'past'
 
+- name: 'RHIC/AGS Annual Users Meeting 2022'
+  location: 'BNL'
+  dates: '2022-06-07 to 2022-06-10'
+  url: 'https://indico.bnl.gov/event/15479/'
+  eicug: '&#8212;'
+  status: 'past'
+
+- name: 'Synergies between the Electron-Ion Collider and the Large Hadron Collider'
+  url: 'https://indico.ph.tum.de/event/7014/'
+  location: 'CERN'
+  dates: '2022-06-20 to 2022-06-21'
+  eicug: '&#8212;'
+  status: 'past'
+  
 - name: 'Transversity 2022'
   url: 'https://agenda.infn.it/event/19219/'
+  location: 'Pavia, Italy'
   dates: '2022-05-23 to 2022-05-27'
   eicug: '&#8212;'
   status: 'past'
