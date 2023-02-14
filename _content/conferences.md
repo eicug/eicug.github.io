@@ -3,6 +3,7 @@ title: "Talks and Conferences"
 layout: base5
 name: conferences
 years:
+- 2022
 - 2021
 - 2020
 - 2019
