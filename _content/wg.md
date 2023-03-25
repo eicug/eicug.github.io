@@ -42,12 +42,17 @@ the 2nd detector should be complementary to the project detector at IR6 and may 
 possibility of a secondary focus at IR8.
 
 The conveners are:
-* Sangbaek Lee (ANL/MIT)
-* Simonetta Liuti (University of Virginia)
-* Pawel Nadel-Turonski (Stony Brook University)
-* Thomas Ullrich (BNL/Yale)
-* Anselm Vossen (Duke University)
-* Walter Wittmer (JLAB)
+*  Sangaek Lee (ANL)
+*  Simoneeta Liuti (University of Virginia)
+*  Pawel Nadel-Turonski (Stony Brook University)
+*  Thomas Ullrich (BNL/Yale)
+*  Anselm Vossen (Duke University/JLAB)
+*  Detector Co-conveners
+   * Klaus Dehmelt
+   * Ernst Sichterman
+* Physics Co-conveners
+   * Charles Hyde
+   * Bjorn Schenke
 
 [Mailing list](mailto:eic-det2-l@lists.bnl.gov){:target="_blank"} 
 
