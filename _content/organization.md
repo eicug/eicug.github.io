@@ -32,7 +32,8 @@ as well as the 2015 U.S. Nuclear Science Advisory Committee
 Membership in the EICUG is open to all scientists actively engaged in Electron-Ion Collider related science, detector R&D, simulations and design. Information regarding joining the EICUG is available at the [dedicated page]({{ '/content/join.html' | relative_url }}) on this site. The EICUG maintains its
 [membership database](https://phonebook.sdcc.bnl.gov/eic/client){:target="_blank"},
 a.k.a. the "phone book".
-The EICUG organization is defined by the [EICUG Charter]({{ '/assets/documents/EICUG-Charter-01122018.pdf' | relative_url }}){:target="_blank"}.
+The EICUG organization is defined by the Phase III Charter [EICUG Charter]({{ '/assets/documents/EICUG-Charter-vote.pdf' | relative_url }}){:target="_blank"}(add link), which was approved in December of 2022.  The steering committee is in the process of implementing the new structure described in this document and plans to transition fully to the new structure by May 1, 2023.  The previous Phase II Charter may be found here [EICUG Charter]({{ '/assets/documents/EICUG-Charter-01122018.pdf' | relative_url }}){:target="_blank"}.
+
 
 <span id="governance"><br/><br/></span>
 
