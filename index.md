@@ -30,7 +30,7 @@ how the matter we are all made of is bound together.
 
 
 
-<a href="https://www.stronginteractions.org/" target="_blank"><img width="50%" src="{{ '/assets/images/site/StrongInteractions_Logo.png' | relative_url }}"></a>
+<a href="https://indico.cern.ch/event/1238718/" target="_blank"><img width="50%" src="{{ '/assets/images/site/summer2023.png' | relative_url }}"></a>
 </div>
 
 <br/><br/>
