@@ -83,25 +83,6 @@ The SWG communicates via its [mailing list](mailto:eicug-software@eicug.org){:ta
 * Tanja Horn (Catholic University of America)
 * Torre Wenaus (BNL)
 
-<span id="computing-coordination"><br/></span>
-
----
-
-### Computing&nbsp;Coordination
-
-The Computing Coordination Group coordinates resources among EIC computing efforts, keeps records of required and available resources and their usage, acts as the contact point for institutions that intend to contribute computing resources, performs infrastructure assessments to fold in international computing resources, and pursues and develops in-common data flow and management practices.
-* Liaisons for EIC computing resources at the host labs:
-    * Jerome Lauret - BNL - <jeromel@bnl.gov>
-    * Graham Heyes - JLab - <heyes@jlab.org>
-* [EICUG Software/AI Working Group](#software) delegates:
-    * Andrea Bressan - <andrea.bressan@ts.infn.it>
-    * Cristiano Fanelli - <cfanelli@wm.edu>
-* ePIC Detector Computing/Software Working Group delegates:
-    * Sylvester Joosten - <sjoosten@anl.gov>
-    * Wouter Deconinck - <wouter.deconinck@umanitoba.ca>
-
-<span id="collaborative-tools"><br/></span>
-
 ---
 
 ### Collaborative Tools
@@ -113,7 +94,6 @@ The EICUG community currently supports and is using the following collaborative 
 * Wiki
 * Dropbox
 * [Zenodo documentation database for the EICUG](https://zenodo.org/communities/eicug/){:target="_blank"}.
-* [Mattermost workspace](https://eic.cloud.mattermost.com/){:target="_blank"} (any current member can invite you; ask your group leader or email [eicug-webmaster@eicug.org](mailto:eicug-webmaster@eicug.org))
 * GitHub Pages (for software code management and documentation)
 
 If you have questions or need assistance with the EIC Collaborative Tools please contact
