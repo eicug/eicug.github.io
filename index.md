@@ -9,8 +9,8 @@ name: index
 ## Welcome
 
 This is the home page of the Electron-Ion Collider User Group *(EICUG)*.
-The EICUG consists of more than 1200 physicists from over
-[250 laboratories and universities from around the world]({{ '/content/map.html' | relative_url }}){:target="_blank"}.
+The EICUG consists of more than 1400 physicists from over
+[290 laboratories and universities from 38 countries around the world]({{ '/content/map.html' | relative_url }}){:target="_blank"}.
 
 EICUG members are working together to realize a powerful new facility in the
 United States with the aim of studying the particles, gluons, which
@@ -26,16 +26,22 @@ how the matter we are all made of is bound together.
 
 ---
 
-<div align="center">
+<br/>
 
+The next EICUG annual meeting will be held on 2024, July 22 - 27, at Lehigh University (Bethlehem, Pennsylvania, USA). 
 
+The web site is in preparation. Further information will be given later in the First Circular. 
 
-<a href="https://indico.cern.ch/event/1238718/" target="_blank"><img width="50%" src="{{ '/assets/images/site/summer2023.png' | relative_url }}"></a>
-</div>
+<br/>
 
-<br/><br/>
+[List of previous EICUG meetings](https://www.eicug.org/content/meetings.html){:target="_blank"}
 
-{{ site.HR }}
+<br/>
+
+---
+
+<br/>
+
 
 ## EICUG News
 
@@ -51,6 +57,15 @@ how the matter we are all made of is bound together.
 
 <br/>
 
+
+ <!-- <div align="center"> 
+<a href="https://indico.cern.ch/event/1238718/" target="_blank"><img width="50%" src="{{ '/assets/images/site/summer2023.png' | relative_url }}"></a>
+</div>
+
+{{ site.HR }}
+
+<br/><br/>
+
 <!-- br/><br/><br/><br/><br/>
 
 <div align="center">
@@ -62,8 +77,6 @@ how the matter we are all made of is bound together.
 </div -->
 
 <br/>
-
-
 
 
 <!-- EIC User Group Meeting in Warsaw will be moved from Warsaw to a different location. Warsaw Meeting will be in 2023. -->
