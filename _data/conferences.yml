@@ -14,23 +14,23 @@
   eicug: '&#8212;'
   status: 'upcoming'
 
+################### PAST
 - name: 'POETIC 2023'
   dates: '2023-05-02 to 2023-05-06'
-  #year: '2023'
+  year: '2023'
   location: 'Sao Paulo, Brazil'
   url: 'https://www.ictp-saifr.org/poetic2023/'
   eicug: '&#8212;'
-  status: 'upcoming'
+  status: 'past'
 
 - name: 'DIS2023'
   dates: '2023-03-27 to 2023-03-31'
-  #year: '2023'
+  year: '2023'
   location: 'East Lansing, Michigan, USA'
   url: 'https://indico.cern.ch/event/1199314/'
   eicug: '&#8212;'
-  status: 'upcoming'
+  status: 'past'
 
-################### PAST
 - name: 'Diffraction and Low-x 2022'
   dates: '2022-09-24 to 2022-09-30'
   year: '2022'
