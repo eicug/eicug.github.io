@@ -8,6 +8,7 @@ name: media
 ## EIC News
 
 
+* Nuclear Science Advisory Committee: [the 2023 Long Range Plan for Nuclear Science](https://science.osti.gov/-/media/np/nsac/pdf/202310/NSAC-LRP-2023-v12.pdf){:target="_blank"}
 * [Electron-Ion Collider Achieves Critical Decision 1 Approval](https://www.bnl.gov/newsroom/news.php?a=118765){:target="_blank"}, July 6 2021
 * [BNL newsroom article on the Yellow Report](https://www.bnl.gov/newsroom/news.php?a=118762){:target="_blank"}, March 16 2021
 * [BNL news release on site selection](https://www.bnl.gov/newsroom/news.php?a=116998){:target="_blank"}, January 10, 2020
@@ -18,7 +19,7 @@ name: media
 * Joint Statement by BNL, JLab and EICUG on the NAS report 2018
   * [JLab page](https://www.jlab.org/news/releases/statement-jefferson-lab-brookhaven-lab-and-electron-ion-collider-users-community){:target="_blank"}
   * [BNL page](https://www.bnl.gov/newsroom/news.php?a=212982){:target="_blank"}
-* Nuclear Science Advisory Committee: [the 2015 Long Range Plan for Nuclear Sscience](https://science.osti.gov/-/media/np/nsac/pdf/2015LRP/2015_LRPNS_091815.pdf?la=en&hash=F731E22D31731E61C64E4B684377314FD4A0D6C7){:target="_blank"}
+* Nuclear Science Advisory Committee: [the 2015 Long Range Plan for Nuclear Science](https://science.osti.gov/-/media/np/nsac/pdf/2015LRP/2015_LRPNS_091815.pdf?la=en&hash=F731E22D31731E61C64E4B684377314FD4A0D6C7){:target="_blank"}
 
 
 ---
@@ -29,6 +30,17 @@ name: media
 * "Department of Energy Selects Site for Electron-Ion Collider", [Interactions.org](https://www.interactions.org/press-release/department-energy-selects-site-electron-ion-collider){:target="_blank"}, 10 January 2020
 * NAS News Release, [nationalacademies.org](https://www.nationalacademies.org/news/2018/07/a-domestic-electron-ion-collider-would-unlock-scientific-mysteries-of-atomic-nuclei-maintain-us-leadership-in-accelerator-science-new-report-says){:target="_blank"}, 24 July 2018
 
+
+---
+
+## EIC Newsletter
+
+* [2020](https://zenodo.org/communities/eicug/search?page=1&size=20&q=2020&q=eicug-newsletter&keywords=eicug-newsletter&keywords=2020){:target="_blank"}
+* [2019](https://zenodo.org/communities/eicug/search?page=1&size=20&q=2019&q=eicug-newsletter&keywords=eicug-newsletter&keywords=2019){:target="_blank"}
+
+#### Complete Archive on Zenodo
+
+* [Collection of EICUG Newsletters on Zenodo](https://zenodo.org/communities/eicug/search?page=1&size=20&keywords=eicug-newsletter){:target="_blank"}
 
 {{ site.HR }}
 
@@ -41,3 +53,12 @@ name: media
 ## Video
 
 * ["Charting the Inner Structure of the Proton" on YouTube](https://www.youtube.com/embed/G-9I0buDi4s){:target="_blank"}
+
+---
+
+## Podcasts
+
+* <img
+  src="https://www.stronginteractions.org/images/logo.png"
+  width="15%"
+  height="15%">&nbsp;["Strong Interactions. Stories Straight from the Heart of Matter"](https://www.stronginteractions.org/){:target="_blank"}
