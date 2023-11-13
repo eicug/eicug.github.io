@@ -14,9 +14,9 @@ name: previous_leadership
 
 {{ site.HR }}
 
-#### Steering
+#### Steering Committee
 
-__January 2022 - August 2022__
+__January 2022 - August 2023__
 * Renee Fatemi (Univ. Kentucky, USA) (Chair)
 * Marco Radici (INFN-Pavia, Italy) (Vice Chair)
 * Yuri Kovchegov (OSU, USA) (Member at large)
@@ -113,8 +113,8 @@ __End 2016 - December 2018__
 __September 2021 - August 2023__
 * Douglas Higinbotham (JLab, USA) (Chair)
 * Adrian Dumitru (CUNY, USA)
-* Charlotte Van Hulse (Univ. Alcala', Madrid, Spain)
-* Cristina Tuve' (Univ. and INFN - Catania, Italy)
+* Charlotte Van Hulse (Univ. Alcalà, Madrid, Spain)
+* Cristina Tuvè (Univ. and INFN - Catania, Italy)
 * Bedangadas Mohanty (NISER, India)
 
 __September 2020 - August 2021__
@@ -174,6 +174,12 @@ __2016 - December 2019__
 
 ### Conference and Talks
 
+__August 2022 - August 2023__
+* Megan Elizabeth Connors (GSU, USA) (co-Chair)
+* Qinghua Xu (Shandong Univ., China) (co-Chair)
+* Andrea Signori (Univ. Torino and INFN-Torino, Italy)
+* Nicole d'Hose (IRFU, CEA, University Paris-Saclay)
+
 __September 2021 - August 2022__
 * Michela Chiosso (Univ. and INFN Torino, Italy) (Chair)
 * Alexey Prokudin (PSU Berks, USA) (Vice-Chair)
@@ -208,7 +214,7 @@ __​September 2018 - August 2019__
 
 ### Diversity, Equity and Inclusion
 
-__May 2022 - August 2022__
+__May 2022 - August 2023__
 * Taya Chetry (MSU, USA) (Chair)
 * Paul Gueye (MSU, USA)
 * Narbe Kalantarians (Virginia Union Univ., USA)
