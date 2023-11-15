@@ -92,7 +92,7 @@ The mission of the Artificial Intelligence (AI) Working Group is to develop and 
 
 The conveners are:
 *  Tanja Horn (CUA, USA)  <hornt@cua.edu>
-*  Cristiano Fanelli (William and Mary University, USA) <cfanelli@wm.edu>
+*  Cristiano Fanelli (William & Mary University, USA) <cfanelli@wm.edu>
 
 ---
 
@@ -125,8 +125,6 @@ If you have questions or need assistance with the EIC Collaborative Tools, pleas
 
 <span id="software"><br/></span>
 
----
-
 ### Software
 
 The Software Working Group (SWG) is open to all members of the EICUG to work on all aspects of EIC Software. The initial focus of the SWG is on physics and detector simulations and the support of the ongoing development of the science program and detectors for the EIC. The work plan of the SWG has involved from the [Expression of Interest for Software](https://eic.github.io/activities/eoi.html){:target="_blank"} that is based on input from the wider community.
@@ -141,5 +139,5 @@ The SWG communicates via its [mailing list](mailto:eicug-software@eicug.org){:ta
 * Markus Diefenthaler (Jefferson Lab)
 * Cristiano Fanelli (William & Mary)
 * Tanja Horn (Catholic University of America)
-* Torre Wenaus (BNL)
+* Torre Wenaus (BNL) -->
 
