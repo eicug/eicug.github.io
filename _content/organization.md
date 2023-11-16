@@ -201,10 +201,8 @@ the [Elections and Nominating Committee](#elections-and-nominating-committee).
 
 <span id="institutional-board"><br/></span>
 
----
-
 #### Institutional Board
 
 * Chair: Olga Evdokimov (University of Illinois Chicago, USA), term January 2021 - December 2022
-* Vice-Chair: Andrea Bressan (INFN Trieste), term January 2021 - December 2022
+* Vice-Chair: Andrea Bressan (INFN Trieste), term January 2021 - December 2022 -->
 
