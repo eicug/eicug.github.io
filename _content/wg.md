@@ -92,7 +92,7 @@ The mission of the Artificial Intelligence (AI) Working Group is to develop and 
 
 The conveners are:
 *  Tanja Horn (CUA, USA)  <hornt@cua.edu>
-*  Cristiano Fanelli (William & Mary University, USA) <cfanelli@wm.edu>
+*  Cristiano Fanelli (William & Mary, USA) <cfanelli@wm.edu>
 
 ---
 
@@ -120,24 +120,3 @@ The EICUG community currently supports and is using the following collaborative 
 * GitHub Pages (for software code management and documentation)
 
 If you have questions or need assistance with the EIC Collaborative Tools, please contact the coordinator: <potekhin@bnl.gov> .
-
-<!-- [Contacting the conveners](eic-det2-conveners-l@lists.bnl.gov){:target="_blank"} 
-
-<span id="software"><br/></span>
-
-### Software
-
-The Software Working Group (SWG) is open to all members of the EICUG to work on all aspects of EIC Software. The initial focus of the SWG is on physics and detector simulations and the support of the ongoing development of the science program and detectors for the EIC. The work plan of the SWG has involved from the [Expression of Interest for Software](https://eic.github.io/activities/eoi.html){:target="_blank"} that is based on input from the wider community.
-
-#### AI Working Group
-
-EIC has the unique opportunity to start incorporating AI from the very beginning and to systematically leverage on it during all phases of the project. AI will be an integral part of the EIC software and we will take advantage of intelligent decisions in all aspects of data processing from detector readout and control to analysis. To work in this direction, there is an AI Working Group (AI) as part of the SWG. The AIWG will serve as an [entry point to AI applications](https://eic.ai){:target="_blank"} and will organize workshops, tutorials, and Kaggle-like challenges. 
-
-#### Communication
-The SWG communicates via its [mailing list](mailto:eicug-software@eicug.org){:target="_blank"} and organizes regular [online and in-person meetings](https://indico.bnl.gov/category/301/){:target="_blank"} as well as tutorials that enable broad and active participation from within the EICUG as a whole. For questions about the Software Working Group, please contact the [conveners](mailto:eicug-software-conveners@eicug.org){:target="_blank"}: 
-* Andrea Bressan (University of Trieste and INFN)
-* Markus Diefenthaler (Jefferson Lab)
-* Cristiano Fanelli (William & Mary)
-* Tanja Horn (Catholic University of America)
-* Torre Wenaus (BNL) -->
-
