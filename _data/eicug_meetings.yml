@@ -1,3 +1,11 @@
+- name: 'Annual Meeting (Lehigh)'
+  url: ''
+  dates: 'July 23-27, 2024'
+
+- name: 'EIC Early Career Workshop (Lehigh)'
+  url: ''
+  dates: 'July 22, 2024'
+
 - name: 'Annual Meeting (University of Warsaw)'
   url: 'https://indico.cern.ch/event/1238718/'
   dates: 'July 25-31, 2023'
