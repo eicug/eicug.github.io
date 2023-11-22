@@ -238,6 +238,44 @@ __October 2020 - December 2021__
 * Sanghwa Park (SBU, USA)
 * Astrid Morreale 
 
+
+<span id="software_wg"><br/><br/></span>
+
+---
+
+### Software Working Group
+
+__Until June 2023__
+
+The __Software Working Group (SWG)__ worked on all aspects of the EIC software, with an initial focus on physics and detector simulations to support the ongoing development of the science program and detectors for the EIC. The work plan was based on the [Expression of Interest for Software](https://eic.github.io/activities/eoi.html){:target="_blank"}, which received input from the wider EIC community. 
+
+The SWG incorporated Artificial Intelligence (AI) from the very beginning in order to systematically leverage on it during all phases of the project and in all aspects of data processing, from detector readout and control to analysis. To this purpose, an __AI Working Group (AIWG)__ was created within the SWG, serving as an [entry point to AI applications](https://eic.ai/){:target="_blank"}, and organizing workshops, tutorials, and Kaggle-like challenges. 
+
+The SWG organized regular [online and in-person meetings](https://indico.bnl.gov/category/301/){:target="_blank"} and tutorials. 
+The SWG conveners:
+* Andrea Bressan (Univ. Trieste and INFN-Trieste, Italy)
+* Markus Diefenthaler (Jefferson Lab, USA)
+* Cristiano Fanelli (William & Mary, USA)
+* Tanja Horn (CUA, USA)
+* Torre Wenaus (BNL, USA)
+
+A __Computing Coordination Group (CCG)__ was also formed to coordinate resources among EIC computing efforts, keep records of required and available resources and their usage, and act as contact point for institutions intending to contribute. The structure was the following:
+* Liaisons for EIC computing resources at the host labs:
+  * Jerome Lauret (BNL, USA)
+  * Graham Heyes (Jefferson Lab, USA)
+* EICUG SWG/AIWG delegates:
+  * Andrea Bressan (Univ. Trieste and INFN-Trieste, Italy)
+  * Cristiano Fanelli (William & Mary, USA)
+* ePIC detector Computing/Software Working Group delegates:
+  * Sylvester Joosten (ANL, USA)
+  * Wouter Deconinck (Univ. Manitoba, Canada)
+
+Starting from FY 2024, the CCG has been replaced by the EIC Computing and Software Joint Institute (ECSJI) with contact persons:
+* Amber Boehnlein (Jefferson Lab, USA) - <mailto:amber@jlab.org>
+* Eric Lancon (BNL, USA) - <mailto:elancon@bnl.gov>
+
+
+
 ---
 
 
