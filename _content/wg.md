@@ -67,6 +67,21 @@ __Indico__ web pages for meetings can be found [here](https://indico.bnl.gov/cat
 The Detector-2/IR8 __Wiki__ page is [here](https://wiki.bnl.gov/eic-detector-2/){:target="_blank"}.
 
 
+<span id="software"><br/></span>
+
+---
+
+### Software
+
+{% assign software_wg='/content/previous_leadership.html#software_wg' | relative_url %}
+After entering the Phase 3 defined in the EICUG Charter, the <a href="{{ software_wg }}">former Software Working Group (SWG)</a> has been restructured and split into the [Monte Carlo Event Generators (MCEG) Working Group](#MC-event-generators) and the [Artificial Intelligence (AI) Working Group](#artificial-intelligence). 
+
+Similarly, the <a href="{{ software_wg }}">Computing Coordination Group (CCG)</a> has been revisited and its functionalities transferred to a new structure named EIC Computing and Software Joint Institute (ECSJI). The ECSJI is external to the EICUG and manages all requests of computing resources at host labs (Jefferson Lab and BNL) by any (inter)national group working on the EIC physics. 
+The contact points are:
+*  Amber Boehnlein (Jefferson Lab, USA) - <amber@jlab.org>
+*  Eric Lancon (BNL, USA) - <elancon@bnl.gov>
+
+
 <span id="MC-event-generators"><br/></span>
 
 ---
@@ -77,8 +92,8 @@ The Detector-2/IR8 __Wiki__ page is [here](https://wiki.bnl.gov/eic-detector-2/)
 The Monte Carlo Event Generators (MCEG) Working Group is charged to continue the development of MC event generators needed to realize the EIC science program. The MCEG will serve also as a platform for cross-collaboration between theory and experiment, ePIC Collaboration and Detector-2/IP8 Working Group. In particular, it will provide technical expertise and computing support to Detector-2/IP8. The MCEG will continue to coordinate with external theory and phenomenology, simulation and software groups, such as MCNet and the HEP Software Foundation, and will organize events to educate and assist the EIC community in utilizing these tools. 
 
 The conveners are:
-*  Frank Krauss (Durham University, UK)  <frank.krauss@durham.ac.uk>
-*  Ilkka Helenius (University of Jyväskylä, Finland) <ilkka.m.helenius@jyu.fi>
+*  Frank Krauss (Durham University, UK) - <frank.krauss@durham.ac.uk>
+*  Ilkka Helenius (University of Jyväskylä, Finland) - <ilkka.m.helenius@jyu.fi>
 
 
 <span id="artificial-intelligence"><br/></span>
@@ -91,19 +106,8 @@ The conveners are:
 The mission of the Artificial Intelligence (AI) Working Group is to develop and maintain connections to the data science community, and engaging with the rapidly evolving AI/ML  (Machine Learning) toolset that may impact the realization of the EIC science mission. The AI will organize events to educate and assist the EIC community in utilizing AI/ML techniques in the area of detector design and controls, simulations, data readout and analysis, and theory and phenomenology. The AI will also serve as an [entry point to AI applications](https://eic.ai){:target="_blank"}. 
 
 The conveners are:
-*  Tanja Horn (CUA, USA)  <hornt@cua.edu>
-*  Cristiano Fanelli (William & Mary, USA) <cfanelli@wm.edu>
-
----
-
-
-### EIC Computing and Software Joint Institute
-
-After entering the Phase 3 defined in the EICUG Charter, the structure of the former Computing Coordination Working Group has been revisited and its functionalities transferred to a new structure named EIC Computing and Software Joint Institute (ECSJI). The ECSJI is external to the EICUG and manages all requests of computing resources at host labs (Jefferson Lab and BNL) by any (inter)national group working on the EIC physics. 
-
-The contact points are:
-*  Amber Boehnlein (Jefferson Lab, USA) <amber@jlab.org>
-*  Eric Lancon (BNL, USA) <elancon@bnl.gov>
+*  Tanja Horn (CUA, USA) - <hornt@cua.edu>
+*  Cristiano Fanelli (William & Mary, USA) - <cfanelli@wm.edu>
 
 
 ---
