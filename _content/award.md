@@ -1,7 +1,7 @@
 ---
 title: "EICUG Award"
 layout: base5
-name: media
+name: award
 ---
 
 ## The   2024   EICUG   Award
