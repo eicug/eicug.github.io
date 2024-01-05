@@ -11,7 +11,7 @@ Dear EICUG members,
    We are pleased to announce the first Electron-Ion Collider Users Group Award (2024 EICUG Award). This award recognizes outstanding contributions, both from the experimental and theoretical disciplines, as well as contributions about instrumentation, computing or accelerator technologies, to the advance of the EIC project and physics case, documented in various forms. 
 
 Candidates will be grouped in __three categories__:
-   * __graduate students__
+   * __graduate students__, or holding a Ph.D. for no more than six months from the submission deadline, excluding career interruptions
    * __post-docs__, with a maximum of eight years of research experience following the Ph.D. on the submission deadline, excluding career interruptions
    * __junior faculties or lab-equivalent positions__, with a maximum of six years of research experience as faculty members on the submission deadline, excluding career interruptions; the Selection Committee will evaluate only the work done as faculty members.
 
