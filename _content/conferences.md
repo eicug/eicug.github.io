@@ -14,15 +14,31 @@ years:
 * TOC
 {:toc}
 {{ site.HR }}
+
+<span id="upcoming-conferences"><br/></span>
+
+### Upcoming Conferences
+<br/>
+
+[Calendar of interesting events shared between EICUG and ePIC Conferences and Talks Committees](https://eic-conferences.lbl.gov/home){:target="_blank"}
+
+
+<span id="speaker-nomination-procedure"><br/></span>
+
+{{ site.HR }}
+
+---
+
 ### Speaker Nomination Procedure
 
-* The conference and talks committee shall select suitable speakers taking into account expertise,
+* The Conferences and Talks Committee shall select suitable speakers taking into account expertise,
 EIC related contributions, willingness to talk about a subject, working group conveners’ recommendations,
 self-recommendations and recent EICUG presentations in a fair, transparent and unbiased manner.
-* In order to do so, a list with upcoming conferences and EIC talks will be made public on the EICUG pages. Physics and other working group conveners input on suitable speakers is requested. Also members are encouraged to nominate speakers (including themselves).
+* In order to do so, input from the community on suitable speakers is very welcome. Members are encouraged to nominate themselves too. 
+<!-- * In order to do so, a list with upcoming conferences and EIC talks will be made public on the EICUG pages. Physics and other working group conveners input on suitable speakers is requested. Also members are encouraged to nominate speakers (including themselves). -->
 * In order to fairly select speakers out of a large number of members, the addition of each person own expertise,
 willingness to talk and potential regional/travel constraints will be added to the user database.
-Each speaker should provide a link to their talks which will be available on the EICUG conference and talks pages.
+Each speaker should provide a link to their talks which will be available on the EICUG Conferences and Talks pages.
 
 <span id="talk-guidelines"><br/></span>
 
@@ -39,18 +55,18 @@ In order to make sure that talks given on behalf of the EIC User Group present t
 * Use the documents at the following links for the information on the EIC:
 [White Paper](https://inspirehep.net/literature/1206324){:target="_blank"}
 and [Yellow Report](https://inspirehep.net/literature/1851258){:target="_blank"}
-* For very important presentations, a rehearsal might be set up by either conference and talks committee, steering committee or upon request by the presenter.
+* For very important presentations, a rehearsal might be set up by either Conferences and Talks Committee, Steering Committee or upon request by the presenter.
 
-If you want to recommend a candidate for a particular presentation, including yourself, please contact the Conference and Talks committee at <eicug-talks@eicug.org>.
+If you want to recommend a candidate for a particular presentation, including yourself, please contact the Conference and Talks Committee at <eicug-talks@eicug.org>.
 
-<span id="upcoming-conferences"><br/></span>
+<!-- span id="upcoming-conferences"><br/></span -->
 
-{{ site.HR }}
+<!-- {{ site.HR }} -->
 
-### Upcoming Conferences
-<br/>
+<!-- ### Upcoming Conferences -->
+<!-- <br/ -->
 
-{% include conf_table.md status='upcoming' %}
+<!-- {% include conf_table.md status='upcoming' %} -->
 
 <span id="past-conferences"><br/></span>
 
