@@ -17,7 +17,7 @@ Candidates will be grouped in __three categories__:
 
 There are in total __three awards, one for each category__.
 
-A CV and 3 letters of recommendation should be submitted to the EICUG Steering Committee (<mailto:eicug-sc@eicug.org>) __by April 15th 2024__, by a single nominator (other than the candidate) who can be the author of one of the three recommendation letters.
+A CV and 3 letters of recommendation should be submitted to the EICUG Steering Committee (<mailto:eicug-sc@eicug.org>) __by April 30 2024__, by a single nominator (other than the candidate) who can be the author of one of the three recommendation letters.
 
 The winners of the 2024 EICUG Award will be officially announced at the 2024 EICUG annual meeting during the award ceremony. 
 The award includes a citation certificate and the financial support for the in-person participation to the meeting, where each winner will be invited to give a short presentation on his/her work. 
