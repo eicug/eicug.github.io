@@ -9,8 +9,8 @@ name: index
 ## Welcome
 
 This is the home page of the Electron-Ion Collider User Group *(EICUG)*.
-The EICUG consists of more than 1400 physicists from over
-[290 laboratories and universities from 38 countries around the world]({{ '/content/map.html' | relative_url }}){:target="_blank"}.
+The EICUG consists of more than 1500 physicists from over
+[290 laboratories and universities from 40 countries around the world]({{ '/content/map.html' | relative_url }}){:target="_blank"}.
 
 EICUG members are working together to realize a powerful new facility in the
 United States with the aim of studying the particles, gluons, which
@@ -29,7 +29,6 @@ how the matter we are all made of is bound together.
 <br/>
 
 The next EICUG annual meeting will be held on 2024, July 22 - 27, at Lehigh University (Bethlehem, Pennsylvania, USA). 
-
 The web site is in preparation. Further information will be given later in the First Circular. 
 
 <br/>
@@ -45,6 +44,7 @@ The web site is in preparation. Further information will be given later in the F
 
 ## EICUG News
 
+* [The EICUG 2024 Award]({{ '/content/award.html' | relative_url }})
 * [EICUG Newsletters]({{ '/content/newsletters.html' | relative_url }})
 * <img
   src="https://flagcdn.com/16x12/ua.png"
