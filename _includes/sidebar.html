@@ -107,7 +107,12 @@
     
     <li class="nav-item">
       <a class="nav-link" style="font-size: xx-small;" href="{{ '/' | relative_url }}">
-        Site built<br/>  {{ site.time }} 
+        <span data-feather="clock" style="color:coral"></span>
+        {{ site.time }} 
+      </a>
+      <a class="nav-link" style="font-size: xx-small;" href="{{ site.github.repository_url }}/edit/{{ site.github.branch }}/{{ page.relative_path }}">
+        <span data-feather="edit" style="color:coral"></span>
+        Suggest changes
       </a>
       <a class="nav-link" style="font-size: xx-small;" href="mailto:eicug-webmaster@eicug.org">
         <span data-feather="mail" style="color:coral"></span>
