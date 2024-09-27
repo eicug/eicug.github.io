@@ -57,8 +57,6 @@ its collection of documents from legacy platforms and locations, to the Zenodo p
 
 ### Technical Notes
 
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6514350.svg)](https://doi.org/10.5281/zenodo.6514350){:target="_blank"} __Strategy Document for Silicon Tracking and Vertexing for the EIC (April 2021)__
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6514523.svg)](https://doi.org/10.5281/zenodo.6514523){:target="_blank"} __Powering options for an EIC silicon tracker__
 * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6514605.svg)](https://doi.org/10.5281/zenodo.6514605){:target="_blank"} __Accelerator and beam conditions critical for physics and detector simulations for the Electron-Ion Collider__
 
 {% comment %}
