@@ -32,7 +32,8 @@ Long Range Plan for Nuclear Science](https://www.osti.gov/servlets/purl/1296778)
 Membership in the EICUG is open to all scientists actively engaged in Electron-Ion Collider related science, detector R&D, simulations and design. Information regarding joining the EICUG is available at the [dedicated page]({{ '/content/join.html' | relative_url }}) on this site. The EICUG maintains its
 [membership database](https://phonebook.sdcc.bnl.gov/eic/client){:target="_blank"},
 a.k.a. the "phone book".
-The EICUG organization is defined by the Phase III of the [EICUG Charter]({{ '/assets/documents/EICUG_Charter_vote.pdf' | relative_url }}){:target="_blank"}, which was approved in December of 2022.  The Steering Committee has completed the implementation and the transition to the new structure described in this document by June 1, 2023.  The previous Phase II Charter may be found here [EICUG II Charter]({{ '/assets/documents/EICUG-Charter-01122018.pdf' | relative_url }}){:target="_blank"}.
+The EICUG organization is defined by the Phase III of the EICUG Charter, <!-- [EICUG Charter]({{ '/assets/documents/EICUG_Charter_vote.pdf' | relative_url }}){:target="_blank"}, --> which was approved in December of 2022.  The Steering Committee has completed the implementation and the transition to the new structure described in this document by June 1, 2023.
+<!-- The previous Phase II Charter may be found here [EICUG II Charter]({{ '/assets/documents/EICUG-Charter-01122018.pdf' | relative_url }}){:target="_blank"}. -->
 
 
 <span id="governance"><br/><br/></span>
@@ -43,7 +44,7 @@ The EICUG organization is defined by the Phase III of the [EICUG Charter]({{ '/a
 
 The EICUG is governed by the Steering Committee [SC](#steering-committee).
 
-The SC is formed by twelve (12) members: the Chair line (Chair, Past Chair, Chair-elect), two regular members, two representatives from world regions outside the US, one early-career scientist, the Chair of the Diversity, Equity and Inclusion Committee [DE&I](#diversity-and-inclusion-committee), one representative of the ePIC Collaboration, two representatives selected by the host laboratories (Jefferson Lab, Brookhaven National Lab) / EIC Project. 
+The SC is formed by twelve (12) members: the Chair line (Chair, Past Chair, Chair-elect), <!-- two --> three regular members, two representatives from world regions outside the US, one early-career scientist, <!-- the Chair of the Diversity, Equity and Inclusion Committee [DE&I](#diversity-and-inclusion-committee),--> one representative of the ePIC Collaboration, two representatives selected by the host laboratories (Jefferson Lab, Brookhaven National Lab) / EIC Project. 
 
 The ePIC Collaboration and the host laboratories / EIC Project appoint their representatives for a one year term, and can reappoint or replace them at their discretion. 
 
@@ -78,27 +79,28 @@ to manage its meetings' agendas and minutes.
 ##### Current Leadership
 
 __Chair line__
-* Chair: Marco Radici (INFN - Pavia, Italy), term August 2023 - August 2024
-* Chair-elect: Or Hen (MIT, USA), term August 2023 - August 2024
-* Past Chair: Renee Fatemi (University of Kentucky, USA), term August 2023 - August 2024
+* Chair: Or Hen (MIT, USA), term August 2024 - August 2025
+* Chair-elect: Douglas Higinbotham (JLab, USA), term August 2024 - August 2025
+* Past Chair: Marco Radici (INFN - Pavia, Italy), term August 2024 - August 2025
 
 __Regular Members__
-* Tanja Horn (The Catholic University of America, USA), term January 2022 - August 2024
+* Charlotte Van Hulse (University of Alcalà, Madrid, Spain), term August 2024 - August 2027
 * Martha Constantinou (Temple University, USA), term August 2023 - August 2026
+* Alex Jentsch (Brookhaven National Laboratory, USA), term August 2023 - August 2026
 
 __International Representatives__
 * Marta Ruspa (University of Torino and INFN-Torino, Italy), term August 2023 - August 2025
-* Asmita Mukherjee (Indian Institute of Technology, Bombay), term January 2022 - August 2024
+* Carlos Muñoz Camacho (IJCLab, Orsay, France), term August 2024 - August 2027
 
 __Early Career Member__
-* Wenliang "Bill" Li (Stonybrook University CFNS, USA), term August 2023 - August 2025
+* Henry Klest (Argonne National Laboratory, USA), term August 2024 - August 2025
  
-__DE&I Committee Chair__
-* Alexander Jentsch (Brookhaven National Laboratory, USA), term August 2023 - August 2024
+<!-- __DE&I Committee Chair__
+* Alexander Jentsch (Brookhaven National Laboratory, USA), term August 2023 - August 2024 -->
 
 __Lab/EIC Project Representatives__
 * Rolf Ent (Thomas Jefferson National Accelerator Facility, USA)
-* Thomas Ullrich (Brookhaven National Laboratory, USA)
+* Peter Steinberg (Brookhaven National Laboratory, USA)
 
 __ePIC Representative__
 * John Lajoie (Iowa State University, USA)
@@ -114,14 +116,14 @@ Information about previous leadership teams of the Steering Committee can be fou
 
 #### Elections and Nominating Committee
 
-* __Chair__ : Cristina Tuvè (University of Catania and INFN-Catania, Italy), term September 2021 - August 2024
+* __Chair__ : Nicola Rubini (University of Bologna and INFN-Bologna, Italy), term January 2025 - August 2027
 * __Members__
-  * Adrian Dumitru (CUNY, USA), term September 2021 - August 2024
-  * Bedangadas Mohanty (NISER, India), term September 2021 - August 2024
+  * Adrian Dumitru (CUNY, USA), term January 2025 - August 2027
+  * Brian Page (BNL, USA), term January 2025 - August 2027
   * Marie Boer (Virginia Tech. University, USA), term August 2023 - August 2026
   * Guillaume Beuf (NCBJ, Poland), term August 2023 - August 2026
 
-<span id="diversity-and-inclusion-committee"><br/></span>
+<!-- <span id="diversity-and-inclusion-committee"><br/></span>
 
 ---
 
@@ -170,7 +172,7 @@ The guidelines for the speakers can be found in the
 * Barbara Jacak (LBNL & Univ. California at Berkeley, USA)
 * Marco Radici (INFN Pavia, Italy)
 * Sevil Salur (Univ. Rutgers, USA)
-* Daria Sokhan (Univ. Glasgow, UK)
+* Daria Sokhan (Univ. Glasgow, UK)  -->
 
 <span id="previous-leadership-teams"><br/></span>
 
