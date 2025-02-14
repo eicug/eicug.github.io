@@ -16,6 +16,21 @@ name: previous_leadership
 
 #### Steering Committee
 
+__August 2023 - August 2024__
+* Marco Radici (INFN-Pavia, Italy) (Chair)
+* Renee Fatemi (Univ. Kentucky, USA) (Past Chair)
+* Or Hen (MIT, USA) (Chair Elect)
+* Martha Constantinou (Temple University, USA) (Member at large)
+* Tanja Horn (CUA, USA) (Member at large)
+* Rolf Ent (JLab Representative)
+* Thomas Ullrich (BNL Representative)
+* Marta Ruspa (University of Piemonte Orientale and INFN-Torino) (International Representative)
+* Asmita Mukherjee (IITB, India) (International Representative)
+* Wenliang "Bill" Lee (Stonybrook Univ. CFNS, USA) (Early Career Member)
+* John Lajoie (Iowa State Univ., USA) (ePIC Representative)
+* Alex Jentsch (BNL, USA) (DE&I Chair)
+
+
 __January 2022 - August 2023__
 * Renee Fatemi (Univ. Kentucky, USA) (Chair)
 * Marco Radici (INFN-Pavia, Italy) (Vice Chair)
@@ -110,6 +125,13 @@ __End 2016 - December 2018__
 
 ### Elections and Nominating
 
+__August 2023 - August 2024__
+* Cristina Tuvè (Univ. and INFN - Catania, Italy) (Chair)
+* Adrian Dumitru (CUNY, USA)
+* Bedangadas Mohanty (NISER, India)
+* Marie Boer (Virginia Tech. Univ., USA)
+* Guillaume Beuf (NCBJ, Poland)
+
 __September 2021 - August 2023__
 * Douglas Higinbotham (JLab, USA) (Chair)
 * Adrian Dumitru (CUNY, USA)
@@ -174,6 +196,11 @@ __2016 - December 2019__
 
 ### Conference and Talks
 
+__August 2023 - August 2024__
+* Andrea Signori (Univ. Torino and INFN-Torino, Italy) (co-Chair)
+* Nicole d'Hose (IRFU, CEA, University Paris-Saclay) (co-Chair)
+* Shujie Li (LBNL, USA)
+
 __August 2022 - August 2023__
 * Megan Elizabeth Connors (GSU, USA) (co-Chair)
 * Qinghua Xu (Shandong Univ., China) (co-Chair)
@@ -213,6 +240,13 @@ __​September 2018 - August 2019__
 ---
 
 ### Diversity, Equity and Inclusion
+
+__August 2023 - August 2024__
+* Alex Jentsch (BNL, USA) (Chair)
+* Asli Tandogan (Univ. Connecticut, USA)
+* Fernando Flor (Yale Wright Lab, USA)
+* Kawita Lalwani (MNIT Jaipur, India)
+* Taushif Ahmed (Univ. Regensburg, Germany)
 
 __May 2022 - August 2023__
 * Taya Chetry (MSU, USA) (Chair)
