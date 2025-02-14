@@ -9,8 +9,8 @@ name: index
 ## Welcome
 
 This is the home page of the Electron-Ion Collider User Group *(EICUG)*.
-The EICUG consists of more than 1400 physicists from over
-[290 laboratories and universities from 38 countries around the world]({{ '/content/map.html' | relative_url }}){:target="_blank"}.
+The EICUG consists of more than 1500 physicists from over
+[300 laboratories and universities from 40 countries around the world]({{ '/content/map.html' | relative_url }}){:target="_blank"}.
 
 EICUG members are working together to realize a powerful new facility in the
 United States with the aim of studying the particles, gluons, which
@@ -18,8 +18,8 @@ bind all the observable matter in the world around us. This new facility, known 
 [Electron-Ion Collider](https://www.bnl.gov/eic/){:target="_blank"} (EIC),
 will collide intense beams of spin-polarized electrons with intense
 beams of both polarized nucleons and unpolarized nuclei
-from deuterium to uranium. Detector concepts are now being
-developed to detect the high-energy scattered particles as well
+from deuterium to uranium. The [ePIC Collaboration](https://www.epic-eic.org/){:target="_blank"} has been formed around the development of 
+a detector to capture the high-energy scattered particles as well
 as the low-energy debris as a means to definitively understand
 how the matter we are all made of is bound together.
 <br/>
@@ -28,7 +28,7 @@ how the matter we are all made of is bound together.
 
 <br/>
 
-The next EICUG annual meeting will be held on 2024, July 22 - 27, at Lehigh University (Bethlehem, Pennsylvania, USA). 
+The next EICUG annual meeting will be held on 2025, July 14 - 19, at Jefferson Lab (Newport News, Virginia, USA). 
 
 The web site is in preparation. Further information will be given later in the First Circular. 
 
