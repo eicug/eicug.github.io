@@ -79,21 +79,22 @@ to manage its meetings' agendas and minutes.
 ##### Current Leadership
 
 __Chair line__
-* Chair: Or Hen (MIT, USA), term August 2024 - August 2025
-* Chair-elect: Douglas Higinbotham (JLab, USA), term August 2024 - August 2025
-* Past Chair: Marco Radici (INFN - Pavia, Italy), term August 2024 - August 2025
+* Chair: Douglas Higinbotham (JLab, USA), term August 2025 - August 2026
+* Chair-elect: Anselm Vossen (Duke, USA), term August 2025 - August 2026
+* Past Chair: Or Hen (MIT, USA), term August 2025 - August 2026
 
 __Regular Members__
 * Charlotte Van Hulse (University of Alcalà, Madrid, Spain), term August 2024 - August 2027
 * Martha Constantinou (Temple University, USA), term August 2023 - August 2026
 * Alex Jentsch (Brookhaven National Laboratory, USA), term August 2023 - August 2026
+* Henry Klest (Argonne National Laboratory, USA), term August 2024 - August 2025
 
 __International Representatives__
 * Marta Ruspa (University of Torino and INFN-Torino, Italy), term August 2023 - August 2025
 * Carlos Muñoz Camacho (IJCLab, Orsay, France), term August 2024 - August 2027
 
 __Early Career Member__
-* Henry Klest (Argonne National Laboratory, USA), term August 2024 - August 2025
+* Derk Anderson (Thomas Jefferson Accelerator Facility, USA), term August 2024 - August 2025
  
 <!-- __DE&I Committee Chair__
 * Alexander Jentsch (Brookhaven National Laboratory, USA), term August 2023 - August 2024 -->
